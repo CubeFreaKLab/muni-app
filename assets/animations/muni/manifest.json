@@ -1,0 +1,226 @@
+{
+  "package": "muni-lottie-v2",
+  "source": "muni-lottie-v2",
+  "integration": "local native Lottie; SVG fallbacks retained",
+  "assets": [
+    {
+      "id": "world-1-portal",
+      "path": "assets/animations/muni/world-1-portal.json",
+      "source": "muni-lottie-v2/lottie/world-1-portal.json",
+      "sha256": "88116606f69e9230448e0c5a357cd35300bdb1c251b4a52e6b6f962babd3ec6d",
+      "bytes": 36456
+    },
+    {
+      "id": "world-1-casa",
+      "path": "assets/animations/muni/world-1-casa.json",
+      "source": "muni-lottie-v2/lottie/world-1-casa.json",
+      "sha256": "7da9cffa199cbd99513e9d167285e5330d24608202f02acb37a5a1645b84ddc4",
+      "bytes": 113304
+    },
+    {
+      "id": "world-1-agua",
+      "path": "assets/animations/muni/world-1-agua.json",
+      "source": "muni-lottie-v2/lottie/world-1-agua.json",
+      "sha256": "07c016c14ede20ca3d557a8dda5acb6696cf10f2ecedb843b6faa0729d187726",
+      "bytes": 120061
+    },
+    {
+      "id": "world-1-colinas",
+      "path": "assets/animations/muni/world-1-colinas.json",
+      "source": "muni-lottie-v2/lottie/world-1-colinas.json",
+      "sha256": "0d36ee4f9b8e589d4b7fc8b12fcc31cdcba654bc7ec4a92d803f08f41b4a3af0",
+      "bytes": 117815
+    },
+    {
+      "id": "world-2-arboles",
+      "path": "assets/animations/muni/world-2-arboles.json",
+      "source": "muni-lottie-v2/lottie/world-2-arboles.json",
+      "sha256": "6e30d5b3bb6b89aea4eb187ccc31c96d22fb0b62413c51fe231373df59974577",
+      "bytes": 17490
+    },
+    {
+      "id": "world-2-vecino",
+      "path": "assets/animations/muni/world-2-vecino.json",
+      "source": "muni-lottie-v2/lottie/world-2-vecino.json",
+      "sha256": "fddc884abffa41560ed55c10b81d9c47dbb2960d53c3cab4741396aa86d0c993",
+      "bytes": 182405
+    },
+    {
+      "id": "world-2-hojas",
+      "path": "assets/animations/muni/world-2-hojas.json",
+      "source": "muni-lottie-v2/lottie/world-2-hojas.json",
+      "sha256": "37c145b43665bb386b751d9bca85c3ebc77334e65258ebff31d9a30f1453f913",
+      "bytes": 68763
+    },
+    {
+      "id": "world-2-puente",
+      "path": "assets/animations/muni/world-2-puente.json",
+      "source": "muni-lottie-v2/lottie/world-2-puente.json",
+      "sha256": "3c8f35a3ff76091a453fef5394ec7aa7dc6a4f902c55d59420bcd6cdbabfd2be",
+      "bytes": 34197
+    },
+    {
+      "id": "world-3-hogar",
+      "path": "assets/animations/muni/world-3-hogar.json",
+      "source": "muni-lottie-v2/lottie/world-3-hogar.json",
+      "sha256": "286133a5b79c6c98dc31e05909766936a7740c64b1cec9dab3c2499a0fa59f59",
+      "bytes": 219207
+    },
+    {
+      "id": "world-3-rincon",
+      "path": "assets/animations/muni/world-3-rincon.json",
+      "source": "muni-lottie-v2/lottie/world-3-rincon.json",
+      "sha256": "77aa980ea22e418ff2eeca4818ac6429b8067f733ba7ba30c045bf6c1d8dd23b",
+      "bytes": 38508
+    },
+    {
+      "id": "world-3-mesa",
+      "path": "assets/animations/muni/world-3-mesa.json",
+      "source": "muni-lottie-v2/lottie/world-3-mesa.json",
+      "sha256": "993668f2f8a36b669754fb653ce605b20ac8bc8af560409c4e3a8ef24f8058ed",
+      "bytes": 23569
+    },
+    {
+      "id": "world-3-plazuela",
+      "path": "assets/animations/muni/world-3-plazuela.json",
+      "source": "muni-lottie-v2/lottie/world-3-plazuela.json",
+      "sha256": "804a8f893181c1703aaecb857e4927c83cc34e38597edb621ab789f8c68b9220",
+      "bytes": 326780
+    },
+    {
+      "id": "world-4-canasta",
+      "path": "assets/animations/muni/world-4-canasta.json",
+      "source": "muni-lottie-v2/lottie/world-4-canasta.json",
+      "sha256": "1fa1bceeb8162a13294dc8618fe6cdfdf2c80668f714d2c22f93c483a6451729",
+      "bytes": 84136
+    },
+    {
+      "id": "world-4-puesto-tazas",
+      "path": "assets/animations/muni/world-4-puesto-tazas.json",
+      "source": "muni-lottie-v2/lottie/world-4-puesto-tazas.json",
+      "sha256": "08026ffab0edf759f5539fca7f3630c5daa308416ed74774dd2056422f1ba004",
+      "bytes": 1451758
+    },
+    {
+      "id": "world-4-verduras",
+      "path": "assets/animations/muni/world-4-verduras.json",
+      "source": "muni-lottie-v2/lottie/world-4-verduras.json",
+      "sha256": "8c3a84ebb681759b456da5921ec0cb885fa8c9fdf9d1c8bd40b3f706ddc44360",
+      "bytes": 76692
+    },
+    {
+      "id": "world-4-puesto-flores",
+      "path": "assets/animations/muni/world-4-puesto-flores.json",
+      "source": "muni-lottie-v2/lottie/world-4-puesto-flores.json",
+      "sha256": "b79f8036739c24026db9b1c4c2a6e53c432e25ec00f0626daaec6dce130fea3b",
+      "bytes": 297661
+    },
+    {
+      "id": "world-5-flores",
+      "path": "assets/animations/muni/world-5-flores.json",
+      "source": "muni-lottie-v2/lottie/world-5-flores.json",
+      "sha256": "3d728e7862d5b955cb1eeb47045d2de382c33e4e73a5639926ede0bdf0c760b6",
+      "bytes": 663298
+    },
+    {
+      "id": "world-5-macetas",
+      "path": "assets/animations/muni/world-5-macetas.json",
+      "source": "muni-lottie-v2/lottie/world-5-macetas.json",
+      "sha256": "01ef6a0120fdfd80dc1dc2467344a97ff4a9f9f86aa5fe339177256d0347d11f",
+      "bytes": 51031
+    },
+    {
+      "id": "world-5-hojas",
+      "path": "assets/animations/muni/world-5-hojas.json",
+      "source": "muni-lottie-v2/lottie/world-5-hojas.json",
+      "sha256": "50239f7bce434e05a6be7abf58f7d3f3eed0137df2f57490dcdf21a786197a01",
+      "bytes": 325371
+    },
+    {
+      "id": "world-5-arco",
+      "path": "assets/animations/muni/world-5-arco.json",
+      "source": "muni-lottie-v2/lottie/world-5-arco.json",
+      "sha256": "91a01ea0b053a34b4f60be41562d6c0d5256e2ef1d6310e114cd21bbffeec68e",
+      "bytes": 190243
+    },
+    {
+      "id": "world-6-banco",
+      "path": "assets/animations/muni/world-6-banco.json",
+      "source": "muni-lottie-v2/lottie/world-6-banco.json",
+      "sha256": "74391626949d0d034dba5876f700743350ce0a42cfb0ad967aaf8c03e41ac68a",
+      "bytes": 60204
+    },
+    {
+      "id": "world-6-encuentro",
+      "path": "assets/animations/muni/world-6-encuentro.json",
+      "source": "muni-lottie-v2/lottie/world-6-encuentro.json",
+      "sha256": "d94256480aa2695768f9bf6b5d6356cd7b30fce1b5a5115e178a4da5cb43471c",
+      "bytes": 1284443
+    },
+    {
+      "id": "world-6-mesa",
+      "path": "assets/animations/muni/world-6-mesa.json",
+      "source": "muni-lottie-v2/lottie/world-6-mesa.json",
+      "sha256": "a11ecd0edd86c67819c1421a58b93593bf57412d6eb4469c152dd230afa4b425",
+      "bytes": 65932
+    },
+    {
+      "id": "world-6-meta",
+      "path": "assets/animations/muni/world-6-meta.json",
+      "source": "muni-lottie-v2/lottie/world-6-meta.json",
+      "sha256": "38fcf5a47dcbcbb17c62e50d696a71cbe8df1cf5efee5b6a26857e71c8e79675",
+      "bytes": 230688
+    },
+    {
+      "id": "libro-repaso",
+      "path": "assets/animations/muni/libro-repaso.json",
+      "source": "muni-lottie-v2/lottie/libro-repaso.json",
+      "sha256": "3f63faf4088423b2036ab0aa02eecacba51d7eb58c56f9c6d689a58e6bff0ea4",
+      "bytes": 43509
+    },
+    {
+      "id": "coleccion-vacia",
+      "path": "assets/animations/muni/coleccion-vacia.json",
+      "source": "muni-lottie-v2/lottie/coleccion-vacia.json",
+      "sha256": "f548d6cea29c07b7da50ed56e299cfeaed7052596142ba814b60d87ac0651207",
+      "bytes": 57824
+    },
+    {
+      "id": "vocab-libro",
+      "path": "assets/animations/muni/vocab-libro.json",
+      "source": "muni-lottie-v2/lottie/vocab-libro.json",
+      "sha256": "1a904467722c689d6f3b38a9612988a7878e5b6c3d69b32498751610e78b9aaa",
+      "bytes": 82747
+    },
+    {
+      "id": "confeti-nivel-completado",
+      "path": "assets/animations/muni/confeti-nivel-completado.json",
+      "source": "muni-lottie-v2/lottie/confeti-nivel-completado.json",
+      "sha256": "3120476703852efebcf44df3e4891af79d63878dafdeac07508d1f73ac196220",
+      "bytes": 314026
+    },
+    {
+      "id": "muni-bienvenida",
+      "path": "assets/animations/muni/muni-bienvenida.json",
+      "source": "muni-lottie-v2/anteriores/muni-bienvenida.json",
+      "sha256": "efbb58a549b751a3ecdf4745f2833c8ba65662db101e1a3c6e31cc61275fbc2f",
+      "bytes": 99978
+    },
+    {
+      "id": "brote-viento",
+      "path": "assets/animations/muni/brote-viento.json",
+      "source": "muni-lottie-v2/anteriores/brote-viento.json",
+      "sha256": "01a7962bae011dd07350115490fffafd7ba0f392183690a98034527d35f735bf",
+      "bytes": 44491
+    }
+  ],
+  "webRuntime": {
+    "path": "public/muni-lottie-player.wasm",
+    "package": "@lottiefiles/dotlottie-web",
+    "version": "0.44.0",
+    "sha256": "48e5f7634054b2c1b23ce9f2a80e82ac205134cdada920154ecc7aa7d80078a2",
+    "license": "public/muni-lottie-player.LICENSE",
+    "usage": "Auxiliary web preview only; native platforms use lottie-react-native."
+  },
+  "sourcePathFormat": "Rutas relativas al paquete de origen; archivos integrados en localPath o path."
+}

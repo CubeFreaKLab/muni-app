@@ -1,0 +1,2739 @@
+[
+  {
+    "id": "fondo-bienvenida",
+    "label": "fondo bienvenida",
+    "slots": [
+      "landscape"
+    ],
+    "category": "Interfaz y componentes",
+    "svg": "svg/fondo-bienvenida.svg",
+    "png": "png-transparentes/fondo-bienvenida.png",
+    "original": "png-originales/fondo-bienvenida.png",
+    "references": [
+      "referencias/01-entrada-iphone.png"
+    ],
+    "description": "Edit target: the SECOND phone's welcome illustration. Extract ONLY the complete landscape behind the girl: two softly rounded green hills, a small cream house with red roof on the right, a pale cream winding path widening toward foreground, two simple green succulent plants near bottom left and right. REMOVE the girl entirely and naturally reconstruct the landscape beneath her. No sky rectangle, no lettering or logos, no buttons. Use a landscape 4:3 canvas with generous empty central space for the already-existing character to be layered later. The path ends gently at bottom edge of the composition. Preserve the minimalist illustration arrangement.",
+    "viewBox": "50 192 1351 822",
+    "aspectRatio": 1.6431924882629108,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      852
+    ],
+    "svgBytes": 23255,
+    "sha256": "f28c5c49d5ebe7f19b09d33423391c2c4de0684094e219285528bf40c088a44d",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "world-1-portal",
+    "label": "world 1 portal",
+    "slots": [
+      "world-1-portal",
+      "mission-1"
+    ],
+    "category": "Camino",
+    "svg": "svg/world-1-portal.svg",
+    "png": "png-transparentes/world-1-portal.png",
+    "original": "png-originales/world-1-portal.png",
+    "references": [
+      "referencias/camino-01-valle.png"
+    ],
+    "description": "The wooden entrance fence at upper left. Correct its construction: two rounded vertical brown posts joined by exactly two straight horizontal brown rails. A small green bush at each outer end. No detached post, no floating or crooked rails. Only the fence and bushes, no trail.",
+    "viewBox": "189 311 1162 403",
+    "aspectRatio": 2.880658436213992,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      486
+    ],
+    "svgBytes": 6889,
+    "sha256": "de3450017af747f4b3e967ea8af60fda172e9e71c415bf1d07b38130b50ac299",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "world-1-casa",
+    "label": "world 1 casa",
+    "slots": [
+      "world-1-casa",
+      "mission-2"
+    ],
+    "category": "Camino",
+    "svg": "svg/world-1-casa.svg",
+    "png": "png-transparentes/world-1-casa.png",
+    "original": "png-originales/world-1-casa.png",
+    "references": [
+      "referencias/camino-01-valle.png"
+    ],
+    "description": "Only the caramel small house on the right with rounded terracotta roof, chimney, arched brown door, square brown window and two small bushes.",
+    "viewBox": "327 220 886 572",
+    "aspectRatio": 1.5486725663716814,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      904
+    ],
+    "svgBytes": 30619,
+    "sha256": "0e1b87cd2ee163e51f41b4775b83724dfe5ae177570b1fc66189f04f01000aac",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "world-1-agua",
+    "label": "world 1 agua",
+    "slots": [
+      "world-1-agua",
+      "mission-3"
+    ],
+    "category": "Camino",
+    "svg": "svg/world-1-agua.svg",
+    "png": "png-transparentes/world-1-agua.png",
+    "original": "png-originales/world-1-agua.png",
+    "references": [
+      "referencias/camino-01-valle.png"
+    ],
+    "description": "Only the small water vignette: caramel clay jug on the left edge of a teal oval pond and one two-leaf sprout behind. Flat colors; no reflections or texture.",
+    "viewBox": "330 307 850 452",
+    "aspectRatio": 1.881720430107527,
+    "contentBoundsPng": [
+      1,
+      0,
+      1399,
+      743
+    ],
+    "svgBytes": 12557,
+    "sha256": "75ac0080d6ea4642761d2e97f4cbeef130c9f0fe9a03c50e848e8f94997a391b",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "world-1-colinas",
+    "label": "world 1 colinas",
+    "slots": [
+      "world-1-colinas",
+      "mission-4"
+    ],
+    "category": "Camino",
+    "svg": "svg/world-1-colinas.svg",
+    "png": "png-transparentes/world-1-colinas.png",
+    "original": "png-originales/world-1-colinas.png",
+    "references": [
+      "referencias/camino-01-valle.png"
+    ],
+    "description": "Only the bottom vignette of two green rounded hills, round golden sun and small cute tan rabbit/vizcacha. Match the animal silhouette faithfully; no trail.",
+    "viewBox": "156 278 960 690",
+    "aspectRatio": 1.3916500994035785,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      1006
+    ],
+    "svgBytes": 13851,
+    "sha256": "aff249805f180994122ff369f67e21a3d6497ed3f48847e99aaec358d8ab3966",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "world-2-arboles",
+    "label": "world 2 arboles",
+    "slots": [
+      "world-2-arboles",
+      "mission-5"
+    ],
+    "category": "Camino",
+    "svg": "svg/world-2-arboles.svg",
+    "png": "png-transparentes/world-2-arboles.png",
+    "original": "png-originales/world-2-arboles.png",
+    "references": [
+      "referencias/camino-02-bosque.png"
+    ],
+    "description": "Only the top vignette of two cocoa paw prints and one small green two-leaf sprout, diagonally arranged.",
+    "viewBox": "344 346 571 558",
+    "aspectRatio": 1.023391812865497,
+    "contentBoundsPng": [
+      1,
+      0,
+      1398,
+      1368
+    ],
+    "svgBytes": 4709,
+    "sha256": "686abbb3e42176697cb6a275ecac156297d38ee85f2f2dd45e8165ed0046a0cc",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false,
+    "note": "El ID existente se conserva; la viñeta muestra huellas y un brote, como en la referencia del bosque."
+  },
+  {
+    "id": "world-2-vecino",
+    "label": "world 2 vecino",
+    "slots": [
+      "world-2-vecino",
+      "mission-6"
+    ],
+    "category": "Camino",
+    "svg": "svg/world-2-vecino.svg",
+    "png": "png-transparentes/world-2-vecino.png",
+    "original": "png-originales/world-2-vecino.png",
+    "references": [
+      "referencias/camino-02-bosque.png"
+    ],
+    "description": "Only the vignette of a round puffy green tree with brown trunk, small bush and the tiny cream-and-brown guinea pig beside it.",
+    "viewBox": "261 235 732 759",
+    "aspectRatio": 0.9642857142857143,
+    "contentBoundsPng": [
+      1,
+      1,
+      1348,
+      1399
+    ],
+    "svgBytes": 16327,
+    "sha256": "2f9b9611160fd5c1148bdf4661afcd33f9b7cf3c51366d1de7e95913d2f8e75b",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "world-2-hojas",
+    "label": "world 2 hojas",
+    "slots": [
+      "world-2-hojas",
+      "mission-7"
+    ],
+    "category": "Camino",
+    "svg": "svg/world-2-hojas.svg",
+    "png": "png-transparentes/world-2-hojas.png",
+    "original": "png-originales/world-2-hojas.png",
+    "references": [
+      "referencias/camino-02-bosque.png"
+    ],
+    "description": "Only the three-leaf stylized sapling: one green upright leaf, one terracotta leaf left, one golden leaf right, a rounded brown short trunk. Each leaf one flat fill plus one midrib.",
+    "viewBox": "242 282 775 679",
+    "aspectRatio": 1.1409942950285248,
+    "contentBoundsPng": [
+      0,
+      1,
+      1400,
+      1225
+    ],
+    "svgBytes": 9160,
+    "sha256": "0558c620e2ca173daaf59e1e5f0b4aac98045c30322c3145101f8d305d169bb7",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "world-2-puente",
+    "label": "world 2 puente",
+    "slots": [
+      "world-2-puente",
+      "mission-8"
+    ],
+    "category": "Camino",
+    "svg": "svg/world-2-puente.svg",
+    "png": "png-transparentes/world-2-puente.png",
+    "original": "png-originales/world-2-puente.png",
+    "references": [
+      "referencias/camino-02-bosque.png"
+    ],
+    "description": "Only the small arched wooden bridge at the bottom, two upright posts connected by three gently curved continuous rails/planks and one bush at each end. Preserve the very simple logical construction.",
+    "viewBox": "0 0 1536 1024",
+    "aspectRatio": 1.5005359056806002,
+    "contentBoundsPng": [
+      167,
+      323,
+      1066,
+      297
+    ],
+    "svgBytes": 6072,
+    "sha256": "ff6fafc8c54804c6f40c8c686ce90fc581e16281e57bc05037446ab29307a652",
+    "vectorizer": "Vector Magic Desktop Edition",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false,
+    "note": "Corregido con Vector Magic para conservar los tres travesaños. El viewBox contiene margen: ajustar el encuadre al integrarlo, sin deformar."
+  },
+  {
+    "id": "world-3-hogar",
+    "label": "world 3 hogar",
+    "slots": [
+      "world-3-hogar",
+      "mission-9"
+    ],
+    "category": "Camino",
+    "svg": "svg/world-3-hogar.svg",
+    "png": "png-transparentes/world-3-hogar.png",
+    "original": "png-originales/world-3-hogar.png",
+    "references": [
+      "referencias/camino-03-pueblo.png"
+    ],
+    "description": "Only the upper-left cream house with red rounded triangular roof, brown chimney, arched brown door with tiny caramel knob and green bushes.",
+    "viewBox": "169 263 905 708",
+    "aspectRatio": 1.278538812785388,
+    "contentBoundsPng": [
+      0,
+      0,
+      1399,
+      1095
+    ],
+    "svgBytes": 54414,
+    "sha256": "2587af4f6cfa7f68ef6b95a2896a6ff948a0bad58a635df0e2015e4076e91931",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "world-3-rincon",
+    "label": "world 3 rincon",
+    "slots": [
+      "world-3-rincon",
+      "mission-10"
+    ],
+    "category": "Camino",
+    "svg": "svg/world-3-rincon.svg",
+    "png": "png-transparentes/world-3-rincon.png",
+    "original": "png-originales/world-3-rincon.png",
+    "references": [
+      "referencias/camino-03-pueblo.png"
+    ],
+    "description": "Only the brown wooden chair with a closed teal book on its seat and green plant beside. Keep four plausible legs, simple geometry, no realistic wood texture.",
+    "viewBox": "264 245 815 769",
+    "aspectRatio": 1.0598031794095382,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      1321
+    ],
+    "svgBytes": 14801,
+    "sha256": "85d5315a4103a06a04915fbe9362b726cd16bfbc897ebeb0165e30643b8001fa",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "world-3-mesa",
+    "label": "world 3 mesa",
+    "slots": [
+      "world-3-mesa",
+      "mission-11"
+    ],
+    "category": "Camino",
+    "svg": "svg/world-3-mesa.svg",
+    "png": "png-transparentes/world-3-mesa.png",
+    "original": "png-originales/world-3-mesa.png",
+    "references": [
+      "referencias/camino-03-pueblo.png"
+    ],
+    "description": "Only the round brown cafe table with two cups (terracotta and teal) and two small golden stools, like the middle-left vignette.",
+    "viewBox": "262 214 1009 610",
+    "aspectRatio": 1.6548463356973995,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      846
+    ],
+    "svgBytes": 17593,
+    "sha256": "6e01e96d9a3e6fef4f2fcf9675678fdeb381d9173be23c8a904ba98deb5b3d45",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "world-3-plazuela",
+    "label": "world 3 plazuela",
+    "slots": [
+      "world-3-plazuela",
+      "mission-12"
+    ],
+    "category": "Camino",
+    "svg": "svg/world-3-plazuela.svg",
+    "png": "png-transparentes/world-3-plazuela.png",
+    "original": "png-originales/world-3-plazuela.png",
+    "references": [
+      "referencias/camino-03-pueblo.png"
+    ],
+    "description": "Only the golden low circular brick planter with two terracotta flowers, beside a small red arched-top garden gate between two brown posts and small green shrub.",
+    "viewBox": "186 258 1173 514",
+    "aspectRatio": 2.2838499184339316,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      613
+    ],
+    "svgBytes": 26989,
+    "sha256": "605ab54d00c419b7186ca046b12c7e1a6d94d962c363ed85926b41657e0e7dc8",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "world-4-canasta",
+    "label": "world 4 canasta",
+    "slots": [
+      "world-4-canasta",
+      "mission-13"
+    ],
+    "category": "Camino",
+    "svg": "svg/world-4-canasta.svg",
+    "png": "png-transparentes/world-4-canasta.png",
+    "original": "png-originales/world-4-canasta.png",
+    "references": [
+      "referencias/camino-04-mercado.png"
+    ],
+    "description": "Only the top-left pale golden basket with three round red-orange fruits and green leaves.",
+    "viewBox": "203 247 852 748",
+    "aspectRatio": 1.1391375101708707,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      1229
+    ],
+    "svgBytes": 17675,
+    "sha256": "015a6a013816ed605595b70f231d39f41c944111fd4b0f706a4a4bbd07aead7f",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "world-4-puesto-tazas",
+    "label": "world 4 puesto tazas",
+    "slots": [
+      "world-4-puesto-tazas",
+      "mission-14"
+    ],
+    "category": "Camino",
+    "svg": "svg/world-4-puesto-tazas.svg",
+    "png": "png-transparentes/world-4-puesto-tazas.png",
+    "original": "png-originales/world-4-puesto-tazas.png",
+    "references": [
+      "referencias/camino-04-mercado.png"
+    ],
+    "description": "Only the striped cream-and-terracotta awning market stand, brown thin posts, caramel counter and three cups in red, teal and brown. Keep full stand, no lettering.",
+    "viewBox": "167 257 924 744",
+    "aspectRatio": 1.2422360248447204,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      1127
+    ],
+    "svgBytes": 62352,
+    "sha256": "ffd75f0746b74332890969148e43c407d09c0119c9c5c07262a6ae2a070fbda6",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "world-4-verduras",
+    "label": "world 4 verduras",
+    "slots": [
+      "world-4-verduras",
+      "mission-15"
+    ],
+    "category": "Camino",
+    "svg": "svg/world-4-verduras.svg",
+    "png": "png-transparentes/world-4-verduras.png",
+    "original": "png-originales/world-4-verduras.png",
+    "references": [
+      "referencias/camino-04-mercado.png"
+    ],
+    "description": "Only two small golden wooden produce crates, one containing simple green leafy vegetables, the other an orange-red fruit and a golden pear with leaves.",
+    "viewBox": "158 362 942 505",
+    "aspectRatio": 1.8641810918774966,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      751
+    ],
+    "svgBytes": 14129,
+    "sha256": "9348f79a58cbcc12c40605bf276e3ae439bd51fbde696770daf5fe5b7cf87ccf",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "world-4-puesto-flores",
+    "label": "world 4 puesto flores",
+    "slots": [
+      "world-4-puesto-flores",
+      "mission-16"
+    ],
+    "category": "Camino",
+    "svg": "svg/world-4-puesto-flores.svg",
+    "png": "png-transparentes/world-4-puesto-flores.png",
+    "original": "png-originales/world-4-puesto-flores.png",
+    "references": [
+      "referencias/camino-04-mercado.png"
+    ],
+    "description": "Only the small flower stall, flat red awning, brown posts and counter, teal pot with green plant and golden pot with one red flower, small shrub at right.",
+    "viewBox": "222 279 872 712",
+    "aspectRatio": 1.2248468941382327,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      1143
+    ],
+    "svgBytes": 24371,
+    "sha256": "2c261913dc760a441c473dab227d87893a5c69c7f94ad4d9dd6def8f6f736cd6",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "world-5-flores",
+    "label": "world 5 flores",
+    "slots": [
+      "world-5-flores",
+      "mission-17"
+    ],
+    "category": "Camino",
+    "svg": "svg/world-5-flores.svg",
+    "png": "png-transparentes/world-5-flores.png",
+    "original": "png-originales/world-5-flores.png",
+    "references": [
+      "referencias/camino-05-jardin.png"
+    ],
+    "description": "Only the upper-left pair of flowers: one larger terracotta five-petal flower and one smaller teal five-petal flower, cream round centers, green stems with two leaves each.",
+    "viewBox": "244 254 751 734",
+    "aspectRatio": 1.023391812865497,
+    "contentBoundsPng": [
+      1,
+      1,
+      1399,
+      1367
+    ],
+    "svgBytes": 26921,
+    "sha256": "c6ca406e24dd74ee24590b3611a4a0e14d28c18d5fffc4b6a145f5db2fc3cb38",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "world-5-macetas",
+    "label": "world 5 macetas",
+    "slots": [
+      "world-5-macetas",
+      "mission-18"
+    ],
+    "category": "Camino",
+    "svg": "svg/world-5-macetas.svg",
+    "png": "png-transparentes/world-5-macetas.png",
+    "original": "png-originales/world-5-macetas.png",
+    "references": [
+      "referencias/camino-05-jardin.png"
+    ],
+    "description": "Only the two potted green plants: large terracotta pot with three broad plump leaves, small golden pot with three leaves beside.",
+    "viewBox": "388 189 765 669",
+    "aspectRatio": 1.1437908496732025,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      1224
+    ],
+    "svgBytes": 12549,
+    "sha256": "f1af227abb58bf76e0455bb51e593af5d3f230cd55efd683024fac4bdb4934c8",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "world-5-hojas",
+    "label": "world 5 hojas",
+    "slots": [
+      "world-5-hojas",
+      "mission-19"
+    ],
+    "category": "Camino",
+    "svg": "svg/world-5-hojas.svg",
+    "png": "png-transparentes/world-5-hojas.png",
+    "original": "png-originales/world-5-hojas.png",
+    "references": [
+      "referencias/camino-05-jardin.png"
+    ],
+    "description": "Only the lower-left group of three decorative leaves (green lobed, teal oval, golden compound) and small terracotta butterfly above. Very simple flat shapes.",
+    "viewBox": "317 137 905 744",
+    "aspectRatio": 1.2163336229365769,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      1151
+    ],
+    "svgBytes": 21697,
+    "sha256": "52a5e76ef545e08d597b15bb6a74b118f1d0f896d450e59c7e519708ce90aa30",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "world-5-arco",
+    "label": "world 5 arco",
+    "slots": [
+      "world-5-arco",
+      "mission-20"
+    ],
+    "category": "Camino",
+    "svg": "svg/world-5-arco.svg",
+    "png": "png-transparentes/world-5-arco.png",
+    "original": "png-originales/world-5-arco.png",
+    "references": [
+      "referencias/camino-05-jardin.png"
+    ],
+    "description": "Only the orange/terracotta rounded garden arch decorated with a few flat green leaves at top-right and around its feet. Empty center, no path.",
+    "viewBox": "172 227 914 763",
+    "aspectRatio": 1.1976047904191616,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      1169
+    ],
+    "svgBytes": 19029,
+    "sha256": "7e74b71a770544eaf32b303a35a197c4063667a0a38af67748f0c218eff027ae",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "world-6-banco",
+    "label": "world 6 banco",
+    "slots": [
+      "world-6-banco",
+      "mission-21"
+    ],
+    "category": "Camino",
+    "svg": "svg/world-6-banco.svg",
+    "png": "png-transparentes/world-6-banco.png",
+    "original": "png-originales/world-6-banco.png",
+    "references": [
+      "referencias/camino-06-plaza.png"
+    ],
+    "description": "Only the upper-left round green tree and terracotta three-slat bench with brown legs, small green bush at tree base.",
+    "viewBox": "291 150 796 848",
+    "aspectRatio": 0.9385714285714286,
+    "contentBoundsPng": [
+      0,
+      1,
+      1314,
+      1398
+    ],
+    "svgBytes": 12727,
+    "sha256": "c0edf9b4156784bab5e047dc0d557287ad14cb10565939bc61395c55d9f834f8",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "world-6-encuentro",
+    "label": "world 6 encuentro",
+    "slots": [
+      "world-6-encuentro",
+      "mission-22"
+    ],
+    "category": "Camino",
+    "svg": "svg/world-6-encuentro.svg",
+    "png": "png-transparentes/world-6-encuentro.png",
+    "original": "png-originales/world-6-encuentro.png",
+    "references": [
+      "referencias/camino-06-plaza.png"
+    ],
+    "description": "Only the pair of children greeting: Muni with black bob, red beret, teal sweater, golden trousers and cream satchel, next to boy with black rounded hair, cream shirt and teal shorts. Both waving. Faithfully keep the reference design, no extra children.",
+    "viewBox": "273 127 996 765",
+    "aspectRatio": 1.302325581395349,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      1075
+    ],
+    "svgBytes": 240457,
+    "sha256": "f7059d2b97071587a33e6c371419e149e731354ec8f005e45222f5ef36f5d284",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "world-6-mesa",
+    "label": "world 6 mesa",
+    "slots": [
+      "world-6-mesa",
+      "mission-23"
+    ],
+    "category": "Camino",
+    "svg": "svg/world-6-mesa.svg",
+    "png": "png-transparentes/world-6-mesa.png",
+    "original": "png-originales/world-6-mesa.png",
+    "references": [
+      "referencias/camino-06-plaza.png"
+    ],
+    "description": "Only the round terracotta table with brown central support and three small golden stools, small green plants either side.",
+    "viewBox": "268 254 980 537",
+    "aspectRatio": 1.8252933507170794,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      767
+    ],
+    "svgBytes": 25341,
+    "sha256": "2c0b957fc2a43a9ee73779354e10011029e3f9dfa585136700d3d00b0036089e",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "world-6-meta",
+    "label": "world 6 meta",
+    "slots": [
+      "world-6-meta",
+      "mission-24"
+    ],
+    "category": "Camino",
+    "svg": "svg/world-6-meta.svg",
+    "png": "png-transparentes/world-6-meta.png",
+    "original": "png-originales/world-6-meta.png",
+    "references": [
+      "referencias/camino-06-plaza.png"
+    ],
+    "description": "Only the final terracotta semicircular arch with one golden triangular flag on a brown short pole on top and green plants at the feet. Empty center, no trail.",
+    "viewBox": "121 203 1019 848",
+    "aspectRatio": 1.201716738197425,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      1165
+    ],
+    "svgBytes": 41290,
+    "sha256": "5aec821358f46c98e681fc84aa4f98d9af9b5667393cc2aff80da52e4d5ede48",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "vocab-casa",
+    "label": "casa",
+    "slots": [
+      "wasi"
+    ],
+    "category": "Vocabulario",
+    "svg": "svg/vocab-casa.svg",
+    "png": "png-transparentes/vocab-casa.png",
+    "original": "png-originales/vocab-casa.png",
+    "references": [
+      "referencias/04-mision-y-respuestas.png"
+    ],
+    "description": "Only the small cream house with terracotta angular roof and brown arched door from the answer choices. House alone, remove surrounding plants.",
+    "viewBox": "378 246 780 545",
+    "aspectRatio": 1.4314928425357873,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      978
+    ],
+    "svgBytes": 35966,
+    "sha256": "1bc0540f0f334bfcc0469f9181b4178fde788b23e2e8d1ec8b784028b501eb53",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "vocab-sol",
+    "label": "sol",
+    "slots": [
+      "inti"
+    ],
+    "category": "Vocabulario",
+    "svg": "svg/vocab-sol.svg",
+    "png": "png-transparentes/vocab-sol.png",
+    "original": "png-originales/vocab-sol.png",
+    "references": [
+      "referencias/04-mision-y-respuestas.png"
+    ],
+    "description": "THE ONLY SUBJECT IS ONE SMALL SUN ICON. Locate the SECOND phone, the center answer choice card with the golden sun. Deliver ONLY THAT GOLDEN SUN: one flat golden circle and exactly eight short rounded rays. Nothing else anywhere. No girl, no house, no landscape, no plants, no road, no cards, no typography. ONE SUN ICON CENTERED ON WHITE. Preserve the small icon's rounded shapes at large size.",
+    "viewBox": "200 200 857 831",
+    "aspectRatio": 1.0309278350515463,
+    "contentBoundsPng": [
+      1,
+      0,
+      1399,
+      1357
+    ],
+    "svgBytes": 4823,
+    "sha256": "03b044095f86c71456041360935637fec0d4a4781a548290572987ad6d016f77",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "vocab-agua",
+    "label": "agua",
+    "slots": [
+      "yaku"
+    ],
+    "category": "Vocabulario",
+    "svg": "svg/vocab-agua.svg",
+    "png": "png-transparentes/vocab-agua.png",
+    "original": "png-originales/vocab-agua.png",
+    "references": [
+      "referencias/07-repaso-coleccion-perfil.png"
+    ],
+    "description": "Only the single teal water droplet from the vocabulary list. Simple plump teardrop, completely solid teal.",
+    "viewBox": "337 205 584 848",
+    "aspectRatio": 0.6885714285714286,
+    "contentBoundsPng": [
+      0,
+      0,
+      964,
+      1400
+    ],
+    "svgBytes": 794,
+    "sha256": "ef0d318c4bb1af8d0883a737e3cdc47e2d57d2c0ccb466997601ff308cc187ca",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false,
+    "note": "Gota de agua: usar para yaku. Una jarra vacía no representa por sí sola la palabra agua."
+  },
+  {
+    "id": "vocab-cerro",
+    "label": "cerro",
+    "slots": [
+      "urqu"
+    ],
+    "category": "Vocabulario",
+    "svg": "svg/vocab-cerro.svg",
+    "png": "png-transparentes/vocab-cerro.png",
+    "original": "png-originales/vocab-cerro.png",
+    "references": [
+      "referencias/01-entrada-iphone.png"
+    ],
+    "description": "Create a single green rounded Andean hill matching the welcome hills; two broad overlapping simple solid green silhouettes, no snow, house, plants or sun.",
+    "viewBox": "147 414 1246 287",
+    "aspectRatio": 4.3478260869565215,
+    "contentBoundsPng": [
+      1,
+      0,
+      1398,
+      322
+    ],
+    "svgBytes": 1082,
+    "sha256": "3b378fa2b686f816d38d9c355942e49a75c25ed0787aefc55301dc98c755faac",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "vocab-rio",
+    "label": "rio",
+    "slots": [
+      "mayu"
+    ],
+    "category": "Vocabulario",
+    "svg": "svg/vocab-rio.svg",
+    "png": "png-transparentes/vocab-rio.png",
+    "original": "png-originales/vocab-rio.png",
+    "references": [
+      "referencias/camino-01-valle.png"
+    ],
+    "description": "Create a short winding teal river as a single broad gently S-shaped flat ribbon with rounded ends. One lighter teal simple curved stripe indicates flowing water. No surrounding scenery.",
+    "viewBox": "222 193 705 992",
+    "aspectRatio": 0.7107142857142857,
+    "contentBoundsPng": [
+      0,
+      0,
+      995,
+      1400
+    ],
+    "svgBytes": 16893,
+    "sha256": "30c87465b0895c127be04c1d49b7c1a48f6813a44c38513c96708d3f0b5b6a2b",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "vocab-piedra",
+    "label": "piedra",
+    "slots": [
+      "rumi"
+    ],
+    "category": "Vocabulario",
+    "svg": "svg/vocab-piedra.svg",
+    "png": "png-transparentes/vocab-piedra.png",
+    "original": "png-originales/vocab-piedra.png",
+    "references": [
+      "referencias/camino-01-valle.png"
+    ],
+    "description": "Create one chunky rounded pebble, simple irregular rounded pentagon silhouette, warm gray-brown flat main fill and one darker flat side face. No texture, no pile, one stone.",
+    "viewBox": "247 297 766 663",
+    "aspectRatio": 1.155115511551155,
+    "contentBoundsPng": [
+      1,
+      0,
+      1398,
+      1212
+    ],
+    "svgBytes": 1156,
+    "sha256": "b52e5ca2025d3d32c986e6a32ba54b2d605522a96ccf1e525574adbe89010545",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "vocab-luna",
+    "label": "luna",
+    "slots": [
+      "killa"
+    ],
+    "category": "Vocabulario",
+    "svg": "svg/vocab-luna.svg",
+    "png": "png-transparentes/vocab-luna.png",
+    "original": "png-originales/vocab-luna.png",
+    "references": [
+      "referencias/04-mision-y-respuestas.png"
+    ],
+    "description": "Create one plump golden crescent moon in the same simple style as the sun; no face or stars.",
+    "viewBox": "229 189 801 867",
+    "aspectRatio": 0.9235714285714286,
+    "contentBoundsPng": [
+      0,
+      0,
+      1293,
+      1400
+    ],
+    "svgBytes": 1510,
+    "sha256": "187f9aa3494172eada0aabd50954f26bf89af8db0c6e157910f5ca944d1963d4",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "vocab-viento",
+    "label": "viento",
+    "slots": [
+      "wayra"
+    ],
+    "category": "Vocabulario",
+    "svg": "svg/vocab-viento.svg",
+    "png": "png-transparentes/vocab-viento.png",
+    "original": "png-originales/vocab-viento.png",
+    "references": [
+      "referencias/08-escena-clasificacion-ajustes.png"
+    ],
+    "description": "Create a compact wind illustration: three rounded teal curved horizontal gust strokes and one tiny tilted green leaf. Clearly wind, no clouds or faces.",
+    "viewBox": "339 199 898 641",
+    "aspectRatio": 1.4014014014014013,
+    "contentBoundsPng": [
+      1,
+      0,
+      1399,
+      999
+    ],
+    "svgBytes": 12348,
+    "sha256": "71c915e1bf8bb716baa794a3e7e9403b88371a49a6e1ad6af615f11203fb4740",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "vocab-arbol",
+    "label": "arbol",
+    "slots": [
+      "sach'a"
+    ],
+    "category": "Vocabulario",
+    "svg": "svg/vocab-arbol.svg",
+    "png": "png-transparentes/vocab-arbol.png",
+    "original": "png-originales/vocab-arbol.png",
+    "references": [
+      "referencias/camino-02-bosque.png"
+    ],
+    "description": "Extract only the large round puffy green tree and brown trunk. Remove guinea pig and bushes. Clean full tree.",
+    "viewBox": "168 161 921 935",
+    "aspectRatio": 0.985,
+    "contentBoundsPng": [
+      0,
+      0,
+      1379,
+      1400
+    ],
+    "svgBytes": 11255,
+    "sha256": "b81712bcb43a04dae34799c99272e0a3437468bc5b61c5b0202acce6c9a7d71b",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "vocab-perro",
+    "label": "perro",
+    "slots": [
+      "allqu"
+    ],
+    "category": "Vocabulario",
+    "svg": "svg/vocab-perro.svg",
+    "png": "png-transparentes/vocab-perro.png",
+    "original": "png-originales/vocab-perro.png",
+    "references": [
+      "referencias/camino-02-bosque.png"
+    ],
+    "description": "Create one small cute seated dog matching the simplicity of the tiny guinea pig: caramel body, brown floppy ears, dark dot eyes, small nose, curled upward tail, four simple rounded paws, friendly expression. No accessories.",
+    "viewBox": "279 294 700 670",
+    "aspectRatio": 1.044776119402985,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      1340
+    ],
+    "svgBytes": 12827,
+    "sha256": "15bcf1f0af5f7c9d6b83ff5065ef65441da00e361d9eebcba33b7aec8e9db9c5",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "vocab-gato",
+    "label": "gato",
+    "slots": [
+      "misi"
+    ],
+    "category": "Vocabulario",
+    "svg": "svg/vocab-gato.svg",
+    "png": "png-transparentes/vocab-gato.png",
+    "original": "png-originales/vocab-gato.png",
+    "references": [
+      "referencias/camino-02-bosque.png"
+    ],
+    "description": "Create one small cute seated cream and caramel cat matching the tiny guinea pig's simple style. Pointed rounded ears, dark dot eyes, tiny nose, three short whiskers each side and curled tail. Clearly a cat.",
+    "viewBox": "283 215 789 806",
+    "aspectRatio": 0.9785714285714285,
+    "contentBoundsPng": [
+      0,
+      0,
+      1370,
+      1400
+    ],
+    "svgBytes": 16816,
+    "sha256": "3a1f9597c4f2c936f635ed8abeb5b289114fc5880d9210c282be585cfc0f4df2",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "vocab-pez",
+    "label": "pez",
+    "slots": [
+      "challwa"
+    ],
+    "category": "Vocabulario",
+    "svg": "svg/vocab-pez.svg",
+    "png": "png-transparentes/vocab-pez.png",
+    "original": "png-originales/vocab-pez.png",
+    "references": [
+      "referencias/camino-02-bosque.png"
+    ],
+    "description": "Create one simple cute teal fish in side view, plump oval body, triangular rounded tail, one fin, one black dot eye, no scales or scenery.",
+    "viewBox": "221 392 844 461",
+    "aspectRatio": 1.8300653594771241,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      764
+    ],
+    "svgBytes": 15570,
+    "sha256": "abd919f67fe9832ae6ecc0c9afe165b32c02e84921668121b920bc54cb7f0083",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "vocab-flor",
+    "label": "flor",
+    "slots": [
+      "t'ika"
+    ],
+    "category": "Vocabulario",
+    "svg": "svg/vocab-flor.svg",
+    "png": "png-transparentes/vocab-flor.png",
+    "original": "png-originales/vocab-flor.png",
+    "references": [
+      "referencias/camino-05-jardin.png"
+    ],
+    "description": "Extract only the larger terracotta flower: exactly five plump rounded petals, cream circular center, simple green stem and two leaves.",
+    "viewBox": "220 137 708 1104",
+    "aspectRatio": 0.6414285714285715,
+    "contentBoundsPng": [
+      1,
+      0,
+      897,
+      1400
+    ],
+    "svgBytes": 24826,
+    "sha256": "27cdd7b9c331ad5f6ea26486c6a9f709f46f2e049977908e79bcc8f6c2d9aa31",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "vocab-hoja",
+    "label": "hoja",
+    "slots": [
+      "raphi"
+    ],
+    "category": "Vocabulario",
+    "svg": "svg/vocab-hoja.svg",
+    "png": "png-transparentes/vocab-hoja.png",
+    "original": "png-originales/vocab-hoja.png",
+    "references": [
+      "referencias/camino-02-bosque.png"
+    ],
+    "description": "Extract only one green oval leaf with one dark green midrib, slightly tilted right. No stem tree, no other leaves.",
+    "viewBox": "412 344 448 579",
+    "aspectRatio": 0.7735714285714286,
+    "contentBoundsPng": [
+      0,
+      0,
+      1082,
+      1399
+    ],
+    "svgBytes": 8947,
+    "sha256": "93215267629dfeb8db33abbfa10643f1d9fb1d3b4cabd22fbf8b21707dedb0c7",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "vocab-pajaro",
+    "label": "pajaro",
+    "slots": [
+      "p'isqu"
+    ],
+    "category": "Vocabulario",
+    "svg": "svg/vocab-pajaro.svg",
+    "png": "png-transparentes/vocab-pajaro.png",
+    "original": "png-originales/vocab-pajaro.png",
+    "references": [
+      "referencias/camino-02-bosque.png"
+    ],
+    "description": "Create one cute tiny bird in the same minimal animal style: teal plump body in profile, green simple wing, caramel small beak, one dark dot eye, two simple short legs and rounded tail. Not an owl or frog.",
+    "viewBox": "292 379 687 541",
+    "aspectRatio": 1.2704174228675136,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      1101
+    ],
+    "svgBytes": 17751,
+    "sha256": "4a559b82974ba38250ce0bd50698937adf6e708362a011ffbdac9a466347ad1b",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "vocab-llama",
+    "label": "llama",
+    "slots": [
+      "llama"
+    ],
+    "category": "Vocabulario",
+    "svg": "svg/vocab-llama.svg",
+    "png": "png-transparentes/vocab-llama.png",
+    "original": "png-originales/vocab-llama.png",
+    "references": [
+      "referencias/01-entrada-iphone.png"
+    ],
+    "description": "Extract only the little cream and caramel llama from the Aymara card of the THIRD phone, standing side view with long neck, two long ears, simple dot eye and four legs. No mountain or water.",
+    "viewBox": "350 227 618 734",
+    "aspectRatio": 0.8421428571428572,
+    "contentBoundsPng": [
+      0,
+      0,
+      1179,
+      1400
+    ],
+    "svgBytes": 29223,
+    "sha256": "24c02cf18a3798c3a835d8b493e8b204987122a826a1c52ce0d2ddeff2722ea0",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "vocab-puerta",
+    "label": "puerta",
+    "slots": [
+      "punku"
+    ],
+    "category": "Vocabulario",
+    "svg": "svg/vocab-puerta.svg",
+    "png": "png-transparentes/vocab-puerta.png",
+    "original": "png-originales/vocab-puerta.png",
+    "references": [
+      "referencias/camino-03-pueblo.png"
+    ],
+    "description": "Extract the house's arched brown wooden door as a standalone closed doorway with a thin cream arched surround and one small golden round knob. No house or roof.",
+    "viewBox": "356 218 546 769",
+    "aspectRatio": 0.71,
+    "contentBoundsPng": [
+      0,
+      0,
+      994,
+      1399
+    ],
+    "svgBytes": 36557,
+    "sha256": "9d2589346e6279c68b80e021f9a62da943bef7aee24961f62539f84c05a43779",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "vocab-silla",
+    "label": "silla",
+    "slots": [
+      "tiyana"
+    ],
+    "category": "Vocabulario",
+    "svg": "svg/vocab-silla.svg",
+    "png": "png-transparentes/vocab-silla.png",
+    "original": "png-originales/vocab-silla.png",
+    "references": [
+      "referencias/camino-03-pueblo.png"
+    ],
+    "description": "Extract only the wooden chair with brown rounded posts, seat and backrest. Remove book and plant. Correctly connected four legs, simple flat stylized perspective.",
+    "viewBox": "330 206 592 843",
+    "aspectRatio": 0.7021428571428572,
+    "contentBoundsPng": [
+      0,
+      0,
+      983,
+      1400
+    ],
+    "svgBytes": 3811,
+    "sha256": "2951f7482a6ecdd372a402645d3353a6a4589033ef0598642a0ec04a1622370d",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "vocab-mesa",
+    "label": "mesa",
+    "slots": [
+      "misa"
+    ],
+    "category": "Vocabulario",
+    "svg": "svg/vocab-mesa.svg",
+    "png": "png-transparentes/vocab-mesa.png",
+    "original": "png-originales/vocab-mesa.png",
+    "references": [
+      "referencias/camino-03-pueblo.png"
+    ],
+    "description": "Extract only the round wooden table with brown round top and broad central pedestal base. Remove cups, stools and plants.",
+    "viewBox": "254 300 749 658",
+    "aspectRatio": 1.1382113821138211,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      1230
+    ],
+    "svgBytes": 2903,
+    "sha256": "f9629acc43c1ed60360508e2cadd8d2b53061bb6a97d105f65a4d36b293efa2d",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "vocab-vaso-madera",
+    "label": "vaso madera",
+    "slots": [
+      "qiru"
+    ],
+    "category": "Vocabulario",
+    "svg": "svg/vocab-vaso-madera.svg",
+    "png": "png-transparentes/vocab-vaso-madera.png",
+    "original": "png-originales/vocab-vaso-madera.png",
+    "references": [
+      "referencias/05-juegos.png"
+    ],
+    "description": "Create ONE wooden drinking cup inspired by the simple cup silhouettes in the last phone. It MUST be warm brown wood, with a slightly flared rim, a dark brown oval open top and two minimal curved carved bands. No handle, no ceramic red color, no plant, no liquid.",
+    "viewBox": "333 278 592 701",
+    "aspectRatio": 0.8442857142857143,
+    "contentBoundsPng": [
+      0,
+      1,
+      1182,
+      1399
+    ],
+    "svgBytes": 6405,
+    "sha256": "f2d1a0a1bc4d613154aebb253ed68e12ffb1e94ea972bbbd7ad20a1f9e213837",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "vocab-cucharon",
+    "label": "cucharon",
+    "slots": [
+      "wislla"
+    ],
+    "category": "Vocabulario",
+    "svg": "svg/vocab-cucharon.svg",
+    "png": "png-transparentes/vocab-cucharon.png",
+    "original": "png-originales/vocab-cucharon.png",
+    "references": [
+      "referencias/camino-03-pueblo.png"
+    ],
+    "description": "Create ONE wooden ladle, warm brown long gently curved handle connected to a rounded deep scoop seen from a slight angle, scoop dark inside. Flat shapes, no realistic woodgrain.",
+    "viewBox": "251 160 688 1049",
+    "aspectRatio": 0.6557142857142857,
+    "contentBoundsPng": [
+      0,
+      0,
+      918,
+      1400
+    ],
+    "svgBytes": 3773,
+    "sha256": "50a2d8a5cd5a464854795ce8e54b7baf50fde7d98234a937b202a6cfb2107a10",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "vocab-libro",
+    "label": "libro",
+    "slots": [
+      "p'anqa",
+      "pause-book"
+    ],
+    "category": "Vocabulario",
+    "svg": "svg/vocab-libro.svg",
+    "png": "png-transparentes/vocab-libro.png",
+    "original": "png-originales/vocab-libro.png",
+    "references": [
+      "referencias/08-escena-clasificacion-ajustes.png"
+    ],
+    "description": "Extract only the closed terracotta book shown in the pause dialog of the THIRD phone, brown spine, cream page edge, blank cream rectangle on cover. Remove plant, text and dialog.",
+    "viewBox": "260 124 829 938",
+    "aspectRatio": 0.8835714285714286,
+    "contentBoundsPng": [
+      0,
+      0,
+      1237,
+      1400
+    ],
+    "svgBytes": 14027,
+    "sha256": "00636b6cf17e15131a7fca3af5de888ab0633d168fb6fa872254ae67f2990b49",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "vocab-lapiz",
+    "label": "lapiz",
+    "slots": [
+      "qillqana"
+    ],
+    "category": "Vocabulario",
+    "svg": "svg/vocab-lapiz.svg",
+    "png": "png-transparentes/vocab-lapiz.png",
+    "original": "png-originales/vocab-lapiz.png",
+    "references": [
+      "referencias/02-acceso-iphone.png"
+    ],
+    "description": "Create ONE simple chunky writing pencil, golden body, dark brown graphite tip, cream exposed wood triangle, tiny terracotta cap at rear, diagonally tilted. No text or paper.",
+    "viewBox": "223 203 827 835",
+    "aspectRatio": 0.9907142857142858,
+    "contentBoundsPng": [
+      1,
+      0,
+      1386,
+      1400
+    ],
+    "svgBytes": 5407,
+    "sha256": "385b3e697ba3c704987a4cd2e983d82b6a61e1d825c79639ff8c90dd51ff38fa",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "idioma-quechua",
+    "label": "idioma quechua",
+    "slots": [
+      "Quechua"
+    ],
+    "category": "Interfaz y componentes",
+    "svg": "svg/idioma-quechua.svg",
+    "png": "png-transparentes/idioma-quechua.png",
+    "original": "png-originales/idioma-quechua.png",
+    "references": [
+      "referencias/01-entrada-iphone.png"
+    ],
+    "description": "Extract only the Quechua card small two-green-hills, cream house with terracotta roof and green bush. Make house walls a CLEAR SOLID LIGHT CARAMEL #E5B97B, distinctly darker than pure white background; preserve full wall shape and brown door. House must be opaque light caramel, not white or near-white. No card border, words or checkmark. All flat uniform fills.",
+    "viewBox": "371 217 862 413",
+    "aspectRatio": 2.0864381520119224,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      671
+    ],
+    "svgBytes": 17527,
+    "sha256": "37768ba3ea7af1b71669a0f875593cc03e2654a007f95cee78eecafdf3fd789b",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "idioma-aymara",
+    "label": "idioma aymara",
+    "slots": [
+      "Aymara"
+    ],
+    "category": "Interfaz y componentes",
+    "svg": "svg/idioma-aymara.svg",
+    "png": "png-transparentes/idioma-aymara.png",
+    "original": "png-originales/idioma-aymara.png",
+    "references": [
+      "referencias/01-entrada-iphone.png"
+    ],
+    "description": "Extract only the Aymara card illustration: blue/teal triangular mountain with small cream snowcap, teal lake, green foothill and cream llama at right. No card border or text.",
+    "viewBox": "296 174 947 680",
+    "aspectRatio": 1.3930348258706469,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      1005
+    ],
+    "svgBytes": 126492,
+    "sha256": "b125fbafdad17d02a87ab1b4d08d91c631fa8a28caa1935e38b5de7399aea780",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "libro-repaso",
+    "label": "libro repaso",
+    "slots": [
+      "review-book"
+    ],
+    "category": "Interfaz y componentes",
+    "svg": "svg/libro-repaso.svg",
+    "png": "png-transparentes/libro-repaso.png",
+    "original": "png-originales/libro-repaso.png",
+    "references": [
+      "referencias/07-repaso-coleccion-perfil.png"
+    ],
+    "description": "Extract only the large open cream book with green cover, three short caramel page marks and two small green plants, from the FIRST phone.",
+    "viewBox": "182 179 1237 511",
+    "aspectRatio": 2.422145328719723,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      578
+    ],
+    "svgBytes": 16609,
+    "sha256": "5374bdb86c71dee7ed2332e8ab1dfbdf6c375407c92a2db21d221dd8e66a685b",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "coleccion-vacia",
+    "label": "coleccion vacia",
+    "slots": [
+      "empty-collection"
+    ],
+    "category": "Interfaz y componentes",
+    "svg": "svg/coleccion-vacia.svg",
+    "png": "png-transparentes/coleccion-vacia.png",
+    "original": "png-originales/coleccion-vacia.png",
+    "references": [
+      "referencias/07-repaso-coleccion-perfil.png"
+    ],
+    "description": "Create a small open green-cover cream-page book with blank pages, and one tiny green sprout emerging from its center. Same style as review book. No lettering, face, numbers or magnifier.",
+    "viewBox": "204 214 1135 572",
+    "aspectRatio": 1.9830028328611897,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      705
+    ],
+    "svgBytes": 16329,
+    "sha256": "26a9e54be27c9d13b2691765d4321fddfe3e6126b25c5e4848ff34ae9f061d80",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "mochila",
+    "label": "mochila",
+    "slots": [
+      "backpack"
+    ],
+    "category": "Interfaz y componentes",
+    "svg": "svg/mochila.svg",
+    "png": "png-transparentes/mochila.png",
+    "original": "png-originales/mochila.png",
+    "references": [
+      "referencias/07-repaso-coleccion-perfil.png"
+    ],
+    "description": "Extract only the small terracotta backpack icon from the profile menu: rounded body, carrying loop, caramel front pocket and simple straps. No text.",
+    "viewBox": "275 192 706 873",
+    "aspectRatio": 0.8085714285714286,
+    "contentBoundsPng": [
+      0,
+      0,
+      1132,
+      1400
+    ],
+    "svgBytes": 10169,
+    "sha256": "110fb2653a8831130dd61e4e7d9312a4ff3e12258b40a56a253180feeda597b0",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "bolsa-valle",
+    "label": "bolsa valle",
+    "slots": [
+      "valley-bag"
+    ],
+    "category": "Interfaz y componentes",
+    "svg": "svg/bolsa-valle.svg",
+    "png": "png-transparentes/bolsa-valle.png",
+    "original": "png-originales/bolsa-valle.png",
+    "references": [
+      "referencias/06-racha-tienda-vidas.png"
+    ],
+    "description": "Extract only the cream shoulder satchel with a green two-leaf sprout emblem and caramel/brown strap in the THIRD phone's store. Blank except the leaf emblem.",
+    "viewBox": "196 252 898 747",
+    "aspectRatio": 1.201716738197425,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      1165
+    ],
+    "svgBytes": 8001,
+    "sha256": "28f8264fd9d8ed6f26aa9ea443d4cd6fc9f7ed8fc6ca883e21e768cb7c02a151",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "sobre",
+    "label": "sobre",
+    "slots": [],
+    "category": "Interfaz y componentes",
+    "svg": "svg/sobre.svg",
+    "png": "png-transparentes/sobre.png",
+    "original": "png-originales/sobre.png",
+    "references": [
+      "referencias/02-acceso-iphone.png"
+    ],
+    "description": "Extract only the cream envelope in the THIRD phone's recovery illustration. Closed triangular flap made of simple cream/caramel flat polygons. Remove key and leaves.",
+    "viewBox": "369 246 803 537",
+    "aspectRatio": 1.4957264957264957,
+    "contentBoundsPng": [
+      0,
+      0,
+      1399,
+      935
+    ],
+    "svgBytes": 2339,
+    "sha256": "95f6a0f2143d45f673436d5256547a27b9b64b0966353ce8db3f3293b742e800",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "llave",
+    "label": "llave",
+    "slots": [],
+    "category": "Interfaz y componentes",
+    "svg": "svg/llave.svg",
+    "png": "png-transparentes/llave.png",
+    "original": "png-originales/llave.png",
+    "references": [
+      "referencias/02-acceso-iphone.png"
+    ],
+    "description": "Extract only the terracotta key in the THIRD phone's recovery illustration, circular bow with empty round hole, long stem and two teeth. Remove envelope and leaves.",
+    "viewBox": "438 208 459 817",
+    "aspectRatio": 0.5621428571428572,
+    "contentBoundsPng": [
+      0,
+      0,
+      787,
+      1400
+    ],
+    "svgBytes": 2916,
+    "sha256": "bb7efcb96fe4aca7e18b121a0c20039abcd939ca483a17fe723229eeb5912a14",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "brote",
+    "label": "brote",
+    "slots": [],
+    "category": "Interfaz y componentes",
+    "svg": "svg/brote.svg",
+    "png": "png-transparentes/brote.png",
+    "original": "png-originales/brote.png",
+    "references": [
+      "referencias/01-entrada-iphone.png"
+    ],
+    "description": "Extract only the two-leaf green sprout above the FOURTH phone's title, with short thin stem and two plump leaves. Remove all yellow accent rays.",
+    "viewBox": "348 320 698 522",
+    "aspectRatio": 1.3371537726838587,
+    "contentBoundsPng": [
+      0,
+      0,
+      1399,
+      1046
+    ],
+    "svgBytes": 1907,
+    "sha256": "40e6c42a9c28bff3d5c0be8e3dc1801dfd6c1fdccc302345e9724cb200846f88",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "planta-tres-hojas",
+    "label": "planta tres hojas",
+    "slots": [],
+    "category": "Interfaz y componentes",
+    "svg": "svg/planta-tres-hojas.svg",
+    "png": "png-transparentes/planta-tres-hojas.png",
+    "original": "png-originales/planta-tres-hojas.png",
+    "references": [
+      "referencias/01-entrada-iphone.png"
+    ],
+    "description": "Extract only the left foreground green three-leaf plant under the welcome girl. Three plump simple rounded leaves, slightly unequal heights. No soil or pot.",
+    "viewBox": "277 342 705 574",
+    "aspectRatio": 1.2280701754385965,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      1140
+    ],
+    "svgBytes": 1641,
+    "sha256": "e27da35d8a37cccb7846fb4ed4cecde9c97da56c2598e0cc8b9c24aaa578181b",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "rayitos-amarillos",
+    "label": "rayitos amarillos",
+    "slots": [],
+    "category": "Interfaz y componentes",
+    "svg": "svg/rayitos-amarillos.svg",
+    "png": "png-transparentes/rayitos-amarillos.png",
+    "original": "png-originales/rayitos-amarillos.png",
+    "references": [
+      "referencias/02-acceso-iphone.png"
+    ],
+    "description": "Extract only ONE cluster of THREE small golden emphasis marks next to the curved titles, three separate rounded teardrop strokes fanning out. No text or anything else.",
+    "viewBox": "598 278 356 423",
+    "aspectRatio": 0.8414285714285714,
+    "contentBoundsPng": [
+      0,
+      0,
+      1178,
+      1400
+    ],
+    "svgBytes": 1605,
+    "sha256": "2e733cde1e95b2cb8da4a0ae6bf885ee53efe80e0d9ef8c28daa763e87a67055",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "jarra-terracota",
+    "label": "jarra terracota",
+    "slots": [],
+    "category": "Interfaz y componentes",
+    "svg": "svg/jarra-terracota.svg",
+    "png": "png-transparentes/jarra-terracota.png",
+    "original": "png-originales/jarra-terracota.png",
+    "references": [
+      "referencias/07-repaso-coleccion-perfil.png"
+    ],
+    "description": "Extract only the large terracotta jug from the THIRD phone, with rounded bulb body, curved single handle, open rim and one cream wavy band. No plants, no text.",
+    "viewBox": "240 165 792 925",
+    "aspectRatio": 0.8564285714285714,
+    "contentBoundsPng": [
+      0,
+      0,
+      1199,
+      1400
+    ],
+    "svgBytes": 19146,
+    "sha256": "d12dc4a5fc4cdb48e64fa0896baab3865a03aaf6f2fc6249be4c9eea5149c3fe",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "jarra-caramelo",
+    "label": "jarra caramelo",
+    "slots": [],
+    "category": "Interfaz y componentes",
+    "svg": "svg/jarra-caramelo.svg",
+    "png": "png-transparentes/jarra-caramelo.png",
+    "original": "png-originales/jarra-caramelo.png",
+    "references": [
+      "referencias/camino-01-valle.png"
+    ],
+    "description": "Extract only the small caramel water jug at left of the pond, one handle and simple rounded body, open top. Remove pond and plant.",
+    "viewBox": "270 256 667 764",
+    "aspectRatio": 0.8728571428571429,
+    "contentBoundsPng": [
+      1,
+      1,
+      1221,
+      1399
+    ],
+    "svgBytes": 4997,
+    "sha256": "3f91cc19d60893a085884e5c90f31290477dddb5cf40564f01a130e7a90cba40",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "charco",
+    "label": "charco",
+    "slots": [],
+    "category": "Interfaz y componentes",
+    "svg": "svg/charco.svg",
+    "png": "png-transparentes/charco.png",
+    "original": "png-originales/charco.png",
+    "references": [
+      "referencias/08-escena-clasificacion-ajustes.png"
+    ],
+    "description": "Extract only the flat teal oval pond from the FIRST phone, with one small light-teal curved water mark, without selection ring, plants, house or sun.",
+    "viewBox": "393 295 820 279",
+    "aspectRatio": 2.9411764705882355,
+    "contentBoundsPng": [
+      0,
+      0,
+      1399,
+      475
+    ],
+    "svgBytes": 988,
+    "sha256": "9784d04b9b6584513f5585b03f660d30198bb3a34288be603cfe227d6cdace16",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "ondas-agua",
+    "label": "ondas agua",
+    "slots": [],
+    "category": "Interfaz y componentes",
+    "svg": "svg/ondas-agua.svg",
+    "png": "png-transparentes/ondas-agua.png",
+    "original": "png-originales/ondas-agua.png",
+    "references": [
+      "referencias/05-juegos.png"
+    ],
+    "description": "Extract only the two teal wave strokes from the FIRST phone's water matching card. Two horizontal parallel rounded wavy lines. No card or text.",
+    "viewBox": "317 325 906 379",
+    "aspectRatio": 2.3890784982935154,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      586
+    ],
+    "svgBytes": 4417,
+    "sha256": "a5ca88b735ed32f778470a48d8130131511b70710ef7a829974431c8b0bb7f7d",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "moneda-semilla",
+    "label": "moneda semilla",
+    "slots": [],
+    "category": "Interfaz y componentes",
+    "svg": "svg/moneda-semilla.svg",
+    "png": "png-transparentes/moneda-semilla.png",
+    "original": "png-originales/moneda-semilla.png",
+    "references": [
+      "referencias/06-racha-tienda-vidas.png"
+    ],
+    "description": "Extract only the single golden seed-shaped coin bearing a green sprout emblem, from the FIRST phone result reward. Simple flat golden body with one darker edge, no shine or shadow.",
+    "viewBox": "306 202 645 854",
+    "aspectRatio": 0.755,
+    "contentBoundsPng": [
+      1,
+      0,
+      1056,
+      1399
+    ],
+    "svgBytes": 3053,
+    "sha256": "bcb9d0be6137f8eae178517128585bb28c01e7aecbb52cdcb5758cdf4c22c208",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "racha",
+    "label": "racha",
+    "slots": [],
+    "category": "Interfaz y componentes",
+    "svg": "svg/racha.svg",
+    "png": "png-transparentes/racha.png",
+    "original": "png-originales/racha.png",
+    "references": [
+      "referencias/06-racha-tienda-vidas.png"
+    ],
+    "description": "Extract only the large terracotta flame with cream inner flame and green two-leaf sprout in its center from SECOND phone. No rays, text or counters.",
+    "viewBox": "260 155 733 910",
+    "aspectRatio": 0.8057142857142857,
+    "contentBoundsPng": [
+      0,
+      0,
+      1128,
+      1399
+    ],
+    "svgBytes": 9177,
+    "sha256": "3d3f0f4475d33b49782c01036ca50472bbbe1afe1605655acefb0c7791f20b93",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "corazon",
+    "label": "corazon",
+    "slots": [],
+    "category": "Interfaz y componentes",
+    "svg": "svg/corazon.svg",
+    "png": "png-transparentes/corazon.png",
+    "original": "png-originales/corazon.png",
+    "references": [
+      "referencias/06-racha-tienda-vidas.png"
+    ],
+    "description": "Extract only the terracotta solid life heart from the THIRD phone store. No face, no sparkles, single symmetric rounded filled heart.",
+    "viewBox": "330 271 718 602",
+    "aspectRatio": 1.192504258943782,
+    "contentBoundsPng": [
+      0,
+      1,
+      1400,
+      1173
+    ],
+    "svgBytes": 1151,
+    "sha256": "9961ebdbf39acc353d9314b8ccc34bb038bb5b6e7e6c61d9877d32648898c99f",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "corazon-descanso",
+    "label": "corazon descanso",
+    "slots": [],
+    "category": "Interfaz y componentes",
+    "svg": "svg/corazon-descanso.svg",
+    "png": "png-transparentes/corazon-descanso.png",
+    "original": "png-originales/corazon-descanso.png",
+    "references": [
+      "referencias/06-racha-tienda-vidas.png"
+    ],
+    "description": "Extract only the large sad/resting heart from FOURTH phone modal. Terracotta heart, two closed dark curved eyelids, tiny downturned mouth. No rays, text or modal.",
+    "viewBox": "340 176 860 676",
+    "aspectRatio": 1.2727272727272727,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      1100
+    ],
+    "svgBytes": 4277,
+    "sha256": "116ad6920fea9fafc6fb533ac3f98fdc87b3352294c80035ebc38c83ea8b104b",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "brujula",
+    "label": "brujula",
+    "slots": [],
+    "category": "Interfaz y componentes",
+    "svg": "svg/brujula.svg",
+    "png": "png-transparentes/brujula.png",
+    "original": "png-originales/brujula.png",
+    "references": [
+      "referencias/04-mision-y-respuestas.png"
+    ],
+    "description": "Extract only the small green compass icon from FIRST phone mission intro. Flat green circle with cream simple compass needle and tiny center dot.",
+    "viewBox": "281 275 696 694",
+    "aspectRatio": 1.002865329512894,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      1395
+    ],
+    "svgBytes": 7487,
+    "sha256": "6e90a8da82900a3f6761405a490d13f3fb3fc3bf74107d34b165c77b8a9ffd81",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "bombilla",
+    "label": "bombilla",
+    "slots": [],
+    "category": "Interfaz y componentes",
+    "svg": "svg/bombilla.svg",
+    "png": "png-transparentes/bombilla.png",
+    "original": "png-originales/bombilla.png",
+    "references": [
+      "referencias/04-mision-y-respuestas.png"
+    ],
+    "description": "Extract only the simple golden lightbulb icon from FIRST phone intro. Rounded golden bulb, short brown base with one cream stripe, no glow.",
+    "viewBox": "340 199 579 860",
+    "aspectRatio": 0.6735714285714286,
+    "contentBoundsPng": [
+      1,
+      0,
+      942,
+      1399
+    ],
+    "svgBytes": 8909,
+    "sha256": "30e8f45ea8001d2f3fa3053c36963cab2667ac4fa9e3cc0935cc978c2db87308",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "trofeo",
+    "label": "trofeo",
+    "slots": [],
+    "category": "Interfaz y componentes",
+    "svg": "svg/trofeo.svg",
+    "png": "png-transparentes/trofeo.png",
+    "original": "png-originales/trofeo.png",
+    "references": [
+      "referencias/07-repaso-coleccion-perfil.png"
+    ],
+    "description": "Extract only the small golden trophy cup icon from the profile menu: two handles, short stem and simple base, no stars or lettering.",
+    "viewBox": "182 240 894 810",
+    "aspectRatio": 1.1041009463722398,
+    "contentBoundsPng": [
+      1,
+      0,
+      1399,
+      1268
+    ],
+    "svgBytes": 3625,
+    "sha256": "280c5f731c54e18bf02d43fc18ee5b86d643abcb2295176aa8f2b17ee3d3eb16",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "confeti",
+    "label": "confeti",
+    "slots": [],
+    "category": "Interfaz y componentes",
+    "svg": "svg/confeti.svg",
+    "png": "png-transparentes/confeti.png",
+    "original": "png-originales/confeti.png",
+    "references": [
+      "referencias/06-racha-tienda-vidas.png"
+    ],
+    "description": "Extract only the celebration confetti from FIRST phone, no girl. A loose circular burst of 14 small flat rounded rectangles and circles in teal, terracotta, caramel, green. Leave center empty, no gradients or shadows.",
+    "viewBox": "111 158 1042 935",
+    "aspectRatio": 1.1146496815286624,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      1256
+    ],
+    "svgBytes": 6298,
+    "sha256": "bbced8babbeff561d0231a57c1547770a7e8c850352ff4a498bbe89e220d821f",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "conejo",
+    "label": "conejo",
+    "slots": [],
+    "category": "Interfaz y componentes",
+    "svg": "svg/conejo.svg",
+    "png": "png-transparentes/conejo.png",
+    "original": "png-originales/conejo.png",
+    "references": [
+      "referencias/camino-01-valle.png"
+    ],
+    "description": "Extract only the small tan rabbit/vizcacha from bottom-right, remove hills and sun. Preserve two upright long ears, dot eyes, tiny nose, seated chubby body and little round tail.",
+    "viewBox": "333 208 624 841",
+    "aspectRatio": 0.7421428571428571,
+    "contentBoundsPng": [
+      0,
+      0,
+      1039,
+      1400
+    ],
+    "svgBytes": 10580,
+    "sha256": "a8643a91cc1a5c8c711544d8e3c0303c64ae445bfb5ceb0a0acbc28e518c89f6",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "cuy",
+    "label": "cuy",
+    "slots": [],
+    "category": "Interfaz y componentes",
+    "svg": "svg/cuy.svg",
+    "png": "png-transparentes/cuy.png",
+    "original": "png-originales/cuy.png",
+    "references": [
+      "referencias/camino-02-bosque.png"
+    ],
+    "description": "Extract only the tiny cream and brown guinea pig beside tree, remove scenery. Small round ears, chubby low body, dot eyes, tiny nose, small orange paws.",
+    "viewBox": "303 394 664 470",
+    "aspectRatio": 1.4127144298688195,
+    "contentBoundsPng": [
+      1,
+      0,
+      1399,
+      991
+    ],
+    "svgBytes": 63279,
+    "sha256": "3a4b3fe979ca2bf68b32ba46086b11dcd0268d3296b1411b19e08a5e41db1ed7",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "mariposa",
+    "label": "mariposa",
+    "slots": [],
+    "category": "Interfaz y componentes",
+    "svg": "svg/mariposa.svg",
+    "png": "png-transparentes/mariposa.png",
+    "original": "png-originales/mariposa.png",
+    "references": [
+      "referencias/camino-05-jardin.png"
+    ],
+    "description": "Extract only the small terracotta butterfly above the lower-left leaves, four rounded wings, brown slim body and two short antennae. Remove leaves and all scenery.",
+    "viewBox": "375 361 509 494",
+    "aspectRatio": 1.030169242089772,
+    "contentBoundsPng": [
+      0,
+      0,
+      1399,
+      1359
+    ],
+    "svgBytes": 8725,
+    "sha256": "e3f7ee6d952252fd8e94c688e56bc4faefd6e1e6242e5141ce5945a299787598",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "taza-roja",
+    "label": "taza roja",
+    "slots": [],
+    "category": "Interfaz y componentes",
+    "svg": "svg/taza-roja.svg",
+    "png": "png-transparentes/taza-roja.png",
+    "original": "png-originales/taza-roja.png",
+    "references": [
+      "referencias/camino-03-pueblo.png"
+    ],
+    "description": "Extract only the terracotta cup from the cafe table, rounded mug with one handle and dark open oval top. No steam or table.",
+    "viewBox": "284 339 654 564",
+    "aspectRatio": 1.15990057995029,
+    "contentBoundsPng": [
+      0,
+      0,
+      1399,
+      1207
+    ],
+    "svgBytes": 3387,
+    "sha256": "c036eed3e483ac7f6e81a7637ae986f635ba70eb67a6d2482c23188d6411948a",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "taza-turquesa",
+    "label": "taza turquesa",
+    "slots": [],
+    "category": "Interfaz y componentes",
+    "svg": "svg/taza-turquesa.svg",
+    "png": "png-transparentes/taza-turquesa.png",
+    "original": "png-originales/taza-turquesa.png",
+    "references": [
+      "referencias/camino-03-pueblo.png"
+    ],
+    "description": "Extract only the teal cup from the cafe table, rounded mug with one handle and dark open oval top. No steam or table.",
+    "viewBox": "373 397 564 465",
+    "aspectRatio": 1.2131715771230502,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      1153
+    ],
+    "svgBytes": 6851,
+    "sha256": "719e6dd320e7a77a26085913bed00f0d10a00873caf30c469088b31d748bd19e",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "taburete",
+    "label": "taburete",
+    "slots": [],
+    "category": "Interfaz y componentes",
+    "svg": "svg/taburete.svg",
+    "png": "png-transparentes/taburete.png",
+    "original": "png-originales/taburete.png",
+    "references": [
+      "referencias/camino-06-plaza.png"
+    ],
+    "description": "Extract only ONE golden round stool with three brown short rounded legs from the lower-left table vignette. No table or plants.",
+    "viewBox": "320 293 618 643",
+    "aspectRatio": 0.9614285714285714,
+    "contentBoundsPng": [
+      0,
+      0,
+      1346,
+      1400
+    ],
+    "svgBytes": 5945,
+    "sha256": "c77f79ecbbb3ed6d22e460b04d4ef59171392cfeba8f70bbfa450b682107e733",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "manzana",
+    "label": "manzana",
+    "slots": [],
+    "category": "Interfaz y componentes",
+    "svg": "svg/manzana.svg",
+    "png": "png-transparentes/manzana.png",
+    "original": "png-originales/manzana.png",
+    "references": [
+      "referencias/camino-04-mercado.png"
+    ],
+    "description": "Extract only ONE orange-red round apple-like fruit with a short brown stem and two small green leaves from the basket. No basket or other fruit.",
+    "viewBox": "302 216 651 790",
+    "aspectRatio": 0.8242857142857143,
+    "contentBoundsPng": [
+      1,
+      0,
+      1152,
+      1400
+    ],
+    "svgBytes": 7653,
+    "sha256": "1a073f9c733cc38fce7622792dc1a11e81c1d5e7037032fa57ddfe467b849022",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "pera",
+    "label": "pera",
+    "slots": [],
+    "category": "Interfaz y componentes",
+    "svg": "svg/pera.svg",
+    "png": "png-transparentes/pera.png",
+    "original": "png-originales/pera.png",
+    "references": [
+      "referencias/camino-04-mercado.png"
+    ],
+    "description": "Extract only the golden pear with a short brown stem and one green leaf from the produce crate. No crate or other produce.",
+    "viewBox": "334 155 576 962",
+    "aspectRatio": 0.5985714285714285,
+    "contentBoundsPng": [
+      0,
+      0,
+      838,
+      1399
+    ],
+    "svgBytes": 9583,
+    "sha256": "43dda8213dd875024dc7fcc5fbcfa7f1aba5dd97ceceaa0dbb526ca14ba4bd6f",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "maceta-roja",
+    "label": "maceta roja",
+    "slots": [],
+    "category": "Interfaz y componentes",
+    "svg": "svg/maceta-roja.svg",
+    "png": "png-transparentes/maceta-roja.png",
+    "original": "png-originales/maceta-roja.png",
+    "references": [
+      "referencias/camino-05-jardin.png"
+    ],
+    "description": "Extract only the LARGE terracotta flowerpot with three green plump upright leaves from upper-right vignette. Remove smaller pot.",
+    "viewBox": "302 152 654 954",
+    "aspectRatio": 0.6857142857142857,
+    "contentBoundsPng": [
+      0,
+      0,
+      960,
+      1400
+    ],
+    "svgBytes": 16665,
+    "sha256": "0fe10d8b1e4d3be98dbeed0a1d9ae515b9e501ce5cdf223e48ae029b62e2ef57",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "flor-turquesa",
+    "label": "flor turquesa",
+    "slots": [],
+    "category": "Interfaz y componentes",
+    "svg": "svg/flor-turquesa.svg",
+    "png": "png-transparentes/flor-turquesa.png",
+    "original": "png-originales/flor-turquesa.png",
+    "references": [
+      "referencias/camino-05-jardin.png"
+    ],
+    "description": "Extract only the smaller TEAL five-petal flower, cream center, green stem and two leaves, from upper-left. Remove red flower.",
+    "viewBox": "268 220 612 959",
+    "aspectRatio": 0.6378571428571429,
+    "contentBoundsPng": [
+      0,
+      0,
+      893,
+      1399
+    ],
+    "svgBytes": 17904,
+    "sha256": "f987b3e4c03e508b7ad17c39e2651fbf16f99971481de8ee899388d0470cfce7",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "hoja-turquesa",
+    "label": "hoja turquesa",
+    "slots": [],
+    "category": "Interfaz y componentes",
+    "svg": "svg/hoja-turquesa.svg",
+    "png": "png-transparentes/hoja-turquesa.png",
+    "original": "png-originales/hoja-turquesa.png",
+    "references": [
+      "referencias/camino-05-jardin.png"
+    ],
+    "description": "Extract only the teal upright oval leaf with a darker midrib from the lower-left group. Remove all other leaves and butterfly.",
+    "viewBox": "398 324 352 728",
+    "aspectRatio": 0.4835714285714286,
+    "contentBoundsPng": [
+      1,
+      0,
+      676,
+      1400
+    ],
+    "svgBytes": 3079,
+    "sha256": "b61946593babb7c890e8dd5320e3ae5fc270bd92c20d76099e3911495ba09688",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "hoja-dorada",
+    "label": "hoja dorada",
+    "slots": [],
+    "category": "Interfaz y componentes",
+    "svg": "svg/hoja-dorada.svg",
+    "png": "png-transparentes/hoja-dorada.png",
+    "original": "png-originales/hoja-dorada.png",
+    "references": [
+      "referencias/camino-05-jardin.png"
+    ],
+    "description": "Extract only the golden compound leaf with central stem, rounded top leaflet and two pairs of side leaflets from lower-left. Remove other foliage.",
+    "viewBox": "260 228 623 927",
+    "aspectRatio": 0.6721428571428572,
+    "contentBoundsPng": [
+      0,
+      0,
+      940,
+      1400
+    ],
+    "svgBytes": 3252,
+    "sha256": "00e5e7e4f968c9aa0ef727365a4d16b74ff0066a3f3d8f2a91f9a6990bbde000",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false
+  },
+  {
+    "id": "cantidad-01",
+    "label": "cantidad 01",
+    "slots": [
+      "juk"
+    ],
+    "category": "Cantidades",
+    "svg": "svg/cantidad-01.svg",
+    "png": "png-transparentes/cantidad-01.png",
+    "original": "png-originales/cantidad-01.png",
+    "references": [
+      "referencias/05-juegos.png"
+    ],
+    "description": "Extract/recompose the simple cup counting illustration in FOURTH phone. EXACTLY 1 separate identical small TERRACOTTA drinking cups, no handles, each with dark oval open top. Arrange neatly in one horizontal row. All cups equal size and completely separate with clear white gaps. NO NUMERALS, text, leaves, extra objects or shadows. The count must be exactly 1.",
+    "viewBox": "605 311 330 406",
+    "aspectRatio": 0.8128571428571428,
+    "contentBoundsPng": [
+      1,
+      0,
+      1136,
+      1399
+    ],
+    "svgBytes": 945,
+    "sha256": "a830c137836b15997723b9921c94df52282a95509de2c5ddb5146ba15b50f1d1",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false,
+    "quantity": 1
+  },
+  {
+    "id": "cantidad-02",
+    "label": "cantidad 02",
+    "slots": [
+      "iskay"
+    ],
+    "category": "Cantidades",
+    "svg": "svg/cantidad-02.svg",
+    "png": "png-transparentes/cantidad-02.png",
+    "original": "png-originales/cantidad-02.png",
+    "references": [
+      "referencias/05-juegos.png"
+    ],
+    "description": "Extract/recompose the simple cup counting illustration in FOURTH phone. EXACTLY 2 separate identical small TERRACOTTA drinking cups, no handles, each with dark oval open top. Arrange neatly in one horizontal row. All cups equal size and completely separate with clear white gaps. NO NUMERALS, text, leaves, extra objects or shadows. The count must be exactly 2.",
+    "viewBox": "350 287 841 451",
+    "aspectRatio": 1.8641810918774966,
+    "contentBoundsPng": [
+      1,
+      0,
+      1399,
+      751
+    ],
+    "svgBytes": 1740,
+    "sha256": "172aab88dcbd402d45fdfd630cfb58c4cd5e66a509b8a809aff864c017bbf71b",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false,
+    "quantity": 2
+  },
+  {
+    "id": "cantidad-03",
+    "label": "cantidad 03",
+    "slots": [
+      "kimsa"
+    ],
+    "category": "Cantidades",
+    "svg": "svg/cantidad-03.svg",
+    "png": "png-transparentes/cantidad-03.png",
+    "original": "png-originales/cantidad-03.png",
+    "references": [
+      "referencias/05-juegos.png"
+    ],
+    "description": "Extract/recompose the simple cup counting illustration in FOURTH phone. EXACTLY 3 separate identical small TERRACOTTA drinking cups, no handles, each with dark oval open top. Arrange neatly in one horizontal row. All cups equal size and completely separate with clear white gaps. NO NUMERALS, text, leaves, extra objects or shadows. The count must be exactly 3.",
+    "viewBox": "204 222 1197 423",
+    "aspectRatio": 2.8282828282828283,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      495
+    ],
+    "svgBytes": 2546,
+    "sha256": "d733819000693973fa478873f14fc4db5d99f66e1b815a44a1365dd70863bdef",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false,
+    "quantity": 3
+  },
+  {
+    "id": "cantidad-04",
+    "label": "cantidad 04",
+    "slots": [
+      "tawa"
+    ],
+    "category": "Cantidades",
+    "svg": "svg/cantidad-04.svg",
+    "png": "png-transparentes/cantidad-04.png",
+    "original": "png-originales/cantidad-04.png",
+    "references": [
+      "referencias/05-juegos.png"
+    ],
+    "description": "Extract/recompose the simple cup counting illustration in FOURTH phone. EXACTLY 4 separate identical small TERRACOTTA drinking cups, no handles, each with dark oval open top. Arrange neatly in one horizontal row. All cups equal size and completely separate with clear white gaps. NO NUMERALS, text, leaves, extra objects or shadows. The count must be exactly 4.",
+    "viewBox": "141 263 1324 345",
+    "aspectRatio": 3.835616438356164,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      365
+    ],
+    "svgBytes": 9714,
+    "sha256": "35d842d169a7a69c041b980a74aae217764850e1e15035948fda7d592a34e9fe",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false,
+    "quantity": 4
+  },
+  {
+    "id": "cantidad-05",
+    "label": "cantidad 05",
+    "slots": [
+      "phichqa"
+    ],
+    "category": "Cantidades",
+    "svg": "svg/cantidad-05.svg",
+    "png": "png-transparentes/cantidad-05.png",
+    "original": "png-originales/cantidad-05.png",
+    "references": [
+      "referencias/05-juegos.png"
+    ],
+    "description": "Extract/recompose the simple cup counting illustration in FOURTH phone. EXACTLY 5 separate identical small TERRACOTTA drinking cups, no handles, each with dark oval open top. Arrange neatly in one horizontal row. All cups equal size and completely separate with clear white gaps. NO NUMERALS, text, leaves, extra objects or shadows. The count must be exactly 5.",
+    "viewBox": "146 301 1313 265",
+    "aspectRatio": 4.946996466431095,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      283
+    ],
+    "svgBytes": 3550,
+    "sha256": "c6509e653a28bb776cc8e207d6d0e4c7f8140f90be400f062fa76f10613bbe83",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false,
+    "quantity": 5
+  },
+  {
+    "id": "cantidad-06",
+    "label": "cantidad 06",
+    "slots": [
+      "suqta"
+    ],
+    "category": "Cantidades",
+    "svg": "svg/cantidad-06.svg",
+    "png": "png-transparentes/cantidad-06.png",
+    "original": "png-originales/cantidad-06.png",
+    "references": [
+      "referencias/05-juegos.png"
+    ],
+    "description": "Extract/recompose the simple cup counting illustration in FOURTH phone. EXACTLY 6 separate identical small TERRACOTTA drinking cups, no handles, each with dark oval open top. Arrange neatly in two rows, five in top row and 1 in bottom row. All cups equal size and completely separate with clear white gaps. NO NUMERALS, text, leaves, extra objects or shadows. The count must be exactly 6.",
+    "viewBox": "90 322 1138 573",
+    "aspectRatio": 1.9858156028368794,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      705
+    ],
+    "svgBytes": 10653,
+    "sha256": "ac2cad4eb77486e3d10a18cc4b3aa3d3c93d32fe84470a6004ef9b5fedc5af91",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false,
+    "quantity": 6
+  },
+  {
+    "id": "cantidad-07",
+    "label": "cantidad 07",
+    "slots": [
+      "qanchis"
+    ],
+    "category": "Cantidades",
+    "svg": "svg/cantidad-07.svg",
+    "png": "png-transparentes/cantidad-07.png",
+    "original": "png-originales/cantidad-07.png",
+    "references": [
+      "referencias/05-juegos.png"
+    ],
+    "description": "Extract/recompose the simple cup counting illustration in FOURTH phone. EXACTLY 7 separate identical small TERRACOTTA drinking cups, no handles, each with dark oval open top. Arrange neatly in two rows, five in top row and 2 in bottom row. All cups equal size and completely separate with clear white gaps. NO NUMERALS, text, leaves, extra objects or shadows. The count must be exactly 7.",
+    "viewBox": "90 286 1200 581",
+    "aspectRatio": 2.0648967551622417,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      678
+    ],
+    "svgBytes": 4697,
+    "sha256": "678e249d986c943ce96ea26dc335b520489c4ab436ddaa929f9f8f31f08b245f",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false,
+    "quantity": 7
+  },
+  {
+    "id": "cantidad-08",
+    "label": "cantidad 08",
+    "slots": [
+      "pusaq"
+    ],
+    "category": "Cantidades",
+    "svg": "svg/cantidad-08.svg",
+    "png": "png-transparentes/cantidad-08.png",
+    "original": "png-originales/cantidad-08.png",
+    "references": [
+      "referencias/05-juegos.png"
+    ],
+    "description": "Extract/recompose the simple cup counting illustration in FOURTH phone. EXACTLY 8 separate identical small TERRACOTTA drinking cups, no handles, each with dark oval open top. Arrange neatly in two rows, five in top row and 3 in bottom row. All cups equal size and completely separate with clear white gaps. NO NUMERALS, text, leaves, extra objects or shadows. The count must be exactly 8.",
+    "viewBox": "127 232 1286 577",
+    "aspectRatio": 2.229299363057325,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      628
+    ],
+    "svgBytes": 4866,
+    "sha256": "c416b47b8f92642bf82ab1a80782e0069bf41b6a1f7b83c519fad705c6e8ba28",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false,
+    "quantity": 8
+  },
+  {
+    "id": "cantidad-09",
+    "label": "cantidad 09",
+    "slots": [
+      "jisq'un"
+    ],
+    "category": "Cantidades",
+    "svg": "svg/cantidad-09.svg",
+    "png": "png-transparentes/cantidad-09.png",
+    "original": "png-originales/cantidad-09.png",
+    "references": [
+      "referencias/05-juegos.png"
+    ],
+    "description": "Extract/recompose the simple cup counting illustration in FOURTH phone. EXACTLY 9 separate identical small TERRACOTTA drinking cups, no handles, each with dark oval open top. Arrange neatly in two rows, five in top row and 4 in bottom row. All cups equal size and completely separate with clear white gaps. NO NUMERALS, text, leaves, extra objects or shadows. The count must be exactly 9.",
+    "viewBox": "108 198 1327 621",
+    "aspectRatio": 2.1374045801526718,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      655
+    ],
+    "svgBytes": 18970,
+    "sha256": "5e8c718a0b63188e6e394252e7c95d69ece8868e98c84245f77dcf925769beec",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false,
+    "quantity": 9
+  },
+  {
+    "id": "cantidad-10",
+    "label": "cantidad 10",
+    "slots": [
+      "chunka"
+    ],
+    "category": "Cantidades",
+    "svg": "svg/cantidad-10.svg",
+    "png": "png-transparentes/cantidad-10.png",
+    "original": "png-originales/cantidad-10.png",
+    "references": [
+      "referencias/05-juegos.png"
+    ],
+    "description": "Extract/recompose the simple cup counting illustration in FOURTH phone. EXACTLY 10 separate identical small TERRACOTTA drinking cups, no handles, each with dark oval open top. Arrange neatly in two rows, five in top row and 5 in bottom row. All cups equal size and completely separate with clear white gaps. NO NUMERALS, text, leaves, extra objects or shadows. The count must be exactly 10.",
+    "viewBox": "134 240 1252 568",
+    "aspectRatio": 2.204724409448819,
+    "contentBoundsPng": [
+      0,
+      0,
+      1400,
+      635
+    ],
+    "svgBytes": 6364,
+    "sha256": "28a12e2d11566c6a3ea1e411b39ed222e3cf10110b3983decf9566efed86d7f5",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false,
+    "quantity": 10
+  },
+  {
+    "id": "muni-exito",
+    "label": "muni exito",
+    "slots": [
+      "success"
+    ],
+    "category": "Personaje",
+    "svg": "svg/muni-exito.svg",
+    "png": "png-transparentes/muni-exito.png",
+    "original": "png-originales/muni-exito.png",
+    "references": [
+      "referencias/06-racha-tienda-vidas.png"
+    ],
+    "description": "Extract ONLY Muni celebrating from FIRST phone. Preserve black scalloped bob, terracotta beret, teal sweater, gold pants, red shoes and cream satchel. Two hands raised happily, entire body. No confetti or background.",
+    "viewBox": "218 111 823 1079",
+    "aspectRatio": 0.7628571428571429,
+    "contentBoundsPng": [
+      0,
+      0,
+      1068,
+      1400
+    ],
+    "svgBytes": 272901,
+    "sha256": "bb782bb5c0f57e9b8f9008a507fcc953a3ee499fc23c17d5b9b04eae2ba32142",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false,
+    "note": "Pose estática completa, no rig de animación ni archivo Lottie."
+  },
+  {
+    "id": "muni-error",
+    "label": "muni error",
+    "slots": [
+      "error"
+    ],
+    "category": "Personaje",
+    "svg": "svg/muni-error.svg",
+    "png": "png-transparentes/muni-error.png",
+    "original": "png-originales/muni-error.png",
+    "references": [
+      "referencias/06-racha-tienda-vidas.png"
+    ],
+    "description": "Using the FIRST phone's Muni girl as identity reference, create a gentle encouraging mistake-reaction pose: same black scalloped bob, terracotta beret, teal sweater, gold pants, red shoes, cream satchel. Small thoughtful mouth, one hand near cheek, other relaxed. Warm encouraging, not crying or ashamed. Entire body, no text.",
+    "viewBox": "283 167 588 1020",
+    "aspectRatio": 0.5764285714285714,
+    "contentBoundsPng": [
+      1,
+      0,
+      806,
+      1400
+    ],
+    "svgBytes": 29126,
+    "sha256": "788b4f5e90dfa6fb8ae0cf6181b5759b0ed30c451350d14bc5882a15390f30be",
+    "vectorizer": "https://vectorize.stemonte.io/",
+    "status": "ready",
+    "realAlpha": true,
+    "embeddedRaster": false,
+    "note": "Pose estática completa, no rig de animación ni archivo Lottie."
+  }
+]

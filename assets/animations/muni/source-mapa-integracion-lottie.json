@@ -1,0 +1,286 @@
+{
+  "sourceApp": "Muni",
+  "slots": {
+    "world-1-portal": {
+      "assetId": "world-1-portal",
+      "animation": "lottie/world-1-portal.json",
+      "staticFallbackId": "world-1-portal"
+    },
+    "mission-1": {
+      "assetId": "world-1-portal",
+      "animation": "lottie/world-1-portal.json",
+      "staticFallbackId": "mission-1"
+    },
+    "world-1-casa": {
+      "assetId": "world-1-casa",
+      "animation": "lottie/world-1-casa.json",
+      "staticFallbackId": "world-1-casa"
+    },
+    "mission-2": {
+      "assetId": "world-1-casa",
+      "animation": "lottie/world-1-casa.json",
+      "staticFallbackId": "mission-2"
+    },
+    "world-1-agua": {
+      "assetId": "world-1-agua",
+      "animation": "lottie/world-1-agua.json",
+      "staticFallbackId": "world-1-agua"
+    },
+    "mission-3": {
+      "assetId": "world-1-agua",
+      "animation": "lottie/world-1-agua.json",
+      "staticFallbackId": "mission-3"
+    },
+    "world-1-colinas": {
+      "assetId": "world-1-colinas",
+      "animation": "lottie/world-1-colinas.json",
+      "staticFallbackId": "world-1-colinas"
+    },
+    "mission-4": {
+      "assetId": "world-1-colinas",
+      "animation": "lottie/world-1-colinas.json",
+      "staticFallbackId": "mission-4"
+    },
+    "world-2-arboles": {
+      "assetId": "world-2-arboles",
+      "animation": "lottie/world-2-arboles.json",
+      "staticFallbackId": "world-2-arboles"
+    },
+    "mission-5": {
+      "assetId": "world-2-arboles",
+      "animation": "lottie/world-2-arboles.json",
+      "staticFallbackId": "mission-5"
+    },
+    "world-2-vecino": {
+      "assetId": "world-2-vecino",
+      "animation": "lottie/world-2-vecino.json",
+      "staticFallbackId": "world-2-vecino"
+    },
+    "mission-6": {
+      "assetId": "world-2-vecino",
+      "animation": "lottie/world-2-vecino.json",
+      "staticFallbackId": "mission-6"
+    },
+    "world-2-hojas": {
+      "assetId": "world-2-hojas",
+      "animation": "lottie/world-2-hojas.json",
+      "staticFallbackId": "world-2-hojas"
+    },
+    "mission-7": {
+      "assetId": "world-2-hojas",
+      "animation": "lottie/world-2-hojas.json",
+      "staticFallbackId": "mission-7"
+    },
+    "world-2-puente": {
+      "assetId": "world-2-puente",
+      "animation": "lottie/world-2-puente.json",
+      "staticFallbackId": "world-2-puente"
+    },
+    "mission-8": {
+      "assetId": "world-2-puente",
+      "animation": "lottie/world-2-puente.json",
+      "staticFallbackId": "mission-8"
+    },
+    "world-3-hogar": {
+      "assetId": "world-3-hogar",
+      "animation": "lottie/world-3-hogar.json",
+      "staticFallbackId": "world-3-hogar"
+    },
+    "mission-9": {
+      "assetId": "world-3-hogar",
+      "animation": "lottie/world-3-hogar.json",
+      "staticFallbackId": "mission-9"
+    },
+    "world-3-rincon": {
+      "assetId": "world-3-rincon",
+      "animation": "lottie/world-3-rincon.json",
+      "staticFallbackId": "world-3-rincon"
+    },
+    "mission-10": {
+      "assetId": "world-3-rincon",
+      "animation": "lottie/world-3-rincon.json",
+      "staticFallbackId": "mission-10"
+    },
+    "world-3-mesa": {
+      "assetId": "world-3-mesa",
+      "animation": "lottie/world-3-mesa.json",
+      "staticFallbackId": "world-3-mesa"
+    },
+    "mission-11": {
+      "assetId": "world-3-mesa",
+      "animation": "lottie/world-3-mesa.json",
+      "staticFallbackId": "mission-11"
+    },
+    "world-3-plazuela": {
+      "assetId": "world-3-plazuela",
+      "animation": "lottie/world-3-plazuela.json",
+      "staticFallbackId": "world-3-plazuela"
+    },
+    "mission-12": {
+      "assetId": "world-3-plazuela",
+      "animation": "lottie/world-3-plazuela.json",
+      "staticFallbackId": "mission-12"
+    },
+    "world-4-canasta": {
+      "assetId": "world-4-canasta",
+      "animation": "lottie/world-4-canasta.json",
+      "staticFallbackId": "world-4-canasta"
+    },
+    "mission-13": {
+      "assetId": "world-4-canasta",
+      "animation": "lottie/world-4-canasta.json",
+      "staticFallbackId": "mission-13"
+    },
+    "world-4-puesto-tazas": {
+      "assetId": "world-4-puesto-tazas",
+      "animation": "lottie/world-4-puesto-tazas.json",
+      "staticFallbackId": "world-4-puesto-tazas"
+    },
+    "mission-14": {
+      "assetId": "world-4-puesto-tazas",
+      "animation": "lottie/world-4-puesto-tazas.json",
+      "staticFallbackId": "mission-14"
+    },
+    "world-4-verduras": {
+      "assetId": "world-4-verduras",
+      "animation": "lottie/world-4-verduras.json",
+      "staticFallbackId": "world-4-verduras"
+    },
+    "mission-15": {
+      "assetId": "world-4-verduras",
+      "animation": "lottie/world-4-verduras.json",
+      "staticFallbackId": "mission-15"
+    },
+    "world-4-puesto-flores": {
+      "assetId": "world-4-puesto-flores",
+      "animation": "lottie/world-4-puesto-flores.json",
+      "staticFallbackId": "world-4-puesto-flores"
+    },
+    "mission-16": {
+      "assetId": "world-4-puesto-flores",
+      "animation": "lottie/world-4-puesto-flores.json",
+      "staticFallbackId": "mission-16"
+    },
+    "world-5-flores": {
+      "assetId": "world-5-flores",
+      "animation": "lottie/world-5-flores.json",
+      "staticFallbackId": "world-5-flores"
+    },
+    "mission-17": {
+      "assetId": "world-5-flores",
+      "animation": "lottie/world-5-flores.json",
+      "staticFallbackId": "mission-17"
+    },
+    "world-5-macetas": {
+      "assetId": "world-5-macetas",
+      "animation": "lottie/world-5-macetas.json",
+      "staticFallbackId": "world-5-macetas"
+    },
+    "mission-18": {
+      "assetId": "world-5-macetas",
+      "animation": "lottie/world-5-macetas.json",
+      "staticFallbackId": "mission-18"
+    },
+    "world-5-hojas": {
+      "assetId": "world-5-hojas",
+      "animation": "lottie/world-5-hojas.json",
+      "staticFallbackId": "world-5-hojas"
+    },
+    "mission-19": {
+      "assetId": "world-5-hojas",
+      "animation": "lottie/world-5-hojas.json",
+      "staticFallbackId": "mission-19"
+    },
+    "world-5-arco": {
+      "assetId": "world-5-arco",
+      "animation": "lottie/world-5-arco.json",
+      "staticFallbackId": "world-5-arco"
+    },
+    "mission-20": {
+      "assetId": "world-5-arco",
+      "animation": "lottie/world-5-arco.json",
+      "staticFallbackId": "mission-20"
+    },
+    "world-6-banco": {
+      "assetId": "world-6-banco",
+      "animation": "lottie/world-6-banco.json",
+      "staticFallbackId": "world-6-banco"
+    },
+    "mission-21": {
+      "assetId": "world-6-banco",
+      "animation": "lottie/world-6-banco.json",
+      "staticFallbackId": "mission-21"
+    },
+    "world-6-encuentro": {
+      "assetId": "world-6-encuentro",
+      "animation": "lottie/world-6-encuentro.json",
+      "staticFallbackId": "world-6-encuentro"
+    },
+    "mission-22": {
+      "assetId": "world-6-encuentro",
+      "animation": "lottie/world-6-encuentro.json",
+      "staticFallbackId": "mission-22"
+    },
+    "world-6-mesa": {
+      "assetId": "world-6-mesa",
+      "animation": "lottie/world-6-mesa.json",
+      "staticFallbackId": "world-6-mesa"
+    },
+    "mission-23": {
+      "assetId": "world-6-mesa",
+      "animation": "lottie/world-6-mesa.json",
+      "staticFallbackId": "mission-23"
+    },
+    "world-6-meta": {
+      "assetId": "world-6-meta",
+      "animation": "lottie/world-6-meta.json",
+      "staticFallbackId": "world-6-meta"
+    },
+    "mission-24": {
+      "assetId": "world-6-meta",
+      "animation": "lottie/world-6-meta.json",
+      "staticFallbackId": "mission-24"
+    },
+    "p'anqa": {
+      "assetId": "vocab-libro",
+      "animation": "lottie/vocab-libro.json",
+      "staticFallbackId": "p'anqa"
+    },
+    "pause-book": {
+      "assetId": "vocab-libro",
+      "animation": "lottie/vocab-libro.json",
+      "staticFallbackId": "pause-book"
+    },
+    "review-book": {
+      "assetId": "libro-repaso",
+      "animation": "lottie/libro-repaso.json",
+      "staticFallbackId": "review-book"
+    },
+    "empty-collection": {
+      "assetId": "coleccion-vacia",
+      "animation": "lottie/coleccion-vacia.json",
+      "staticFallbackId": "empty-collection"
+    }
+  },
+  "events": {
+    "missionComplete": {
+      "animation": "lottie/confeti-nivel-completado.json",
+      "durationMs": 4400,
+      "loop": false,
+      "deduplicateBy": "lastResult.sessionId",
+      "onlyKind": "lesson",
+      "trigger": "Fresh completion event; do not replay persisted old results.",
+      "reducedMotion": "omit",
+      "placement": "full-window-overlay",
+      "pointerEvents": "none"
+    }
+  },
+  "policy": {
+    "animateWorldWhenVisible": true,
+    "animateMissionSheetWhenOpen": true,
+    "animateLargeBookIllustrations": true,
+    "animateListThumbnails": false,
+    "animateSmallNavigationIcons": false,
+    "useStaticSVGWhenReducedMotion": true
+  }
+}

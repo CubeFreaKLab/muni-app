@@ -1,0 +1,14 @@
+[
+  {
+    "id": "quh-BO",
+    "displayName": "Quechua",
+    "regionLabel": "Bolivia",
+    "status": "prototype_in_preparation"
+  },
+  {
+    "id": "ay-BO",
+    "displayName": "Aymara",
+    "regionLabel": "Bolivia",
+    "status": "coming_soon"
+  }
+]

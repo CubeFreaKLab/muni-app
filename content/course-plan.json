@@ -1,0 +1,605 @@
+{
+  "version": 1,
+  "status": "planned_not_a_validated_course",
+  "languagePackId": "quh-BO",
+  "languageName": "Quechua boliviano",
+  "editorialPolicy": "Base boliviana documentada; identificar variantes regionales por entrada, sin mezclar sistemas ortográficos automáticamente.",
+  "teachingLanguage": "es-BO",
+  "levelCount": 24,
+  "units": [
+    {
+      "id": "quh-bo-u01",
+      "nameEs": "Mi primer entorno",
+      "learningObjective": "Reconocer vocabulario concreto en escenas sin audio.",
+      "levels": [
+        {
+          "id": "quh-bo-u01-l01",
+          "number": 1,
+          "titleEs": "Casa, agua y sol",
+          "kind": "lesson",
+          "status": "planned",
+          "contentIds": [],
+          "newItemsTarget": {
+            "min": 3,
+            "max": 4
+          },
+          "exerciseCountTarget": 8,
+          "games": [
+            "picture_choice",
+            "match_pairs",
+            "build_word"
+          ],
+          "requiresAudio": false,
+          "prerequisiteLevelId": null
+        },
+        {
+          "id": "quh-bo-u01-l02",
+          "number": 2,
+          "titleEs": "Lo que veo afuera",
+          "kind": "lesson",
+          "status": "planned",
+          "contentIds": [],
+          "newItemsTarget": {
+            "min": 3,
+            "max": 4
+          },
+          "exerciseCountTarget": 8,
+          "games": [
+            "picture_choice",
+            "match_pairs",
+            "build_word"
+          ],
+          "requiresAudio": false,
+          "prerequisiteLevelId": "quh-bo-u01-l01"
+        },
+        {
+          "id": "quh-bo-u01-l03",
+          "number": 3,
+          "titleEs": "Reconozco mi entorno",
+          "kind": "lesson",
+          "status": "planned",
+          "contentIds": [],
+          "newItemsTarget": {
+            "min": 3,
+            "max": 4
+          },
+          "exerciseCountTarget": 8,
+          "games": [
+            "picture_choice",
+            "match_pairs",
+            "build_word"
+          ],
+          "requiresAudio": false,
+          "prerequisiteLevelId": "quh-bo-u01-l02"
+        },
+        {
+          "id": "quh-bo-u01-l04",
+          "number": 4,
+          "titleEs": "Paseo de repaso",
+          "kind": "review",
+          "status": "planned",
+          "contentIds": [],
+          "newItemsTarget": {
+            "min": 0,
+            "max": 0
+          },
+          "exerciseCountTarget": 10,
+          "games": [
+            "scene_hunt",
+            "memory_pairs",
+            "sort_words"
+          ],
+          "requiresAudio": false,
+          "prerequisiteLevelId": "quh-bo-u01-l03"
+        }
+      ]
+    },
+    {
+      "id": "quh-bo-u02",
+      "nameEs": "Animales y naturaleza",
+      "learningObjective": "Asociar palabras documentadas con seres vivos y escenas claras.",
+      "levels": [
+        {
+          "id": "quh-bo-u02-l01",
+          "number": 5,
+          "titleEs": "Animales cercanos",
+          "kind": "lesson",
+          "status": "planned",
+          "contentIds": [],
+          "newItemsTarget": {
+            "min": 3,
+            "max": 4
+          },
+          "exerciseCountTarget": 8,
+          "games": [
+            "picture_choice",
+            "match_pairs",
+            "build_word"
+          ],
+          "requiresAudio": false,
+          "prerequisiteLevelId": "quh-bo-u01-l04"
+        },
+        {
+          "id": "quh-bo-u02-l02",
+          "number": 6,
+          "titleEs": "Plantas y paisaje",
+          "kind": "lesson",
+          "status": "planned",
+          "contentIds": [],
+          "newItemsTarget": {
+            "min": 3,
+            "max": 4
+          },
+          "exerciseCountTarget": 8,
+          "games": [
+            "picture_choice",
+            "match_pairs",
+            "build_word"
+          ],
+          "requiresAudio": false,
+          "prerequisiteLevelId": "quh-bo-u02-l01"
+        },
+        {
+          "id": "quh-bo-u02-l03",
+          "number": 7,
+          "titleEs": "¿Quién vive aquí?",
+          "kind": "lesson",
+          "status": "planned",
+          "contentIds": [],
+          "newItemsTarget": {
+            "min": 3,
+            "max": 4
+          },
+          "exerciseCountTarget": 8,
+          "games": [
+            "picture_choice",
+            "match_pairs",
+            "build_word"
+          ],
+          "requiresAudio": false,
+          "prerequisiteLevelId": "quh-bo-u02-l02"
+        },
+        {
+          "id": "quh-bo-u02-l04",
+          "number": 8,
+          "titleEs": "Encuentro en el camino",
+          "kind": "review",
+          "status": "planned",
+          "contentIds": [],
+          "newItemsTarget": {
+            "min": 0,
+            "max": 0
+          },
+          "exerciseCountTarget": 10,
+          "games": [
+            "scene_hunt",
+            "memory_pairs",
+            "sort_words"
+          ],
+          "requiresAudio": false,
+          "prerequisiteLevelId": "quh-bo-u02-l03"
+        }
+      ]
+    },
+    {
+      "id": "quh-bo-u03",
+      "nameEs": "Mi casa y mis objetos",
+      "learningObjective": "Reconocer y recuperar vocabulario de objetos cotidianos.",
+      "levels": [
+        {
+          "id": "quh-bo-u03-l01",
+          "number": 9,
+          "titleEs": "Objetos de casa",
+          "kind": "lesson",
+          "status": "planned",
+          "contentIds": [],
+          "newItemsTarget": {
+            "min": 3,
+            "max": 4
+          },
+          "exerciseCountTarget": 8,
+          "games": [
+            "picture_choice",
+            "match_pairs",
+            "build_word"
+          ],
+          "requiresAudio": false,
+          "prerequisiteLevelId": "quh-bo-u02-l04"
+        },
+        {
+          "id": "quh-bo-u03-l02",
+          "number": 10,
+          "titleEs": "Mis cosas de cada día",
+          "kind": "lesson",
+          "status": "planned",
+          "contentIds": [],
+          "newItemsTarget": {
+            "min": 3,
+            "max": 4
+          },
+          "exerciseCountTarget": 8,
+          "games": [
+            "picture_choice",
+            "match_pairs",
+            "build_word"
+          ],
+          "requiresAudio": false,
+          "prerequisiteLevelId": "quh-bo-u03-l01"
+        },
+        {
+          "id": "quh-bo-u03-l03",
+          "number": 11,
+          "titleEs": "Encuentra cada objeto",
+          "kind": "lesson",
+          "status": "planned",
+          "contentIds": [],
+          "newItemsTarget": {
+            "min": 3,
+            "max": 4
+          },
+          "exerciseCountTarget": 8,
+          "games": [
+            "picture_choice",
+            "match_pairs",
+            "build_word"
+          ],
+          "requiresAudio": false,
+          "prerequisiteLevelId": "quh-bo-u03-l02"
+        },
+        {
+          "id": "quh-bo-u03-l04",
+          "number": 12,
+          "titleEs": "Ordenamos la casa",
+          "kind": "review",
+          "status": "planned",
+          "contentIds": [],
+          "newItemsTarget": {
+            "min": 0,
+            "max": 0
+          },
+          "exerciseCountTarget": 10,
+          "games": [
+            "scene_hunt",
+            "memory_pairs",
+            "sort_words"
+          ],
+          "requiresAudio": false,
+          "prerequisiteLevelId": "quh-bo-u03-l03"
+        }
+      ]
+    },
+    {
+      "id": "quh-bo-u04",
+      "nameEs": "Números y cantidades",
+      "learningObjective": "Reconocer números del uno al diez y asociarlos con cantidades.",
+      "levels": [
+        {
+          "id": "quh-bo-u04-l01",
+          "number": 13,
+          "titleEs": "Del uno al cinco",
+          "kind": "lesson",
+          "status": "planned",
+          "contentIds": [],
+          "newItemsTarget": {
+            "min": 3,
+            "max": 4
+          },
+          "exerciseCountTarget": 8,
+          "games": [
+            "count_objects",
+            "match_pairs",
+            "build_word"
+          ],
+          "requiresAudio": false,
+          "prerequisiteLevelId": "quh-bo-u03-l04"
+        },
+        {
+          "id": "quh-bo-u04-l02",
+          "number": 14,
+          "titleEs": "Del seis al diez",
+          "kind": "lesson",
+          "status": "planned",
+          "contentIds": [],
+          "newItemsTarget": {
+            "min": 3,
+            "max": 4
+          },
+          "exerciseCountTarget": 8,
+          "games": [
+            "count_objects",
+            "match_pairs",
+            "build_word"
+          ],
+          "requiresAudio": false,
+          "prerequisiteLevelId": "quh-bo-u04-l01"
+        },
+        {
+          "id": "quh-bo-u04-l03",
+          "number": 15,
+          "titleEs": "¿Cuántos hay?",
+          "kind": "lesson",
+          "status": "planned",
+          "contentIds": [],
+          "newItemsTarget": {
+            "min": 3,
+            "max": 4
+          },
+          "exerciseCountTarget": 8,
+          "games": [
+            "count_objects",
+            "match_pairs",
+            "build_word"
+          ],
+          "requiresAudio": false,
+          "prerequisiteLevelId": "quh-bo-u04-l02"
+        },
+        {
+          "id": "quh-bo-u04-l04",
+          "number": 16,
+          "titleEs": "El reto de contar",
+          "kind": "review",
+          "status": "planned",
+          "contentIds": [],
+          "newItemsTarget": {
+            "min": 0,
+            "max": 0
+          },
+          "exerciseCountTarget": 10,
+          "games": [
+            "count_objects",
+            "match_pairs",
+            "build_word"
+          ],
+          "requiresAudio": false,
+          "prerequisiteLevelId": "quh-bo-u04-l03"
+        }
+      ]
+    },
+    {
+      "id": "quh-bo-u05",
+      "nameEs": "Colores y descripciones",
+      "learningObjective": "Relacionar atributos con imágenes; combinar palabras solo si la construcción está documentada.",
+      "levels": [
+        {
+          "id": "quh-bo-u05-l01",
+          "number": 17,
+          "titleEs": "Colores del entorno",
+          "kind": "lesson",
+          "status": "planned",
+          "contentIds": [],
+          "newItemsTarget": {
+            "min": 3,
+            "max": 4
+          },
+          "exerciseCountTarget": 8,
+          "games": [
+            "picture_choice",
+            "match_pairs",
+            "build_word"
+          ],
+          "requiresAudio": false,
+          "prerequisiteLevelId": "quh-bo-u04-l04"
+        },
+        {
+          "id": "quh-bo-u05-l02",
+          "number": 18,
+          "titleEs": "Tamaño y cualidades",
+          "kind": "lesson",
+          "status": "planned",
+          "contentIds": [],
+          "newItemsTarget": {
+            "min": 3,
+            "max": 4
+          },
+          "exerciseCountTarget": 8,
+          "games": [
+            "picture_choice",
+            "match_pairs",
+            "build_word"
+          ],
+          "requiresAudio": false,
+          "prerequisiteLevelId": "quh-bo-u05-l01"
+        },
+        {
+          "id": "quh-bo-u05-l03",
+          "number": 19,
+          "titleEs": "Elige la descripción",
+          "kind": "lesson",
+          "status": "planned",
+          "contentIds": [],
+          "newItemsTarget": {
+            "min": 3,
+            "max": 4
+          },
+          "exerciseCountTarget": 8,
+          "games": [
+            "picture_choice",
+            "match_pairs",
+            "build_word"
+          ],
+          "requiresAudio": false,
+          "prerequisiteLevelId": "quh-bo-u05-l02"
+        },
+        {
+          "id": "quh-bo-u05-l04",
+          "number": 20,
+          "titleEs": "Un paisaje de colores",
+          "kind": "review",
+          "status": "planned",
+          "contentIds": [],
+          "newItemsTarget": {
+            "min": 0,
+            "max": 0
+          },
+          "exerciseCountTarget": 10,
+          "games": [
+            "scene_hunt",
+            "memory_pairs",
+            "sort_words"
+          ],
+          "requiresAudio": false,
+          "prerequisiteLevelId": "quh-bo-u05-l03"
+        }
+      ]
+    },
+    {
+      "id": "quh-bo-u06",
+      "nameEs": "Personas y primeros intercambios",
+      "learningObjective": "Interpretar parentesco y fórmulas breves con contexto y fuentes; no generar diálogos libres.",
+      "levels": [
+        {
+          "id": "quh-bo-u06-l01",
+          "number": 21,
+          "titleEs": "Personas cercanas",
+          "kind": "lesson",
+          "status": "planned",
+          "contentIds": [],
+          "newItemsTarget": {
+            "min": 3,
+            "max": 4
+          },
+          "exerciseCountTarget": 8,
+          "games": [
+            "picture_choice",
+            "match_pairs",
+            "build_word"
+          ],
+          "requiresAudio": false,
+          "prerequisiteLevelId": "quh-bo-u05-l04"
+        },
+        {
+          "id": "quh-bo-u06-l02",
+          "number": 22,
+          "titleEs": "Saludos en contexto",
+          "kind": "lesson",
+          "status": "planned",
+          "contentIds": [],
+          "newItemsTarget": {
+            "min": 3,
+            "max": 4
+          },
+          "exerciseCountTarget": 8,
+          "games": [
+            "dialogue_choice",
+            "match_pairs",
+            "picture_choice"
+          ],
+          "requiresAudio": false,
+          "prerequisiteLevelId": "quh-bo-u06-l01"
+        },
+        {
+          "id": "quh-bo-u06-l03",
+          "number": 23,
+          "titleEs": "Un intercambio breve",
+          "kind": "lesson",
+          "status": "planned",
+          "contentIds": [],
+          "newItemsTarget": {
+            "min": 3,
+            "max": 4
+          },
+          "exerciseCountTarget": 8,
+          "games": [
+            "dialogue_choice",
+            "match_pairs",
+            "picture_choice"
+          ],
+          "requiresAudio": false,
+          "prerequisiteLevelId": "quh-bo-u06-l02"
+        },
+        {
+          "id": "quh-bo-u06-l04",
+          "number": 24,
+          "titleEs": "Nuestro primer encuentro",
+          "kind": "review",
+          "status": "planned",
+          "contentIds": [],
+          "newItemsTarget": {
+            "min": 0,
+            "max": 0
+          },
+          "exerciseCountTarget": 10,
+          "games": [
+            "dialogue_choice",
+            "match_pairs",
+            "picture_choice"
+          ],
+          "requiresAudio": false,
+          "prerequisiteLevelId": "quh-bo-u06-l03"
+        }
+      ]
+    }
+  ],
+  "newItemTarget": {
+    "min": 54,
+    "max": 72,
+    "note": "Objetivo editorial condicionado a evidencia; los títulos de unidad pueden ajustarse si una construcción no se resuelve."
+  },
+  "audioEnabled": false,
+  "gameTypes": [
+    {
+      "id": "picture_choice",
+      "name": "Elige la imagen",
+      "availableWithoutAudio": true,
+      "purpose": "Comprensión de palabra escrita",
+      "input": "Tocar una de varias imágenes inequívocas"
+    },
+    {
+      "id": "match_pairs",
+      "name": "Une las parejas",
+      "availableWithoutAudio": true,
+      "purpose": "Asociación significado-forma",
+      "input": "Tocar dos tarjetas; arrastre opcional con alternativa táctil"
+    },
+    {
+      "id": "memory_pairs",
+      "name": "Memoria de palabras",
+      "availableWithoutAudio": true,
+      "purpose": "Recuperación repetida",
+      "input": "Destapar palabra e imagen correspondiente"
+    },
+    {
+      "id": "build_word",
+      "name": "Construye la palabra",
+      "availableWithoutAudio": true,
+      "purpose": "Ortografía",
+      "input": "Ordenar fichas de grafemas definidos en el corpus; sin separar dígrafos arbitrariamente"
+    },
+    {
+      "id": "scene_hunt",
+      "name": "Encuentra en la escena",
+      "availableWithoutAudio": true,
+      "purpose": "Transferencia a contexto visual",
+      "input": "Tocar un objeto nombrado dentro de una escena"
+    },
+    {
+      "id": "sort_words",
+      "name": "Cada palabra en su lugar",
+      "availableWithoutAudio": true,
+      "purpose": "Comprensión de categorías",
+      "input": "Clasificar palabras en categorías claras rotuladas en español"
+    },
+    {
+      "id": "count_objects",
+      "name": "Cuenta y elige",
+      "availableWithoutAudio": true,
+      "purpose": "Cantidad y número",
+      "input": "Contar objetos visibles y seleccionar el número escrito en quechua"
+    },
+    {
+      "id": "dialogue_choice",
+      "name": "Completa el encuentro",
+      "availableWithoutAudio": true,
+      "purpose": "Comprensión de intercambios breves",
+      "input": "Elegir una respuesta de un diálogo documentado; habilitar solo tras revisión contextual"
+    }
+  ],
+  "releasePolicy": "Las unidades se habilitan con contenido revisado; no rellenar niveles planificados con texto inventado.",
+  "reviewPolicy": {
+    "revisitMistakes": true,
+    "newItemsPerLessonMax": 4,
+    "timerRequired": false,
+    "lifeSystem": false,
+    "completion": "Resolver actividades pendientes con retroalimentación; registrar errores e intentos sin castigo."
+  }
+}

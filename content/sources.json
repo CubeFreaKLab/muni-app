@@ -1,0 +1,63 @@
+[
+  {
+    "id": "cenaq-dictionary",
+    "title": "Qhichwa Suyup Simi Pirwan · Diccionario de la Nación Quechua",
+    "institution": "Consejo Educativo de la Nación Quechua (CENAQ)",
+    "url": "https://www.proeibandes.org/wp-content/uploads/2019/04/4Diccionario.pdf",
+    "role": "Fuente léxica boliviana consultada",
+    "checkedPdfPages1Based": [
+      10,
+      24,
+      34,
+      55,
+      56,
+      69,
+      70,
+      83,
+      84,
+      107,
+      124,
+      127,
+      156,
+      158,
+      161,
+      166,
+      167,
+      170,
+      172,
+      173,
+      193,
+      198,
+      202,
+      216,
+      222,
+      226,
+      234,
+      242,
+      252,
+      255,
+      259,
+      262
+    ],
+    "note": "La fecha de subida no se usa como fecha de edición. No se copia el diccionario completo dentro de la app.",
+    "checkedAt": "2026-09-08"
+  },
+  {
+    "id": "ilc-quechua",
+    "title": "Instituto de Lengua y Cultura Quechua",
+    "url": "https://quechua.ipelc.gob.bo/?lang=en",
+    "role": "Referencia institucional para fuentes, norma y futura revisión lingüística",
+    "contentValidation": "No se ha obtenido una revisión ni aval de esta institución."
+  },
+  {
+    "id": "chile-quechua-third-grade",
+    "title": "Programa de Estudio de Quechua, tercer año básico",
+    "url": "https://peib.mineduc.cl/wp-content/uploads/2016/04/201210041826030.ProgQuechua-3web.pdf",
+    "role": "Contraste complementario de tres palabras, no norma base boliviana",
+    "checkedPdfPages1Based": [
+      68,
+      112,
+      113
+    ]
+  }
+]

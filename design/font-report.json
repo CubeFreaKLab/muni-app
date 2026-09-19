@@ -1,0 +1,47 @@
+[
+  {
+    "requestedFamily": "Matcha Mint",
+    "internalFamily": "Matcha Mint",
+    "postscriptName": "MatchaMint",
+    "localPath": "assets/fonts/MatchaMint.otf",
+    "source": "Matcha Mint.otf",
+    "sha256": "4d163619296b9f0a6e4237b9bc2361508446096239b8475448e3853a74135d48",
+    "missingRequiredGlyphs": [
+      "Á",
+      "É",
+      "Í",
+      "Ó",
+      "Ú",
+      "á",
+      "é",
+      "í",
+      "ó",
+      "ú",
+      "Ñ",
+      "ñ",
+      "Ü",
+      "ü",
+      "¿",
+      "¡"
+    ],
+    "typographicApostrophes": {
+      "’": true,
+      "ʼ": false
+    },
+    "embeddingLicenseStatus": "No se ha verificado la licencia de distribución de app; la copia es local para preparar el prototipo."
+  },
+  {
+    "requestedFamily": "Milky Nice Clean",
+    "internalFamily": "Milky Nice Clean",
+    "postscriptName": "MilkyNiceClean",
+    "localPath": "assets/fonts/MilkyNiceClean.ttf",
+    "source": "MilkyNice-Clean.ttf",
+    "sha256": "248fd14e42d9b53d2771e24e7c37e53542abbacd7f3f0a909c6cd645d4c27519",
+    "missingRequiredGlyphs": [],
+    "typographicApostrophes": {
+      "’": true,
+      "ʼ": false
+    },
+    "embeddingLicenseStatus": "No se ha verificado la licencia de distribución de app; la copia es local para preparar el prototipo."
+  }
+]

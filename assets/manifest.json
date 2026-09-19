@@ -1,0 +1,2548 @@
+{
+  "version": 3,
+  "figmaFileKey": "D8rKdzc1cwuRucWjWd4y8L",
+  "figmaRootNodeId": "0:1",
+  "status": "brand-originals-and-local-component-pack-integrated",
+  "syncPolicy": "Conservar originales, nodos de procedencia y hashes al actualizar los recursos.",
+  "assets": [
+    {
+      "id": "brand/logo-cream",
+      "kind": "brand-vector",
+      "status": "downloaded",
+      "figmaNodeId": "8:49",
+      "localPath": "assets/brand/logo-cream.svg",
+      "derivedPath": "assets/derived/logo-cream.svg",
+      "sha256": "6069e4eb34cecfbcafb790be4f4133b9a94ffba261030f47cc9294919f637880",
+      "downloadedAt": "2026-09-08",
+      "transformation": "Removed only outer #1E1E1E editor rectangle; prefixed SVG IDs to avoid clip collisions. Paths and original colors retained.",
+      "rasterEmbedded": false
+    },
+    {
+      "id": "brand/logo-cocoa",
+      "kind": "brand-vector",
+      "status": "downloaded",
+      "figmaNodeId": "8:79",
+      "localPath": "assets/brand/logo-cocoa.svg",
+      "derivedPath": "assets/derived/logo-cocoa.svg",
+      "sha256": "2e2e4ed1a8ad3ccb4eb50b651adc0cba5af439144f3c0ff0fda3a9c2e25fe3c6",
+      "downloadedAt": "2026-09-08",
+      "transformation": "Removed only outer #1E1E1E editor rectangle; prefixed SVG IDs to avoid clip collisions. Paths and original colors retained.",
+      "rasterEmbedded": false
+    },
+    {
+      "id": "brand/icon",
+      "kind": "brand-vector",
+      "status": "downloaded",
+      "figmaNodeId": "8:34",
+      "localPath": "assets/brand/icon.svg",
+      "derivedPath": "assets/derived/icon.svg",
+      "sha256": "ad19d5abe5192eafe4602466256c8b9045555366a898a2a9f0e2524d21640546",
+      "downloadedAt": "2026-09-08",
+      "transformation": "Removed only outer #1E1E1E editor rectangle; prefixed SVG IDs to avoid clip collisions. Paths and original colors retained.",
+      "rasterEmbedded": false
+    },
+    {
+      "id": "character/muni-idle",
+      "kind": "illustration-vector",
+      "status": "downloaded",
+      "figmaNodeId": "1:2",
+      "localPath": "assets/character/muni-idle.svg",
+      "derivedPath": "assets/derived/muni-idle.svg",
+      "sha256": "c3fc2ec338a3df46ce4312e9461e74fabe750a8d0b2d0eea373303d108c06427",
+      "downloadedAt": "2026-09-08",
+      "transformation": "Removed only outer #1E1E1E editor rectangle; prefixed SVG IDs to avoid clip collisions. Paths and original colors retained.",
+      "rasterEmbedded": false
+    },
+    {
+      "id": "character/muni-celebrate",
+      "kind": "layered-illustration",
+      "status": "requested",
+      "figmaNodeId": null,
+      "localPath": null,
+      "sha256": null
+    },
+    {
+      "id": "map/unit-01",
+      "kind": "layered-map",
+      "status": "requested",
+      "figmaNodeId": null,
+      "localPath": null,
+      "sha256": null
+    },
+    {
+      "id": "learning/house",
+      "kind": "illustration",
+      "status": "requested",
+      "figmaNodeId": null,
+      "localPath": null,
+      "sha256": null
+    },
+    {
+      "id": "learning/sun",
+      "kind": "illustration",
+      "status": "requested",
+      "figmaNodeId": null,
+      "localPath": null,
+      "sha256": null
+    },
+    {
+      "id": "learning/water",
+      "kind": "illustration",
+      "status": "requested",
+      "figmaNodeId": null,
+      "localPath": null,
+      "sha256": null
+    },
+    {
+      "id": "ui/navigation",
+      "kind": "icon-set",
+      "status": "requested",
+      "figmaNodeId": null,
+      "localPath": null,
+      "sha256": null
+    },
+    {
+      "id": "brand/native-splash-logo",
+      "kind": "raster-derivative",
+      "status": "derived-from-original",
+      "figmaNodeId": "8:49",
+      "localPath": "assets/derived/splash-logo.png",
+      "sourcePath": "assets/derived/logo-cream.svg",
+      "sha256": "5be45cba29ed37753d6c6f8af9efd4b3918021161b56fea0c0a86526e7aa5ab3",
+      "transformation": "PNG transparente proporcional de 630 px de ancho para splash nativo; logo original sin redibujar. El SVG original permanece disponible.",
+      "nativeSplashVerified": false
+    },
+    {
+      "id": "componentes-v1/fondo-bienvenida",
+      "assetId": "fondo-bienvenida",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/fondo-bienvenida.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/fondo-bienvenida.svg",
+      "sha256": "f28c5c49d5ebe7f19b09d33423391c2c4de0684094e219285528bf40c088a44d",
+      "derivedSha256": "5988466a49c3e0e0fb5065f356e72956ab37d89967af883c6b1cb9820738c481",
+      "viewBox": "50 192 1351 822",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/fondo-bienvenida.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/world-1-portal",
+      "assetId": "world-1-portal",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/world-1-portal.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/world-1-portal.svg",
+      "sha256": "de3450017af747f4b3e967ea8af60fda172e9e71c415bf1d07b38130b50ac299",
+      "derivedSha256": "c036df541b836c0a148600f8fdd948a4b62a7b78b99cad4c85670fed39ce1415",
+      "viewBox": "189 311 1162 403",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/world-1-portal.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/world-1-casa",
+      "assetId": "world-1-casa",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/world-1-casa.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/world-1-casa.svg",
+      "sha256": "0e1b87cd2ee163e51f41b4775b83724dfe5ae177570b1fc66189f04f01000aac",
+      "derivedSha256": "922abf1e17c643e13a50ec28952a438c8e47363cde011ae147eff1dfb2b0958a",
+      "viewBox": "327 220 886 572",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/world-1-casa.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/world-1-agua",
+      "assetId": "world-1-agua",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/world-1-agua.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/world-1-agua.svg",
+      "sha256": "75ac0080d6ea4642761d2e97f4cbeef130c9f0fe9a03c50e848e8f94997a391b",
+      "derivedSha256": "812ba58b57be4b98caac06e9cab96c504b73f1b9350bc3157f1a14756dc59099",
+      "viewBox": "330 307 850 452",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/world-1-agua.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/world-1-colinas",
+      "assetId": "world-1-colinas",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/world-1-colinas.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/world-1-colinas.svg",
+      "sha256": "aff249805f180994122ff369f67e21a3d6497ed3f48847e99aaec358d8ab3966",
+      "derivedSha256": "7b2b3e30889eb2f28cd65f07da304a0c229b3d6f243e88b998a7e38b5ec584d0",
+      "viewBox": "156 278 960 690",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/world-1-colinas.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/world-2-arboles",
+      "assetId": "world-2-arboles",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/world-2-arboles.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/world-2-arboles.svg",
+      "sha256": "686abbb3e42176697cb6a275ecac156297d38ee85f2f2dd45e8165ed0046a0cc",
+      "derivedSha256": "686abbb3e42176697cb6a275ecac156297d38ee85f2f2dd45e8165ed0046a0cc",
+      "viewBox": "344 346 571 558",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/world-2-arboles.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/world-2-vecino",
+      "assetId": "world-2-vecino",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/world-2-vecino.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/world-2-vecino.svg",
+      "sha256": "2f9b9611160fd5c1148bdf4661afcd33f9b7cf3c51366d1de7e95913d2f8e75b",
+      "derivedSha256": "f0a1a91df31dc5c06fdc4fad4379e8fd2cf1fe812a89f3dc83b0102b37435142",
+      "viewBox": "261 235 732 759",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/world-2-vecino.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/world-2-hojas",
+      "assetId": "world-2-hojas",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/world-2-hojas.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/world-2-hojas.svg",
+      "sha256": "0558c620e2ca173daaf59e1e5f0b4aac98045c30322c3145101f8d305d169bb7",
+      "derivedSha256": "8ba15e8fceeb38fc63241ecca574b2439c6a151880b6deb08dc85a7cb542d56b",
+      "viewBox": "242 282 775 679",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/world-2-hojas.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/world-2-puente",
+      "assetId": "world-2-puente",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/world-2-puente.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/world-2-puente.svg",
+      "sha256": "ff6fafc8c54804c6f40c8c686ce90fc581e16281e57bc05037446ab29307a652",
+      "derivedSha256": "abcdd6cad3d81de535ac7b98c262a9eed911777b42243ba7595aa78643701e3e",
+      "viewBox": "0 0 1536 1024",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/world-2-puente.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained.",
+      "displayFrame": [
+        0.115,
+        0.3397642015005359,
+        0.77,
+        0.3311897106109325
+      ],
+      "frameNote": "Catalogue bridge bounds plus 6 px padding; trims only transparent margin in the view, not in the SVG."
+    },
+    {
+      "id": "componentes-v1/world-3-hogar",
+      "assetId": "world-3-hogar",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/world-3-hogar.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/world-3-hogar.svg",
+      "sha256": "2587af4f6cfa7f68ef6b95a2896a6ff948a0bad58a635df0e2015e4076e91931",
+      "derivedSha256": "9d4223b7d78aad712611c766116204d9996bb90a9d85fbbe155509243d256c4a",
+      "viewBox": "169 263 905 708",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/world-3-hogar.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/world-3-rincon",
+      "assetId": "world-3-rincon",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/world-3-rincon.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/world-3-rincon.svg",
+      "sha256": "85d5315a4103a06a04915fbe9362b726cd16bfbc897ebeb0165e30643b8001fa",
+      "derivedSha256": "75c8cfed1650c9f6b45af0f21b709484368dd17d9481622d0a2b84d4d2878f37",
+      "viewBox": "264 245 815 769",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/world-3-rincon.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/world-3-mesa",
+      "assetId": "world-3-mesa",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/world-3-mesa.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/world-3-mesa.svg",
+      "sha256": "6e01e96d9a3e6fef4f2fcf9675678fdeb381d9173be23c8a904ba98deb5b3d45",
+      "derivedSha256": "e03b4e350f73c5dc42bab358535f26d294de2893d2ae53a36d179e0aba25d174",
+      "viewBox": "262 214 1009 610",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/world-3-mesa.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/world-3-plazuela",
+      "assetId": "world-3-plazuela",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/world-3-plazuela.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/world-3-plazuela.svg",
+      "sha256": "605ab54d00c419b7186ca046b12c7e1a6d94d962c363ed85926b41657e0e7dc8",
+      "derivedSha256": "291046ed488ff57881278a22f239b6e842d37c6c39e1dfd0cc4b9c60549a26af",
+      "viewBox": "186 258 1173 514",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/world-3-plazuela.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/world-4-canasta",
+      "assetId": "world-4-canasta",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/world-4-canasta.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/world-4-canasta.svg",
+      "sha256": "015a6a013816ed605595b70f231d39f41c944111fd4b0f706a4a4bbd07aead7f",
+      "derivedSha256": "8cca53a503512a3e7a12e6d588164a839f4c0ee27cd05f37def492f07877f858",
+      "viewBox": "203 247 852 748",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/world-4-canasta.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/world-4-puesto-tazas",
+      "assetId": "world-4-puesto-tazas",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/world-4-puesto-tazas.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/world-4-puesto-tazas.svg",
+      "sha256": "ffd75f0746b74332890969148e43c407d09c0119c9c5c07262a6ae2a070fbda6",
+      "derivedSha256": "e413d95677359691dc5acec466c85d98569d048b0708878e25c732eb36b0b6fa",
+      "viewBox": "167 257 924 744",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/world-4-puesto-tazas.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/world-4-verduras",
+      "assetId": "world-4-verduras",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/world-4-verduras.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/world-4-verduras.svg",
+      "sha256": "9348f79a58cbcc12c40605bf276e3ae439bd51fbde696770daf5fe5b7cf87ccf",
+      "derivedSha256": "5ade44ec75ddc50c93b08ba92395feca3af963918528b70b23bcdc041351d79e",
+      "viewBox": "158 362 942 505",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/world-4-verduras.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/world-4-puesto-flores",
+      "assetId": "world-4-puesto-flores",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/world-4-puesto-flores.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/world-4-puesto-flores.svg",
+      "sha256": "2c261913dc760a441c473dab227d87893a5c69c7f94ad4d9dd6def8f6f736cd6",
+      "derivedSha256": "f3c12f8cb905876e324bb56dc82daaa2dc215b3d5e77aff7c3daa0f5ba36ed51",
+      "viewBox": "222 279 872 712",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/world-4-puesto-flores.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/world-5-flores",
+      "assetId": "world-5-flores",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/world-5-flores.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/world-5-flores.svg",
+      "sha256": "c6ca406e24dd74ee24590b3611a4a0e14d28c18d5fffc4b6a145f5db2fc3cb38",
+      "derivedSha256": "70a5e2f657eb22823911452ff1114b645e975c97ca50c8195edf15b2c9025992",
+      "viewBox": "244 254 751 734",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/world-5-flores.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/world-5-macetas",
+      "assetId": "world-5-macetas",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/world-5-macetas.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/world-5-macetas.svg",
+      "sha256": "f1af227abb58bf76e0455bb51e593af5d3f230cd55efd683024fac4bdb4934c8",
+      "derivedSha256": "649799336b3acb3598a77b47351ffff55f199d55efa19a90d337dd2da09a7f9b",
+      "viewBox": "388 189 765 669",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/world-5-macetas.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/world-5-hojas",
+      "assetId": "world-5-hojas",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/world-5-hojas.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/world-5-hojas.svg",
+      "sha256": "52a5e76ef545e08d597b15bb6a74b118f1d0f896d450e59c7e519708ce90aa30",
+      "derivedSha256": "860e227daa2f1361e87d936c6fe578b00f08f5cf09b68cda01546fb701320c79",
+      "viewBox": "317 137 905 744",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/world-5-hojas.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/world-5-arco",
+      "assetId": "world-5-arco",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/world-5-arco.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/world-5-arco.svg",
+      "sha256": "7e74b71a770544eaf32b303a35a197c4063667a0a38af67748f0c218eff027ae",
+      "derivedSha256": "12e612cecd8702860a3082e03e955437297170b52319f844fdbbfe35b67082c9",
+      "viewBox": "172 227 914 763",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/world-5-arco.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/world-6-banco",
+      "assetId": "world-6-banco",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/world-6-banco.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/world-6-banco.svg",
+      "sha256": "c0edf9b4156784bab5e047dc0d557287ad14cb10565939bc61395c55d9f834f8",
+      "derivedSha256": "bdded44f19b46b8e4abc51ec96d152ebea37941a432f9b3661c4450710755bba",
+      "viewBox": "291 150 796 848",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/world-6-banco.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/world-6-encuentro",
+      "assetId": "world-6-encuentro",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/world-6-encuentro.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/world-6-encuentro.svg",
+      "sha256": "f7059d2b97071587a33e6c371419e149e731354ec8f005e45222f5ef36f5d284",
+      "derivedSha256": "ffe8e0121f0be5bf75115eabf77fa35fb4f1dd7a5c1b46987a7f24497b9a4f9e",
+      "viewBox": "273 127 996 765",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/world-6-encuentro.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/world-6-mesa",
+      "assetId": "world-6-mesa",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/world-6-mesa.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/world-6-mesa.svg",
+      "sha256": "2c0b957fc2a43a9ee73779354e10011029e3f9dfa585136700d3d00b0036089e",
+      "derivedSha256": "67961210dcc878053814af422c06202f2b7feef9482c252e373f3881c65db3c0",
+      "viewBox": "268 254 980 537",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/world-6-mesa.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/world-6-meta",
+      "assetId": "world-6-meta",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/world-6-meta.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/world-6-meta.svg",
+      "sha256": "5aec821358f46c98e681fc84aa4f98d9af9b5667393cc2aff80da52e4d5ede48",
+      "derivedSha256": "f7f50d1cafcf3a193ca3e8e56f5c047cc3991d4172aed20874922988cd861f3c",
+      "viewBox": "121 203 1019 848",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/world-6-meta.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/vocab-casa",
+      "assetId": "vocab-casa",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/vocab-casa.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/vocab-casa.svg",
+      "sha256": "1bc0540f0f334bfcc0469f9181b4178fde788b23e2e8d1ec8b784028b501eb53",
+      "derivedSha256": "b724fd81d092f40de6f16d3a26cc915b21a86c0e6a9b06bd4dfd77525e78481c",
+      "viewBox": "378 246 780 545",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/vocab-casa.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/vocab-sol",
+      "assetId": "vocab-sol",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/vocab-sol.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/vocab-sol.svg",
+      "sha256": "03b044095f86c71456041360935637fec0d4a4781a548290572987ad6d016f77",
+      "derivedSha256": "03b044095f86c71456041360935637fec0d4a4781a548290572987ad6d016f77",
+      "viewBox": "200 200 857 831",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/vocab-sol.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/vocab-agua",
+      "assetId": "vocab-agua",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/vocab-agua.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/vocab-agua.svg",
+      "sha256": "ef0d318c4bb1af8d0883a737e3cdc47e2d57d2c0ccb466997601ff308cc187ca",
+      "derivedSha256": "ef0d318c4bb1af8d0883a737e3cdc47e2d57d2c0ccb466997601ff308cc187ca",
+      "viewBox": "337 205 584 848",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/vocab-agua.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/vocab-cerro",
+      "assetId": "vocab-cerro",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/vocab-cerro.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/vocab-cerro.svg",
+      "sha256": "3b378fa2b686f816d38d9c355942e49a75c25ed0787aefc55301dc98c755faac",
+      "derivedSha256": "3b378fa2b686f816d38d9c355942e49a75c25ed0787aefc55301dc98c755faac",
+      "viewBox": "147 414 1246 287",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/vocab-cerro.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/vocab-rio",
+      "assetId": "vocab-rio",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/vocab-rio.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/vocab-rio.svg",
+      "sha256": "30c87465b0895c127be04c1d49b7c1a48f6813a44c38513c96708d3f0b5b6a2b",
+      "derivedSha256": "a177ace17aa0d34d7635f6964cd5e839d2f298126f8414fbcad5fdde9e85ed25",
+      "viewBox": "222 193 705 992",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/vocab-rio.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/vocab-piedra",
+      "assetId": "vocab-piedra",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/vocab-piedra.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/vocab-piedra.svg",
+      "sha256": "b52e5ca2025d3d32c986e6a32ba54b2d605522a96ccf1e525574adbe89010545",
+      "derivedSha256": "b52e5ca2025d3d32c986e6a32ba54b2d605522a96ccf1e525574adbe89010545",
+      "viewBox": "247 297 766 663",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/vocab-piedra.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/vocab-luna",
+      "assetId": "vocab-luna",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/vocab-luna.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/vocab-luna.svg",
+      "sha256": "187f9aa3494172eada0aabd50954f26bf89af8db0c6e157910f5ca944d1963d4",
+      "derivedSha256": "187f9aa3494172eada0aabd50954f26bf89af8db0c6e157910f5ca944d1963d4",
+      "viewBox": "229 189 801 867",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/vocab-luna.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/vocab-viento",
+      "assetId": "vocab-viento",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/vocab-viento.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/vocab-viento.svg",
+      "sha256": "71c915e1bf8bb716baa794a3e7e9403b88371a49a6e1ad6af615f11203fb4740",
+      "derivedSha256": "cc5a987ed0ff38fd7427a493e0a87cbbf4b4b5d432f512c68629ea186de3aab4",
+      "viewBox": "339 199 898 641",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/vocab-viento.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/vocab-arbol",
+      "assetId": "vocab-arbol",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/vocab-arbol.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/vocab-arbol.svg",
+      "sha256": "b81712bcb43a04dae34799c99272e0a3437468bc5b61c5b0202acce6c9a7d71b",
+      "derivedSha256": "887e590b112a87f1949b1193baccd685ba56e42447e93ba48820f2daf0bf124e",
+      "viewBox": "168 161 921 935",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/vocab-arbol.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/vocab-perro",
+      "assetId": "vocab-perro",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/vocab-perro.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/vocab-perro.svg",
+      "sha256": "15bcf1f0af5f7c9d6b83ff5065ef65441da00e361d9eebcba33b7aec8e9db9c5",
+      "derivedSha256": "aa104e73da51c9b301861b023731d8200f979d22947be50cd8e8ac3691830326",
+      "viewBox": "279 294 700 670",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/vocab-perro.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/vocab-gato",
+      "assetId": "vocab-gato",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/vocab-gato.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/vocab-gato.svg",
+      "sha256": "3a1f9597c4f2c936f635ed8abeb5b289114fc5880d9210c282be585cfc0f4df2",
+      "derivedSha256": "a97c6fee5e959b096d58d4a849439bd8ec1ef8f25056c2e03fd068fcb5a0c416",
+      "viewBox": "283 215 789 806",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/vocab-gato.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/vocab-pez",
+      "assetId": "vocab-pez",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/vocab-pez.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/vocab-pez.svg",
+      "sha256": "abd919f67fe9832ae6ecc0c9afe165b32c02e84921668121b920bc54cb7f0083",
+      "derivedSha256": "d7859e0d60c0ed1abceb11f3f826f21511ca209a8238052a1b30d693a18f355c",
+      "viewBox": "221 392 844 461",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/vocab-pez.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/vocab-flor",
+      "assetId": "vocab-flor",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/vocab-flor.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/vocab-flor.svg",
+      "sha256": "27cdd7b9c331ad5f6ea26486c6a9f709f46f2e049977908e79bcc8f6c2d9aa31",
+      "derivedSha256": "1df13dc3b026f75abaad5509081d848d1c2039b63166fb42f227c417acdb9390",
+      "viewBox": "220 137 708 1104",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/vocab-flor.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/vocab-hoja",
+      "assetId": "vocab-hoja",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/vocab-hoja.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/vocab-hoja.svg",
+      "sha256": "93215267629dfeb8db33abbfa10643f1d9fb1d3b4cabd22fbf8b21707dedb0c7",
+      "derivedSha256": "cbe0e38a8167a33f623271d8e834b337ab57faed1156835b320ce7127d9a7961",
+      "viewBox": "412 344 448 579",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/vocab-hoja.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/vocab-pajaro",
+      "assetId": "vocab-pajaro",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/vocab-pajaro.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/vocab-pajaro.svg",
+      "sha256": "4a559b82974ba38250ce0bd50698937adf6e708362a011ffbdac9a466347ad1b",
+      "derivedSha256": "c1595a2b02c6cb082afd622919c457c4b2398f015bd646ba25758bf1759e4910",
+      "viewBox": "292 379 687 541",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/vocab-pajaro.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/vocab-llama",
+      "assetId": "vocab-llama",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/vocab-llama.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/vocab-llama.svg",
+      "sha256": "24c02cf18a3798c3a835d8b493e8b204987122a826a1c52ce0d2ddeff2722ea0",
+      "derivedSha256": "2e74b7788e298f0f7cd747be251a2a9d569c998469489c897448e6b30e941326",
+      "viewBox": "350 227 618 734",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/vocab-llama.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/vocab-puerta",
+      "assetId": "vocab-puerta",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/vocab-puerta.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/vocab-puerta.svg",
+      "sha256": "9d2589346e6279c68b80e021f9a62da943bef7aee24961f62539f84c05a43779",
+      "derivedSha256": "e6bd40dfd8cd63b96ab1dd585c4ce34566f03f211c9e1057b70919e814fb49f4",
+      "viewBox": "356 218 546 769",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/vocab-puerta.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/vocab-silla",
+      "assetId": "vocab-silla",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/vocab-silla.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/vocab-silla.svg",
+      "sha256": "2951f7482a6ecdd372a402645d3353a6a4589033ef0598642a0ec04a1622370d",
+      "derivedSha256": "2951f7482a6ecdd372a402645d3353a6a4589033ef0598642a0ec04a1622370d",
+      "viewBox": "330 206 592 843",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/vocab-silla.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/vocab-mesa",
+      "assetId": "vocab-mesa",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/vocab-mesa.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/vocab-mesa.svg",
+      "sha256": "f9629acc43c1ed60360508e2cadd8d2b53061bb6a97d105f65a4d36b293efa2d",
+      "derivedSha256": "5d0ae92a4893aed4ebb0deb858f48c121cf661452c7c667b8a4df368c1537114",
+      "viewBox": "254 300 749 658",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/vocab-mesa.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/vocab-vaso-madera",
+      "assetId": "vocab-vaso-madera",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/vocab-vaso-madera.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/vocab-vaso-madera.svg",
+      "sha256": "f2d1a0a1bc4d613154aebb253ed68e12ffb1e94ea972bbbd7ad20a1f9e213837",
+      "derivedSha256": "37d1185c2e3de0f0188b9fc9c2ceb43163292e18e0d97bd0775f1b911784f122",
+      "viewBox": "333 278 592 701",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/vocab-vaso-madera.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/vocab-cucharon",
+      "assetId": "vocab-cucharon",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/vocab-cucharon.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/vocab-cucharon.svg",
+      "sha256": "50a2d8a5cd5a464854795ce8e54b7baf50fde7d98234a937b202a6cfb2107a10",
+      "derivedSha256": "f916e3c4835ffa3afd6474d2c798683fb09a4ff4c64ff6744fa22a1e72cf10d5",
+      "viewBox": "251 160 688 1049",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/vocab-cucharon.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/vocab-libro",
+      "assetId": "vocab-libro",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/vocab-libro.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/vocab-libro.svg",
+      "sha256": "00636b6cf17e15131a7fca3af5de888ab0633d168fb6fa872254ae67f2990b49",
+      "derivedSha256": "00fbfc578ef02920b59e728f1a19031805dbd094ef9d14a6c54645f8d8ff9f00",
+      "viewBox": "260 124 829 938",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/vocab-libro.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/vocab-lapiz",
+      "assetId": "vocab-lapiz",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/vocab-lapiz.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/vocab-lapiz.svg",
+      "sha256": "385b3e697ba3c704987a4cd2e983d82b6a61e1d825c79639ff8c90dd51ff38fa",
+      "derivedSha256": "d6ca98eac5b0fc2fa30b73c2df4085ce5cdcec3c2d9818d9cb27f2acde35c330",
+      "viewBox": "223 203 827 835",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/vocab-lapiz.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/idioma-quechua",
+      "assetId": "idioma-quechua",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/idioma-quechua.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/idioma-quechua.svg",
+      "sha256": "37768ba3ea7af1b71669a0f875593cc03e2654a007f95cee78eecafdf3fd789b",
+      "derivedSha256": "00b10556674a34d9e1b8753548620b992868195f6f6b5b2ce060968a47a104b5",
+      "viewBox": "371 217 862 413",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/idioma-quechua.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/idioma-aymara",
+      "assetId": "idioma-aymara",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/idioma-aymara.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/idioma-aymara.svg",
+      "sha256": "b125fbafdad17d02a87ab1b4d08d91c631fa8a28caa1935e38b5de7399aea780",
+      "derivedSha256": "9747989ca12b633a51569c96e054f82a7eadc394ecdd4e25d96e2a2859d6680b",
+      "viewBox": "296 174 947 680",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/idioma-aymara.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/libro-repaso",
+      "assetId": "libro-repaso",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/libro-repaso.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/libro-repaso.svg",
+      "sha256": "5374bdb86c71dee7ed2332e8ab1dfbdf6c375407c92a2db21d221dd8e66a685b",
+      "derivedSha256": "cb6afc36f48e183121418cd214c76309e50de36ffb0e6899208ae87deeb35d9d",
+      "viewBox": "182 179 1237 511",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/libro-repaso.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/coleccion-vacia",
+      "assetId": "coleccion-vacia",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/coleccion-vacia.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/coleccion-vacia.svg",
+      "sha256": "26a9e54be27c9d13b2691765d4321fddfe3e6126b25c5e4848ff34ae9f061d80",
+      "derivedSha256": "4ec5f0d5826f3f0923e3c77fd11cd133b1fc2b285f4f9d9e2a956cca5ad1e3f1",
+      "viewBox": "204 214 1135 572",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/coleccion-vacia.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/mochila",
+      "assetId": "mochila",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/mochila.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/mochila.svg",
+      "sha256": "110fb2653a8831130dd61e4e7d9312a4ff3e12258b40a56a253180feeda597b0",
+      "derivedSha256": "e3fc3a0d4b57db856d31c8effd001b79558067459146b3c4a0409e7d1ff29eb7",
+      "viewBox": "275 192 706 873",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/mochila.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/bolsa-valle",
+      "assetId": "bolsa-valle",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/bolsa-valle.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/bolsa-valle.svg",
+      "sha256": "28f8264fd9d8ed6f26aa9ea443d4cd6fc9f7ed8fc6ca883e21e768cb7c02a151",
+      "derivedSha256": "a2271971d6b76e4170aefea2148149f39ea05d849c4a603e2eb302423ec06b75",
+      "viewBox": "196 252 898 747",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/bolsa-valle.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/sobre",
+      "assetId": "sobre",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/sobre.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/sobre.svg",
+      "sha256": "95f6a0f2143d45f673436d5256547a27b9b64b0966353ce8db3f3293b742e800",
+      "derivedSha256": "8893111af4549027e1c972c580b137d364c644cc5dcb208dd33848e1ca0e83c7",
+      "viewBox": "369 246 803 537",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/sobre.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/llave",
+      "assetId": "llave",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/llave.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/llave.svg",
+      "sha256": "bb7efcb96fe4aca7e18b121a0c20039abcd939ca483a17fe723229eeb5912a14",
+      "derivedSha256": "bb7efcb96fe4aca7e18b121a0c20039abcd939ca483a17fe723229eeb5912a14",
+      "viewBox": "438 208 459 817",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/llave.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/brote",
+      "assetId": "brote",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/brote.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/brote.svg",
+      "sha256": "40e6c42a9c28bff3d5c0be8e3dc1801dfd6c1fdccc302345e9724cb200846f88",
+      "derivedSha256": "40e6c42a9c28bff3d5c0be8e3dc1801dfd6c1fdccc302345e9724cb200846f88",
+      "viewBox": "348 320 698 522",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/brote.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/planta-tres-hojas",
+      "assetId": "planta-tres-hojas",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/planta-tres-hojas.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/planta-tres-hojas.svg",
+      "sha256": "e27da35d8a37cccb7846fb4ed4cecde9c97da56c2598e0cc8b9c24aaa578181b",
+      "derivedSha256": "e27da35d8a37cccb7846fb4ed4cecde9c97da56c2598e0cc8b9c24aaa578181b",
+      "viewBox": "277 342 705 574",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/planta-tres-hojas.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/rayitos-amarillos",
+      "assetId": "rayitos-amarillos",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/rayitos-amarillos.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/rayitos-amarillos.svg",
+      "sha256": "2e733cde1e95b2cb8da4a0ae6bf885ee53efe80e0d9ef8c28daa763e87a67055",
+      "derivedSha256": "2e733cde1e95b2cb8da4a0ae6bf885ee53efe80e0d9ef8c28daa763e87a67055",
+      "viewBox": "598 278 356 423",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/rayitos-amarillos.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/jarra-terracota",
+      "assetId": "jarra-terracota",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/jarra-terracota.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/jarra-terracota.svg",
+      "sha256": "d12dc4a5fc4cdb48e64fa0896baab3865a03aaf6f2fc6249be4c9eea5149c3fe",
+      "derivedSha256": "08910379d50a5e523b181cc0934042972409b9721c17683516e8a917ada9f91f",
+      "viewBox": "240 165 792 925",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/jarra-terracota.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/jarra-caramelo",
+      "assetId": "jarra-caramelo",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/jarra-caramelo.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/jarra-caramelo.svg",
+      "sha256": "3f91cc19d60893a085884e5c90f31290477dddb5cf40564f01a130e7a90cba40",
+      "derivedSha256": "9af9bd22af8b572b149e8a555bd9ae678df186883069982b29d362486f2231d9",
+      "viewBox": "270 256 667 764",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/jarra-caramelo.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/charco",
+      "assetId": "charco",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/charco.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/charco.svg",
+      "sha256": "9784d04b9b6584513f5585b03f660d30198bb3a34288be603cfe227d6cdace16",
+      "derivedSha256": "9784d04b9b6584513f5585b03f660d30198bb3a34288be603cfe227d6cdace16",
+      "viewBox": "393 295 820 279",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/charco.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/ondas-agua",
+      "assetId": "ondas-agua",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/ondas-agua.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/ondas-agua.svg",
+      "sha256": "a5ca88b735ed32f778470a48d8130131511b70710ef7a829974431c8b0bb7f7d",
+      "derivedSha256": "a5ca88b735ed32f778470a48d8130131511b70710ef7a829974431c8b0bb7f7d",
+      "viewBox": "317 325 906 379",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/ondas-agua.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/moneda-semilla",
+      "assetId": "moneda-semilla",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/moneda-semilla.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/moneda-semilla.svg",
+      "sha256": "bcb9d0be6137f8eae178517128585bb28c01e7aecbb52cdcb5758cdf4c22c208",
+      "derivedSha256": "065c1d0038e5e063d1d31c1999c6a0821cfcf9f30843ed6b0e106e3a83b0e249",
+      "viewBox": "306 202 645 854",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/moneda-semilla.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/racha",
+      "assetId": "racha",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/racha.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/racha.svg",
+      "sha256": "3d3f0f4475d33b49782c01036ca50472bbbe1afe1605655acefb0c7791f20b93",
+      "derivedSha256": "8184901b7bb96a3a6e66d33c91b3f8066454754d3456579b990aaada8ce6b871",
+      "viewBox": "260 155 733 910",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/racha.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/corazon",
+      "assetId": "corazon",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/corazon.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/corazon.svg",
+      "sha256": "9961ebdbf39acc353d9314b8ccc34bb038bb5b6e7e6c61d9877d32648898c99f",
+      "derivedSha256": "9961ebdbf39acc353d9314b8ccc34bb038bb5b6e7e6c61d9877d32648898c99f",
+      "viewBox": "330 271 718 602",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/corazon.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/corazon-descanso",
+      "assetId": "corazon-descanso",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/corazon-descanso.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/corazon-descanso.svg",
+      "sha256": "116ad6920fea9fafc6fb533ac3f98fdc87b3352294c80035ebc38c83ea8b104b",
+      "derivedSha256": "cd1ab0fb2ea50d303f76d3d7e0da21932efb5ddce54b3139959c7792653bdcc3",
+      "viewBox": "340 176 860 676",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/corazon-descanso.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/brujula",
+      "assetId": "brujula",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/brujula.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/brujula.svg",
+      "sha256": "6e90a8da82900a3f6761405a490d13f3fb3fc3bf74107d34b165c77b8a9ffd81",
+      "derivedSha256": "b70385b4f5792f11978729cc712689ef4a4bc135c2667e5f788e175ec66d6897",
+      "viewBox": "281 275 696 694",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/brujula.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/bombilla",
+      "assetId": "bombilla",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/bombilla.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/bombilla.svg",
+      "sha256": "30e8f45ea8001d2f3fa3053c36963cab2667ac4fa9e3cc0935cc978c2db87308",
+      "derivedSha256": "16d75c442770a1e6185ec4ce0c8159f1df90603f4a58338673e796c061e0c7ba",
+      "viewBox": "340 199 579 860",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/bombilla.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/trofeo",
+      "assetId": "trofeo",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/trofeo.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/trofeo.svg",
+      "sha256": "280c5f731c54e18bf02d43fc18ee5b86d643abcb2295176aa8f2b17ee3d3eb16",
+      "derivedSha256": "280c5f731c54e18bf02d43fc18ee5b86d643abcb2295176aa8f2b17ee3d3eb16",
+      "viewBox": "182 240 894 810",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/trofeo.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/confeti",
+      "assetId": "confeti",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/confeti.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/confeti.svg",
+      "sha256": "bbced8babbeff561d0231a57c1547770a7e8c850352ff4a498bbe89e220d821f",
+      "derivedSha256": "bbced8babbeff561d0231a57c1547770a7e8c850352ff4a498bbe89e220d821f",
+      "viewBox": "111 158 1042 935",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/confeti.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/conejo",
+      "assetId": "conejo",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/conejo.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/conejo.svg",
+      "sha256": "a8643a91cc1a5c8c711544d8e3c0303c64ae445bfb5ceb0a0acbc28e518c89f6",
+      "derivedSha256": "40b2ba178923bbccb37c3c054be883e9182a6bbc0965afb07bb0ef11ae47aebc",
+      "viewBox": "333 208 624 841",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/conejo.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/cuy",
+      "assetId": "cuy",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/cuy.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/cuy.svg",
+      "sha256": "3a4b3fe979ca2bf68b32ba46086b11dcd0268d3296b1411b19e08a5e41db1ed7",
+      "derivedSha256": "9598029e9afbd63969731cf37534f218a058f54805554460219e6c70d510e9ad",
+      "viewBox": "303 394 664 470",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/cuy.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/mariposa",
+      "assetId": "mariposa",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/mariposa.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/mariposa.svg",
+      "sha256": "e3f7ee6d952252fd8e94c688e56bc4faefd6e1e6242e5141ce5945a299787598",
+      "derivedSha256": "147519b905592eabbe2bb69e66d915dec2572a93479fde6038743c15de3ff95e",
+      "viewBox": "375 361 509 494",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/mariposa.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/taza-roja",
+      "assetId": "taza-roja",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/taza-roja.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/taza-roja.svg",
+      "sha256": "c036eed3e483ac7f6e81a7637ae986f635ba70eb67a6d2482c23188d6411948a",
+      "derivedSha256": "dcf93fd0011076416b65d1e8f8b5ffe57e91a8e92923aa0636a69ea58db550c1",
+      "viewBox": "284 339 654 564",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/taza-roja.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/taza-turquesa",
+      "assetId": "taza-turquesa",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/taza-turquesa.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/taza-turquesa.svg",
+      "sha256": "719e6dd320e7a77a26085913bed00f0d10a00873caf30c469088b31d748bd19e",
+      "derivedSha256": "131fb83f32bde3fc5ec86a89b4cafb959caf2cca7ed6b7bfa18f90d852ad574a",
+      "viewBox": "373 397 564 465",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/taza-turquesa.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/taburete",
+      "assetId": "taburete",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/taburete.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/taburete.svg",
+      "sha256": "c77f79ecbbb3ed6d22e460b04d4ef59171392cfeba8f70bbfa450b682107e733",
+      "derivedSha256": "5fb3251a6c0b8f1559766034cc58199cea9483084769a0a70f4b4083f0bbd185",
+      "viewBox": "320 293 618 643",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/taburete.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/manzana",
+      "assetId": "manzana",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/manzana.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/manzana.svg",
+      "sha256": "1a073f9c733cc38fce7622792dc1a11e81c1d5e7037032fa57ddfe467b849022",
+      "derivedSha256": "dba8ca0b39fe276b1aedcb2a2a63bba7c5abfa2e795e620d5762808e4c485fcb",
+      "viewBox": "302 216 651 790",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/manzana.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/pera",
+      "assetId": "pera",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/pera.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/pera.svg",
+      "sha256": "43dda8213dd875024dc7fcc5fbcfa7f1aba5dd97ceceaa0dbb526ca14ba4bd6f",
+      "derivedSha256": "f2dcc14bb584f917de3828e77050fed7f3cc7bcbe10deffbcf29f2399f92d73c",
+      "viewBox": "334 155 576 962",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/pera.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/maceta-roja",
+      "assetId": "maceta-roja",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/maceta-roja.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/maceta-roja.svg",
+      "sha256": "0fe10d8b1e4d3be98dbeed0a1d9ae515b9e501ce5cdf223e48ae029b62e2ef57",
+      "derivedSha256": "5eb5c932e6296a2409125ea964f1afc31a79d2799d42a6d19d6f609fcc739e69",
+      "viewBox": "302 152 654 954",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/maceta-roja.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/flor-turquesa",
+      "assetId": "flor-turquesa",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/flor-turquesa.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/flor-turquesa.svg",
+      "sha256": "f987b3e4c03e508b7ad17c39e2651fbf16f99971481de8ee899388d0470cfce7",
+      "derivedSha256": "826adcc0c76430c5264ac2f2f6bc12ea090a858c23926b09f8c976d3ab24364d",
+      "viewBox": "268 220 612 959",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/flor-turquesa.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/hoja-turquesa",
+      "assetId": "hoja-turquesa",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/hoja-turquesa.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/hoja-turquesa.svg",
+      "sha256": "b61946593babb7c890e8dd5320e3ae5fc270bd92c20d76099e3911495ba09688",
+      "derivedSha256": "4750bf9634f10739f57125a778e91e6fa0a8b0981b06e5e329c4235ed9539b66",
+      "viewBox": "398 324 352 728",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/hoja-turquesa.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/hoja-dorada",
+      "assetId": "hoja-dorada",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/hoja-dorada.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/hoja-dorada.svg",
+      "sha256": "00e5e7e4f968c9aa0ef727365a4d16b74ff0066a3f3d8f2a91f9a6990bbde000",
+      "derivedSha256": "00e5e7e4f968c9aa0ef727365a4d16b74ff0066a3f3d8f2a91f9a6990bbde000",
+      "viewBox": "260 228 623 927",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/hoja-dorada.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/cantidad-01",
+      "assetId": "cantidad-01",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/cantidad-01.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/cantidad-01.svg",
+      "sha256": "a830c137836b15997723b9921c94df52282a95509de2c5ddb5146ba15b50f1d1",
+      "derivedSha256": "a830c137836b15997723b9921c94df52282a95509de2c5ddb5146ba15b50f1d1",
+      "viewBox": "605 311 330 406",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/cantidad-01.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/cantidad-02",
+      "assetId": "cantidad-02",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/cantidad-02.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/cantidad-02.svg",
+      "sha256": "172aab88dcbd402d45fdfd630cfb58c4cd5e66a509b8a809aff864c017bbf71b",
+      "derivedSha256": "172aab88dcbd402d45fdfd630cfb58c4cd5e66a509b8a809aff864c017bbf71b",
+      "viewBox": "350 287 841 451",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/cantidad-02.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/cantidad-03",
+      "assetId": "cantidad-03",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/cantidad-03.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/cantidad-03.svg",
+      "sha256": "d733819000693973fa478873f14fc4db5d99f66e1b815a44a1365dd70863bdef",
+      "derivedSha256": "d733819000693973fa478873f14fc4db5d99f66e1b815a44a1365dd70863bdef",
+      "viewBox": "204 222 1197 423",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/cantidad-03.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/cantidad-04",
+      "assetId": "cantidad-04",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/cantidad-04.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/cantidad-04.svg",
+      "sha256": "35d842d169a7a69c041b980a74aae217764850e1e15035948fda7d592a34e9fe",
+      "derivedSha256": "3c5f97f6837bfee4300d4349047844e1f6bf511b6f521f84dc069317a6442705",
+      "viewBox": "141 263 1324 345",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/cantidad-04.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/cantidad-05",
+      "assetId": "cantidad-05",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/cantidad-05.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/cantidad-05.svg",
+      "sha256": "c6509e653a28bb776cc8e207d6d0e4c7f8140f90be400f062fa76f10613bbe83",
+      "derivedSha256": "c6509e653a28bb776cc8e207d6d0e4c7f8140f90be400f062fa76f10613bbe83",
+      "viewBox": "146 301 1313 265",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/cantidad-05.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/cantidad-06",
+      "assetId": "cantidad-06",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/cantidad-06.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/cantidad-06.svg",
+      "sha256": "ac2cad4eb77486e3d10a18cc4b3aa3d3c93d32fe84470a6004ef9b5fedc5af91",
+      "derivedSha256": "492cc3a658192e9ae0adc3fe516fcb4e8baa678597684b907f7ff578c035c902",
+      "viewBox": "90 322 1138 573",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/cantidad-06.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/cantidad-07",
+      "assetId": "cantidad-07",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/cantidad-07.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/cantidad-07.svg",
+      "sha256": "678e249d986c943ce96ea26dc335b520489c4ab436ddaa929f9f8f31f08b245f",
+      "derivedSha256": "678e249d986c943ce96ea26dc335b520489c4ab436ddaa929f9f8f31f08b245f",
+      "viewBox": "90 286 1200 581",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/cantidad-07.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/cantidad-08",
+      "assetId": "cantidad-08",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/cantidad-08.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/cantidad-08.svg",
+      "sha256": "c416b47b8f92642bf82ab1a80782e0069bf41b6a1f7b83c519fad705c6e8ba28",
+      "derivedSha256": "c416b47b8f92642bf82ab1a80782e0069bf41b6a1f7b83c519fad705c6e8ba28",
+      "viewBox": "127 232 1286 577",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/cantidad-08.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/cantidad-09",
+      "assetId": "cantidad-09",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/cantidad-09.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/cantidad-09.svg",
+      "sha256": "5e8c718a0b63188e6e394252e7c95d69ece8868e98c84245f77dcf925769beec",
+      "derivedSha256": "7641a0fe9a5fac249d556239c61a9702f3844839fd9a488ccb7f9dec228a35b5",
+      "viewBox": "108 198 1327 621",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/cantidad-09.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/cantidad-10",
+      "assetId": "cantidad-10",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/cantidad-10.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/cantidad-10.svg",
+      "sha256": "28a12e2d11566c6a3ea1e411b39ed222e3cf10110b3983decf9566efed86d7f5",
+      "derivedSha256": "28a12e2d11566c6a3ea1e411b39ed222e3cf10110b3983decf9566efed86d7f5",
+      "viewBox": "134 240 1252 568",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/cantidad-10.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/muni-exito",
+      "assetId": "muni-exito",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/muni-exito.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/muni-exito.svg",
+      "sha256": "bb782bb5c0f57e9b8f9008a507fcc953a3ee499fc23c17d5b9b04eae2ba32142",
+      "derivedSha256": "0de2d2b2051da358eeb4eaf181380e2fcdfc548cc753e635d4ca8c7e2ac5a45e",
+      "viewBox": "218 111 823 1079",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/muni-exito.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    },
+    {
+      "id": "componentes-v1/muni-error",
+      "assetId": "muni-error",
+      "kind": "supplied-vector",
+      "status": "integrated-local",
+      "localPath": "assets/provided/muni-componentes-v1/svg/muni-error.svg",
+      "derivedPath": "assets/derived/muni-componentes-v1/muni-error.svg",
+      "sha256": "788b4f5e90dfa6fb8ae0cf6181b5759b0ed30c451350d14bc5882a15390f30be",
+      "derivedSha256": "032cca7a375d8a46ad18b0f19b2176602d72740089eaf3ed44ead8dece503a0d",
+      "viewBox": "283 167 588 1020",
+      "rasterEmbedded": false,
+      "source": {
+        "kind": "local-user-delivery",
+        "path": "muni-componentes-v1/svg/muni-error.svg",
+        "package": "muni-componentes-v1"
+      },
+      "figmaNodeId": null,
+      "figmaStatus": "pending-access",
+      "transformation": "Removed XML/DOCTYPE headers and prefixed internal IDs; original geometry, viewBox, fills and transparency retained."
+    }
+  ],
+  "fonts": [
+    {
+      "requestedFamily": "Matcha Mint",
+      "internalFamily": "Matcha Mint",
+      "postscriptName": "MatchaMint",
+      "localPath": "assets/fonts/MatchaMint.otf",
+      "source": "Matcha Mint.otf",
+      "sha256": "4d163619296b9f0a6e4237b9bc2361508446096239b8475448e3853a74135d48",
+      "missingRequiredGlyphs": [
+        "Á",
+        "É",
+        "Í",
+        "Ó",
+        "Ú",
+        "á",
+        "é",
+        "í",
+        "ó",
+        "ú",
+        "Ñ",
+        "ñ",
+        "Ü",
+        "ü",
+        "¿",
+        "¡"
+      ],
+      "typographicApostrophes": {
+        "’": true,
+        "ʼ": false
+      },
+      "embeddingLicenseStatus": "No se ha verificado la licencia de distribución de app; la copia es local para preparar el prototipo."
+    },
+    {
+      "requestedFamily": "Milky Nice Clean",
+      "internalFamily": "Milky Nice Clean",
+      "postscriptName": "MilkyNiceClean",
+      "localPath": "assets/fonts/MilkyNiceClean.ttf",
+      "source": "MilkyNice-Clean.ttf",
+      "sha256": "248fd14e42d9b53d2771e24e7c37e53542abbacd7f3f0a909c6cd645d4c27519",
+      "missingRequiredGlyphs": [],
+      "typographicApostrophes": {
+        "’": true,
+        "ʼ": false
+      },
+      "embeddingLicenseStatus": "No se ha verificado la licencia de distribución de app; la copia es local para preparar el prototipo."
+    }
+  ],
+  "missing": "All 91 revision-02 slots covered by the supplied SVG package. Figma nodes for the 95 new assets remain pending access; no new Figma download is claimed.",
+  "providedFiles": [
+    {
+      "localPath": "assets/provided/icon.svg",
+      "source": "materiales/icon.svg",
+      "sha256": "7caf8888cdb2ae23f471366e9ffc2590f7c98df4523e0a9087a41ff1d247c10f",
+      "status": "copied_without_overwriting"
+    },
+    {
+      "localPath": "assets/provided/logotipo-blanco-muni.svg",
+      "source": "materiales/logotipo-blanco-muni.svg",
+      "sha256": "ebcb5699b11516c348c6aa77f7ab650f10005cdb5700a64b59c9672f5f652b6e",
+      "status": "copied_without_overwriting"
+    },
+    {
+      "localPath": "assets/provided/logotipo-claro.svg",
+      "source": "materiales/logotipo-claro.svg",
+      "sha256": "f56b1cdd20a9a60b1321544af3c8cf399009ee9e92e4efc41c170be4e6a040ef",
+      "status": "copied_without_overwriting"
+    },
+    {
+      "localPath": "assets/provided/logotipo-negro.svg",
+      "source": "materiales/logotipo-negro.svg",
+      "sha256": "a7986963bf60bc0940c45a7026ea350ed620871057a56ac78236b22f477f1e63",
+      "status": "copied_without_overwriting"
+    },
+    {
+      "localPath": "assets/provided/Matcha Mint.otf",
+      "source": "materiales/Matcha Mint.otf",
+      "sha256": "4d163619296b9f0a6e4237b9bc2361508446096239b8475448e3853a74135d48",
+      "status": "copied_without_overwriting"
+    },
+    {
+      "localPath": "assets/provided/MilkyNice-Clean.ttf",
+      "source": "materiales/MilkyNice-Clean.ttf",
+      "sha256": "248fd14e42d9b53d2771e24e7c37e53542abbacd7f3f0a909c6cd645d4c27519",
+      "status": "copied_without_overwriting"
+    },
+    {
+      "localPath": "assets/provided/personaje.svg",
+      "source": "materiales/personaje.svg",
+      "sha256": "e4f74685b22132f9bc62b0a80f052d2757c7d5eb30d08e0be7a9f75fe864ba97",
+      "status": "copied_without_overwriting"
+    }
+  ],
+  "pendingManifest": "assets/pending-revision-02.json",
+  "componentIntegration": {
+    "package": "muni-componentes-v1",
+    "catalogue": "assets/provided/muni-componentes-v1/catalogo.json",
+    "mapping": "assets/provided/muni-componentes-v1/mapa-integracion.json",
+    "uniqueAssets": 95,
+    "slots": 91,
+    "extras": [
+      "sobre",
+      "llave",
+      "brote",
+      "planta-tres-hojas",
+      "rayitos-amarillos",
+      "jarra-terracota",
+      "jarra-caramelo",
+      "charco",
+      "ondas-agua",
+      "moneda-semilla",
+      "racha",
+      "corazon",
+      "corazon-descanso",
+      "brujula",
+      "bombilla",
+      "trofeo",
+      "confeti",
+      "conejo",
+      "cuy",
+      "mariposa",
+      "taza-roja",
+      "taza-turquesa",
+      "taburete",
+      "manzana",
+      "pera",
+      "maceta-roja",
+      "flor-turquesa",
+      "hoja-turquesa",
+      "hoja-dorada"
+    ],
+    "pendingFigmaNodes": [
+      {
+        "assetId": "fondo-bienvenida",
+        "nodeId": null
+      },
+      {
+        "assetId": "world-1-portal",
+        "nodeId": null
+      },
+      {
+        "assetId": "world-1-casa",
+        "nodeId": null
+      },
+      {
+        "assetId": "world-1-agua",
+        "nodeId": null
+      },
+      {
+        "assetId": "world-1-colinas",
+        "nodeId": null
+      },
+      {
+        "assetId": "world-2-arboles",
+        "nodeId": null
+      },
+      {
+        "assetId": "world-2-vecino",
+        "nodeId": null
+      },
+      {
+        "assetId": "world-2-hojas",
+        "nodeId": null
+      },
+      {
+        "assetId": "world-2-puente",
+        "nodeId": null
+      },
+      {
+        "assetId": "world-3-hogar",
+        "nodeId": null
+      },
+      {
+        "assetId": "world-3-rincon",
+        "nodeId": null
+      },
+      {
+        "assetId": "world-3-mesa",
+        "nodeId": null
+      },
+      {
+        "assetId": "world-3-plazuela",
+        "nodeId": null
+      },
+      {
+        "assetId": "world-4-canasta",
+        "nodeId": null
+      },
+      {
+        "assetId": "world-4-puesto-tazas",
+        "nodeId": null
+      },
+      {
+        "assetId": "world-4-verduras",
+        "nodeId": null
+      },
+      {
+        "assetId": "world-4-puesto-flores",
+        "nodeId": null
+      },
+      {
+        "assetId": "world-5-flores",
+        "nodeId": null
+      },
+      {
+        "assetId": "world-5-macetas",
+        "nodeId": null
+      },
+      {
+        "assetId": "world-5-hojas",
+        "nodeId": null
+      },
+      {
+        "assetId": "world-5-arco",
+        "nodeId": null
+      },
+      {
+        "assetId": "world-6-banco",
+        "nodeId": null
+      },
+      {
+        "assetId": "world-6-encuentro",
+        "nodeId": null
+      },
+      {
+        "assetId": "world-6-mesa",
+        "nodeId": null
+      },
+      {
+        "assetId": "world-6-meta",
+        "nodeId": null
+      },
+      {
+        "assetId": "vocab-casa",
+        "nodeId": null
+      },
+      {
+        "assetId": "vocab-sol",
+        "nodeId": null
+      },
+      {
+        "assetId": "vocab-agua",
+        "nodeId": null
+      },
+      {
+        "assetId": "vocab-cerro",
+        "nodeId": null
+      },
+      {
+        "assetId": "vocab-rio",
+        "nodeId": null
+      },
+      {
+        "assetId": "vocab-piedra",
+        "nodeId": null
+      },
+      {
+        "assetId": "vocab-luna",
+        "nodeId": null
+      },
+      {
+        "assetId": "vocab-viento",
+        "nodeId": null
+      },
+      {
+        "assetId": "vocab-arbol",
+        "nodeId": null
+      },
+      {
+        "assetId": "vocab-perro",
+        "nodeId": null
+      },
+      {
+        "assetId": "vocab-gato",
+        "nodeId": null
+      },
+      {
+        "assetId": "vocab-pez",
+        "nodeId": null
+      },
+      {
+        "assetId": "vocab-flor",
+        "nodeId": null
+      },
+      {
+        "assetId": "vocab-hoja",
+        "nodeId": null
+      },
+      {
+        "assetId": "vocab-pajaro",
+        "nodeId": null
+      },
+      {
+        "assetId": "vocab-llama",
+        "nodeId": null
+      },
+      {
+        "assetId": "vocab-puerta",
+        "nodeId": null
+      },
+      {
+        "assetId": "vocab-silla",
+        "nodeId": null
+      },
+      {
+        "assetId": "vocab-mesa",
+        "nodeId": null
+      },
+      {
+        "assetId": "vocab-vaso-madera",
+        "nodeId": null
+      },
+      {
+        "assetId": "vocab-cucharon",
+        "nodeId": null
+      },
+      {
+        "assetId": "vocab-libro",
+        "nodeId": null
+      },
+      {
+        "assetId": "vocab-lapiz",
+        "nodeId": null
+      },
+      {
+        "assetId": "idioma-quechua",
+        "nodeId": null
+      },
+      {
+        "assetId": "idioma-aymara",
+        "nodeId": null
+      },
+      {
+        "assetId": "libro-repaso",
+        "nodeId": null
+      },
+      {
+        "assetId": "coleccion-vacia",
+        "nodeId": null
+      },
+      {
+        "assetId": "mochila",
+        "nodeId": null
+      },
+      {
+        "assetId": "bolsa-valle",
+        "nodeId": null
+      },
+      {
+        "assetId": "sobre",
+        "nodeId": null
+      },
+      {
+        "assetId": "llave",
+        "nodeId": null
+      },
+      {
+        "assetId": "brote",
+        "nodeId": null
+      },
+      {
+        "assetId": "planta-tres-hojas",
+        "nodeId": null
+      },
+      {
+        "assetId": "rayitos-amarillos",
+        "nodeId": null
+      },
+      {
+        "assetId": "jarra-terracota",
+        "nodeId": null
+      },
+      {
+        "assetId": "jarra-caramelo",
+        "nodeId": null
+      },
+      {
+        "assetId": "charco",
+        "nodeId": null
+      },
+      {
+        "assetId": "ondas-agua",
+        "nodeId": null
+      },
+      {
+        "assetId": "moneda-semilla",
+        "nodeId": null
+      },
+      {
+        "assetId": "racha",
+        "nodeId": null
+      },
+      {
+        "assetId": "corazon",
+        "nodeId": null
+      },
+      {
+        "assetId": "corazon-descanso",
+        "nodeId": null
+      },
+      {
+        "assetId": "brujula",
+        "nodeId": null
+      },
+      {
+        "assetId": "bombilla",
+        "nodeId": null
+      },
+      {
+        "assetId": "trofeo",
+        "nodeId": null
+      },
+      {
+        "assetId": "confeti",
+        "nodeId": null
+      },
+      {
+        "assetId": "conejo",
+        "nodeId": null
+      },
+      {
+        "assetId": "cuy",
+        "nodeId": null
+      },
+      {
+        "assetId": "mariposa",
+        "nodeId": null
+      },
+      {
+        "assetId": "taza-roja",
+        "nodeId": null
+      },
+      {
+        "assetId": "taza-turquesa",
+        "nodeId": null
+      },
+      {
+        "assetId": "taburete",
+        "nodeId": null
+      },
+      {
+        "assetId": "manzana",
+        "nodeId": null
+      },
+      {
+        "assetId": "pera",
+        "nodeId": null
+      },
+      {
+        "assetId": "maceta-roja",
+        "nodeId": null
+      },
+      {
+        "assetId": "flor-turquesa",
+        "nodeId": null
+      },
+      {
+        "assetId": "hoja-turquesa",
+        "nodeId": null
+      },
+      {
+        "assetId": "hoja-dorada",
+        "nodeId": null
+      },
+      {
+        "assetId": "cantidad-01",
+        "nodeId": null
+      },
+      {
+        "assetId": "cantidad-02",
+        "nodeId": null
+      },
+      {
+        "assetId": "cantidad-03",
+        "nodeId": null
+      },
+      {
+        "assetId": "cantidad-04",
+        "nodeId": null
+      },
+      {
+        "assetId": "cantidad-05",
+        "nodeId": null
+      },
+      {
+        "assetId": "cantidad-06",
+        "nodeId": null
+      },
+      {
+        "assetId": "cantidad-07",
+        "nodeId": null
+      },
+      {
+        "assetId": "cantidad-08",
+        "nodeId": null
+      },
+      {
+        "assetId": "cantidad-09",
+        "nodeId": null
+      },
+      {
+        "assetId": "cantidad-10",
+        "nodeId": null
+      },
+      {
+        "assetId": "muni-exito",
+        "nodeId": null
+      },
+      {
+        "assetId": "muni-error",
+        "nodeId": null
+      }
+    ]
+  },
+  "animationIntegration": {
+    "package": "muni-lottie-v2",
+    "manifest": "assets/animations/muni/manifest.json",
+    "registry": "src/design/lottie-assets.ts",
+    "uniqueAnimations": 30,
+    "nativePlayer": "lottie-react-native 7.3.8",
+    "source": "local-user-delivery",
+    "originalsModified": false,
+    "nativePlaybackVerified": false,
+    "visualVerification": "Blocked: browser and desktop control kernels fail before executing; no new screenshots."
+  },
+  "sourcePathFormat": "Rutas relativas al paquete de origen; archivos integrados en localPath o path."
+}

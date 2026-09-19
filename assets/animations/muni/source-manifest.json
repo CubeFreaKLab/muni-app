@@ -1,0 +1,793 @@
+{
+  "animations": [
+    {
+      "id": "world-1-portal",
+      "group": "Valle",
+      "motion": "Hojas junto al portal: viento suave; madera fija.",
+      "file": "lottie/world-1-portal.json",
+      "loop": true,
+      "seconds": 6.0,
+      "fps": 30,
+      "size": [
+        664,
+        273
+      ],
+      "bytes": 36456,
+      "sourceBox": [
+        189.0,
+        311.0,
+        1162.0,
+        403.0
+      ],
+      "contentBox": [
+        32,
+        32,
+        600.0,
+        208.08950086058522
+      ],
+      "sha256": "88116606f69e9230448e0c5a357cd35300bdb1c251b4a52e6b6f962babd3ec6d"
+    },
+    {
+      "id": "world-1-casa",
+      "group": "Valle",
+      "motion": "Los arbustos se mecen y sale una hebra suave de humo.",
+      "file": "lottie/world-1-casa.json",
+      "loop": true,
+      "seconds": 6.0,
+      "fps": 30,
+      "size": [
+        664,
+        482
+      ],
+      "bytes": 113304,
+      "sourceBox": [
+        327.0,
+        220.0,
+        886.0,
+        572.0
+      ],
+      "contentBox": [
+        32,
+        62,
+        600.0,
+        387.35891647855533
+      ],
+      "sha256": "7da9cffa199cbd99513e9d167285e5330d24608202f02acb37a5a1645b84ddc4"
+    },
+    {
+      "id": "world-1-agua",
+      "group": "Valle",
+      "motion": "Ondas cortas en el charco y hojas al viento; jarra quieta.",
+      "file": "lottie/world-1-agua.json",
+      "loop": true,
+      "seconds": 6.0,
+      "fps": 30,
+      "size": [
+        664,
+        384
+      ],
+      "bytes": 120061,
+      "sourceBox": [
+        330.0,
+        307.0,
+        850.0,
+        452.0
+      ],
+      "contentBox": [
+        32,
+        32,
+        600.0,
+        319.05882352941177
+      ],
+      "sha256": "07c016c14ede20ca3d557a8dda5acb6696cf10f2ecedb843b6faa0729d187726"
+    },
+    {
+      "id": "world-1-colinas",
+      "group": "Valle",
+      "motion": "El conejo mueve las orejas; el paisaje permanece fijo.",
+      "file": "lottie/world-1-colinas.json",
+      "loop": true,
+      "seconds": 6.0,
+      "fps": 30,
+      "size": [
+        664,
+        496
+      ],
+      "bytes": 117815,
+      "sourceBox": [
+        156.0,
+        278.0,
+        960.0,
+        690.0
+      ],
+      "contentBox": [
+        32,
+        32,
+        600.0,
+        431.25
+      ],
+      "sha256": "0d36ee4f9b8e589d4b7fc8b12fcc31cdcba654bc7ec4a92d803f08f41b4a3af0"
+    },
+    {
+      "id": "world-2-arboles",
+      "group": "Bosque",
+      "motion": "Las huellas marcan dos pasos suaves y las hojas se mecen.",
+      "file": "lottie/world-2-arboles.json",
+      "loop": true,
+      "seconds": 6.0,
+      "fps": 30,
+      "size": [
+        664,
+        651
+      ],
+      "bytes": 17490,
+      "sourceBox": [
+        344.0,
+        346.0,
+        571.0,
+        558.0
+      ],
+      "contentBox": [
+        32,
+        32,
+        600.0,
+        586.3397548161121
+      ],
+      "sha256": "6e30d5b3bb6b89aea4eb187ccc31c96d22fb0b62413c51fe231373df59974577"
+    },
+    {
+      "id": "world-2-vecino",
+      "group": "Bosque",
+      "motion": "La copa del árbol se mece; el cuy mueve levemente las orejas.",
+      "file": "lottie/world-2-vecino.json",
+      "loop": true,
+      "seconds": 6.0,
+      "fps": 30,
+      "size": [
+        643,
+        664
+      ],
+      "bytes": 182405,
+      "sourceBox": [
+        261.0,
+        235.0,
+        732.0,
+        759.0
+      ],
+      "contentBox": [
+        32,
+        32,
+        578.6561264822134,
+        600.0
+      ],
+      "sha256": "fddc884abffa41560ed55c10b81d9c47dbb2960d53c3cab4741396aa86d0c993"
+    },
+    {
+      "id": "world-2-hojas",
+      "group": "Bosque",
+      "motion": "Las tres hojas se inclinan a ritmos ligeramente distintos.",
+      "file": "lottie/world-2-hojas.json",
+      "loop": true,
+      "seconds": 6.0,
+      "fps": 30,
+      "size": [
+        664,
+        590
+      ],
+      "bytes": 68763,
+      "sourceBox": [
+        242.0,
+        282.0,
+        775.0,
+        679.0
+      ],
+      "contentBox": [
+        32,
+        32,
+        600.0,
+        525.6774193548387
+      ],
+      "sha256": "37c145b43665bb386b751d9bca85c3ebc77334e65258ebff31d9a30f1453f913"
+    },
+    {
+      "id": "world-2-puente",
+      "group": "Bosque",
+      "motion": "Viento en los arbustos; el puente conserva su forma.",
+      "file": "lottie/world-2-puente.json",
+      "loop": true,
+      "seconds": 6.0,
+      "fps": 30,
+      "size": [
+        664,
+        237
+      ],
+      "bytes": 34197,
+      "sourceBox": [
+        176.64000000000001,
+        347.91854233654874,
+        1182.72,
+        339.1382636655949
+      ],
+      "contentBox": [
+        32,
+        32,
+        600.0,
+        172.04660291477012
+      ],
+      "sha256": "3c8f35a3ff76091a453fef5394ec7aa7dc6a4f902c55d59420bcd6cdbabfd2be"
+    },
+    {
+      "id": "world-3-hogar",
+      "group": "Pueblo",
+      "motion": "Humo discreto en la chimenea y hojas junto a la entrada.",
+      "file": "lottie/world-3-hogar.json",
+      "loop": true,
+      "seconds": 6.0,
+      "fps": 30,
+      "size": [
+        664,
+        564
+      ],
+      "bytes": 219207,
+      "sourceBox": [
+        169.0,
+        263.0,
+        905.0,
+        708.0
+      ],
+      "contentBox": [
+        32,
+        62,
+        600.0,
+        469.3922651933701
+      ],
+      "sha256": "286133a5b79c6c98dc31e05909766936a7740c64b1cec9dab3c2499a0fa59f59"
+    },
+    {
+      "id": "world-3-rincon",
+      "group": "Pueblo",
+      "motion": "La planta se balancea junto al rincón de lectura; silla y libro quietos.",
+      "file": "lottie/world-3-rincon.json",
+      "loop": true,
+      "seconds": 6.0,
+      "fps": 30,
+      "size": [
+        664,
+        631
+      ],
+      "bytes": 38508,
+      "sourceBox": [
+        264.0,
+        245.0,
+        815.0,
+        769.0
+      ],
+      "contentBox": [
+        32,
+        32,
+        600.0,
+        566.1349693251534
+      ],
+      "sha256": "77aa980ea22e418ff2eeca4818ac6429b8067f733ba7ba30c045bf6c1d8dd23b"
+    },
+    {
+      "id": "world-3-mesa",
+      "group": "Pueblo",
+      "motion": "Vapor suave que sube de las dos tazas; mesa y asientos quietos.",
+      "file": "lottie/world-3-mesa.json",
+      "loop": true,
+      "seconds": 6.0,
+      "fps": 30,
+      "size": [
+        664,
+        457
+      ],
+      "bytes": 23569,
+      "sourceBox": [
+        262.0,
+        214.0,
+        1009.0,
+        610.0
+      ],
+      "contentBox": [
+        32,
+        62,
+        600.0,
+        362.7353815659069
+      ],
+      "sha256": "993668f2f8a36b669754fb653ce605b20ac8bc8af560409c4e3a8ef24f8058ed"
+    },
+    {
+      "id": "world-3-plazuela",
+      "group": "Pueblo",
+      "motion": "Las flores se inclinan y las hojas acompañan al viento.",
+      "file": "lottie/world-3-plazuela.json",
+      "loop": true,
+      "seconds": 6.0,
+      "fps": 30,
+      "size": [
+        664,
+        327
+      ],
+      "bytes": 326780,
+      "sourceBox": [
+        186.0,
+        258.0,
+        1173.0,
+        514.0
+      ],
+      "contentBox": [
+        32,
+        32,
+        600.0,
+        262.9156010230179
+      ],
+      "sha256": "804a8f893181c1703aaecb857e4927c83cc34e38597edb621ab789f8c68b9220"
+    },
+    {
+      "id": "world-4-canasta",
+      "group": "Mercado",
+      "motion": "Las hojas de las frutas se mueven sobre una canasta estable.",
+      "file": "lottie/world-4-canasta.json",
+      "loop": true,
+      "seconds": 6.0,
+      "fps": 30,
+      "size": [
+        664,
+        591
+      ],
+      "bytes": 84136,
+      "sourceBox": [
+        203.0,
+        247.0,
+        852.0,
+        748.0
+      ],
+      "contentBox": [
+        32,
+        32,
+        600.0,
+        526.7605633802816
+      ],
+      "sha256": "1fa1bceeb8162a13294dc8618fe6cdfdf2c80668f714d2c22f93c483a6451729"
+    },
+    {
+      "id": "world-4-puesto-tazas",
+      "group": "Mercado",
+      "motion": "El borde del toldo ondula; una taza suelta un poco de vapor.",
+      "file": "lottie/world-4-puesto-tazas.json",
+      "loop": true,
+      "seconds": 6.0,
+      "fps": 30,
+      "size": [
+        664,
+        578
+      ],
+      "bytes": 1451758,
+      "sourceBox": [
+        167.0,
+        257.0,
+        924.0,
+        744.0
+      ],
+      "contentBox": [
+        32,
+        62,
+        600.0,
+        483.1168831168831
+      ],
+      "sha256": "08026ffab0edf759f5539fca7f3630c5daa308416ed74774dd2056422f1ba004"
+    },
+    {
+      "id": "world-4-verduras",
+      "group": "Mercado",
+      "motion": "Las hojas de los productos se mueven; cajones estables.",
+      "file": "lottie/world-4-verduras.json",
+      "loop": true,
+      "seconds": 6.0,
+      "fps": 30,
+      "size": [
+        664,
+        386
+      ],
+      "bytes": 76692,
+      "sourceBox": [
+        158.0,
+        362.0,
+        942.0,
+        505.0
+      ],
+      "contentBox": [
+        32,
+        32,
+        600.0,
+        321.656050955414
+      ],
+      "sha256": "8c3a84ebb681759b456da5921ec0cb885fa8c9fdf9d1c8bd40b3f706ddc44360"
+    },
+    {
+      "id": "world-4-puesto-flores",
+      "group": "Mercado",
+      "motion": "Toldo, flor y hojas con viento leve; estructura fija.",
+      "file": "lottie/world-4-puesto-flores.json",
+      "loop": true,
+      "seconds": 6.0,
+      "fps": 30,
+      "size": [
+        664,
+        554
+      ],
+      "bytes": 297661,
+      "sourceBox": [
+        222.0,
+        279.0,
+        872.0,
+        712.0
+      ],
+      "contentBox": [
+        32,
+        32,
+        600.0,
+        489.9082568807339
+      ],
+      "sha256": "b79f8036739c24026db9b1c4c2a6e53c432e25ec00f0626daaec6dce130fea3b"
+    },
+    {
+      "id": "world-5-flores",
+      "group": "Jardín",
+      "motion": "Las dos flores se mecen desde sus tallos con pequeño desfase.",
+      "file": "lottie/world-5-flores.json",
+      "loop": true,
+      "seconds": 6.0,
+      "fps": 30,
+      "size": [
+        664,
+        651
+      ],
+      "bytes": 663298,
+      "sourceBox": [
+        244.0,
+        254.0,
+        751.0,
+        734.0
+      ],
+      "contentBox": [
+        32,
+        32,
+        600.0,
+        586.4181091877497
+      ],
+      "sha256": "3d728e7862d5b955cb1eeb47045d2de382c33e4e73a5639926ede0bdf0c760b6"
+    },
+    {
+      "id": "world-5-macetas",
+      "group": "Jardín",
+      "motion": "Hojas al viento; macetas apoyadas y quietas.",
+      "file": "lottie/world-5-macetas.json",
+      "loop": true,
+      "seconds": 6.0,
+      "fps": 30,
+      "size": [
+        664,
+        589
+      ],
+      "bytes": 51031,
+      "sourceBox": [
+        388.0,
+        189.0,
+        765.0,
+        669.0
+      ],
+      "contentBox": [
+        32,
+        32,
+        600.0,
+        524.7058823529412
+      ],
+      "sha256": "01ef6a0120fdfd80dc1dc2467344a97ff4a9f9f86aa5fe339177256d0347d11f"
+    },
+    {
+      "id": "world-5-hojas",
+      "group": "Jardín",
+      "motion": "La mariposa aletea mientras las hojas se inclinan.",
+      "file": "lottie/world-5-hojas.json",
+      "loop": true,
+      "seconds": 6.0,
+      "fps": 30,
+      "size": [
+        664,
+        558
+      ],
+      "bytes": 325371,
+      "sourceBox": [
+        317.0,
+        137.0,
+        905.0,
+        744.0
+      ],
+      "contentBox": [
+        32,
+        32,
+        600.0,
+        493.2596685082873
+      ],
+      "sha256": "50239f7bce434e05a6be7abf58f7d3f3eed0137df2f57490dcdf21a786197a01"
+    },
+    {
+      "id": "world-5-arco",
+      "group": "Jardín",
+      "motion": "Hojas en el arco y en su base; el arco no se deforma.",
+      "file": "lottie/world-5-arco.json",
+      "loop": true,
+      "seconds": 6.0,
+      "fps": 30,
+      "size": [
+        664,
+        565
+      ],
+      "bytes": 190243,
+      "sourceBox": [
+        172.0,
+        227.0,
+        914.0,
+        763.0
+      ],
+      "contentBox": [
+        32,
+        32,
+        600.0,
+        500.87527352297593
+      ],
+      "sha256": "91a01ea0b053a34b4f60be41562d6c0d5256e2ef1d6310e114cd21bbffeec68e"
+    },
+    {
+      "id": "world-6-banco",
+      "group": "Plaza",
+      "motion": "Viento en la copa y el arbusto; banco y tronco firmes.",
+      "file": "lottie/world-6-banco.json",
+      "loop": true,
+      "seconds": 6.0,
+      "fps": 30,
+      "size": [
+        628,
+        664
+      ],
+      "bytes": 60204,
+      "sourceBox": [
+        291.0,
+        150.0,
+        796.0,
+        848.0
+      ],
+      "contentBox": [
+        32,
+        32,
+        563.2075471698113,
+        600.0
+      ],
+      "sha256": "74391626949d0d034dba5876f700743350ce0a42cfb0ad967aaf8c03e41ac68a"
+    },
+    {
+      "id": "world-6-encuentro",
+      "group": "Plaza",
+      "motion": "Los dos personajes saludan con su mano levantada.",
+      "file": "lottie/world-6-encuentro.json",
+      "loop": true,
+      "seconds": 6.0,
+      "fps": 30,
+      "size": [
+        664,
+        525
+      ],
+      "bytes": 1284443,
+      "sourceBox": [
+        273.0,
+        127.0,
+        996.0,
+        765.0
+      ],
+      "contentBox": [
+        32,
+        32,
+        600.0,
+        460.84337349397595
+      ],
+      "sha256": "d94256480aa2695768f9bf6b5d6356cd7b30fce1b5a5115e178a4da5cb43471c"
+    },
+    {
+      "id": "world-6-mesa",
+      "group": "Plaza",
+      "motion": "Los arbustos se mecen alrededor de la mesa; muebles quietos.",
+      "file": "lottie/world-6-mesa.json",
+      "loop": true,
+      "seconds": 6.0,
+      "fps": 30,
+      "size": [
+        664,
+        393
+      ],
+      "bytes": 65932,
+      "sourceBox": [
+        268.0,
+        254.0,
+        980.0,
+        537.0
+      ],
+      "contentBox": [
+        32,
+        32,
+        600.0,
+        328.7755102040816
+      ],
+      "sha256": "a11ecd0edd86c67819c1421a58b93593bf57412d6eb4469c152dd230afa4b425"
+    },
+    {
+      "id": "world-6-meta",
+      "group": "Plaza",
+      "motion": "La bandera ondea y los arbustos se mueven suavemente.",
+      "file": "lottie/world-6-meta.json",
+      "loop": true,
+      "seconds": 6.0,
+      "fps": 30,
+      "size": [
+        664,
+        564
+      ],
+      "bytes": 230688,
+      "sourceBox": [
+        121.0,
+        203.0,
+        1019.0,
+        848.0
+      ],
+      "contentBox": [
+        32,
+        32,
+        600.0,
+        499.3130520117762
+      ],
+      "sha256": "38fcf5a47dcbcbb17c62e50d696a71cbe8df1cf5efee5b6a26857e71c8e79675"
+    },
+    {
+      "id": "libro-repaso",
+      "group": "Libros",
+      "motion": "Dos páginas pasan de derecha a izquierda; hojas laterales suaves.",
+      "file": "lottie/libro-repaso.json",
+      "loop": true,
+      "seconds": 6.0,
+      "fps": 30,
+      "size": [
+        664,
+        312
+      ],
+      "bytes": 43509,
+      "sourceBox": [
+        182.0,
+        179.0,
+        1237.0,
+        511.0
+      ],
+      "contentBox": [
+        32,
+        32,
+        600.0,
+        247.85772029102668
+      ],
+      "sha256": "3f63faf4088423b2036ab0aa02eecacba51d7eb58c56f9c6d689a58e6bff0ea4"
+    },
+    {
+      "id": "coleccion-vacia",
+      "group": "Libros",
+      "motion": "Una página pasa y el brote del libro se mece.",
+      "file": "lottie/coleccion-vacia.json",
+      "loop": true,
+      "seconds": 6.0,
+      "fps": 30,
+      "size": [
+        664,
+        367
+      ],
+      "bytes": 57824,
+      "sourceBox": [
+        204.0,
+        214.0,
+        1135.0,
+        572.0
+      ],
+      "contentBox": [
+        32,
+        32,
+        600.0,
+        302.3788546255507
+      ],
+      "sha256": "f548d6cea29c07b7da50ed56e299cfeaed7052596142ba814b60d87ac0651207"
+    },
+    {
+      "id": "vocab-libro",
+      "group": "Libros",
+      "motion": "La tapa se entreabre ligeramente y vuelve a cerrarse.",
+      "file": "lottie/vocab-libro.json",
+      "loop": true,
+      "seconds": 6.0,
+      "fps": 30,
+      "size": [
+        595,
+        664
+      ],
+      "bytes": 82747,
+      "sourceBox": [
+        260.0,
+        124.0,
+        829.0,
+        938.0
+      ],
+      "contentBox": [
+        32,
+        32,
+        530.2771855010661,
+        600.0
+      ],
+      "sha256": "1a904467722c689d6f3b38a9612988a7878e5b6c3d69b32498751610e78b9aaa"
+    },
+    {
+      "id": "confeti-nivel-completado",
+      "group": "Celebración",
+      "motion": "Ráfaga de 72 papelitos desde ambos lados, giro y caída. Termina transparente.",
+      "file": "lottie/confeti-nivel-completado.json",
+      "loop": false,
+      "seconds": 4.4,
+      "fps": 30,
+      "size": [
+        390,
+        844
+      ],
+      "bytes": 314026,
+      "sha256": "3120476703852efebcf44df3e4891af79d63878dafdeac07508d1f73ac196220"
+    }
+  ],
+  "previousAnimations": [
+    {
+      "id": "muni-bienvenida",
+      "file": "anteriores/muni-bienvenida.json",
+      "size": [
+        819,
+        1188
+      ],
+      "contentBox": [
+        60,
+        60,
+        699,
+        1068
+      ],
+      "loop": true,
+      "seconds": 6.0,
+      "fps": 30,
+      "bytes": 99978,
+      "usage": "Personaje de bienvenida: saludo y parpadeo.",
+      "sha256": "efbb58a549b751a3ecdf4745f2833c8ba65662db101e1a3c6e31cc61275fbc2f"
+    },
+    {
+      "id": "brote-viento",
+      "file": "anteriores/brote-viento.json",
+      "size": [
+        818,
+        642
+      ],
+      "contentBox": [
+        60,
+        60,
+        698,
+        522
+      ],
+      "loop": true,
+      "seconds": 4.8,
+      "fps": 30,
+      "bytes": 44491,
+      "usage": "Brote grande en la pantalla de objetivo.",
+      "sha256": "01a7962bae011dd07350115490fffafd7ba0f392183690a98034527d35f735bf"
+    }
+  ],
+  "version": 2,
+  "newAnimationCount": 28,
+  "nativeAppIntegrated": false
+}

@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "Muni",
+    "slug": "muni",
+    "version": "1.0.0",
+    "scheme": "muni",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "icon": "./assets/derived/icon-v1.png",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "bo.muni.app",
+      "buildNumber": "1"
+    },
+    "android": {
+      "package": "bo.muni.app",
+      "blockedPermissions": [
+        "android.permission.RECORD_AUDIO",
+        "android.permission.READ_MEDIA_AUDIO"
+      ],
+      "versionCode": 1
+    },
+    "web": {
+      "bundler": "metro",
+      "name": "Muni"
+    },
+    "backgroundColor": "#285931",
+    "plugins": [
+      "expo-font",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#285931",
+          "image": "./assets/derived/splash-logo.png",
+          "imageWidth": 210,
+          "resizeMode": "contain"
+        }
+      ]
+    ]
+  }
+}

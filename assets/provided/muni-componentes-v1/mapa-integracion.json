@@ -1,0 +1,493 @@
+{
+  "version": 1,
+  "figmaFile": "D8rKdzc1cwuRucWjWd4y8L",
+  "assetsDirectory": "svg",
+  "slots": {
+    "landscape": {
+      "assetId": "fondo-bienvenida",
+      "file": "svg/fondo-bienvenida.svg",
+      "registry": "illustrationAssets"
+    },
+    "world-1-portal": {
+      "assetId": "world-1-portal",
+      "file": "svg/world-1-portal.svg",
+      "registry": "illustrationAssets"
+    },
+    "mission-1": {
+      "assetId": "world-1-portal",
+      "file": "svg/world-1-portal.svg",
+      "registry": "illustrationAssets"
+    },
+    "world-1-casa": {
+      "assetId": "world-1-casa",
+      "file": "svg/world-1-casa.svg",
+      "registry": "illustrationAssets"
+    },
+    "mission-2": {
+      "assetId": "world-1-casa",
+      "file": "svg/world-1-casa.svg",
+      "registry": "illustrationAssets"
+    },
+    "world-1-agua": {
+      "assetId": "world-1-agua",
+      "file": "svg/world-1-agua.svg",
+      "registry": "illustrationAssets"
+    },
+    "mission-3": {
+      "assetId": "world-1-agua",
+      "file": "svg/world-1-agua.svg",
+      "registry": "illustrationAssets"
+    },
+    "world-1-colinas": {
+      "assetId": "world-1-colinas",
+      "file": "svg/world-1-colinas.svg",
+      "registry": "illustrationAssets"
+    },
+    "mission-4": {
+      "assetId": "world-1-colinas",
+      "file": "svg/world-1-colinas.svg",
+      "registry": "illustrationAssets"
+    },
+    "world-2-arboles": {
+      "assetId": "world-2-arboles",
+      "file": "svg/world-2-arboles.svg",
+      "registry": "illustrationAssets"
+    },
+    "mission-5": {
+      "assetId": "world-2-arboles",
+      "file": "svg/world-2-arboles.svg",
+      "registry": "illustrationAssets"
+    },
+    "world-2-vecino": {
+      "assetId": "world-2-vecino",
+      "file": "svg/world-2-vecino.svg",
+      "registry": "illustrationAssets"
+    },
+    "mission-6": {
+      "assetId": "world-2-vecino",
+      "file": "svg/world-2-vecino.svg",
+      "registry": "illustrationAssets"
+    },
+    "world-2-hojas": {
+      "assetId": "world-2-hojas",
+      "file": "svg/world-2-hojas.svg",
+      "registry": "illustrationAssets"
+    },
+    "mission-7": {
+      "assetId": "world-2-hojas",
+      "file": "svg/world-2-hojas.svg",
+      "registry": "illustrationAssets"
+    },
+    "world-2-puente": {
+      "assetId": "world-2-puente",
+      "file": "svg/world-2-puente.svg",
+      "registry": "illustrationAssets"
+    },
+    "mission-8": {
+      "assetId": "world-2-puente",
+      "file": "svg/world-2-puente.svg",
+      "registry": "illustrationAssets"
+    },
+    "world-3-hogar": {
+      "assetId": "world-3-hogar",
+      "file": "svg/world-3-hogar.svg",
+      "registry": "illustrationAssets"
+    },
+    "mission-9": {
+      "assetId": "world-3-hogar",
+      "file": "svg/world-3-hogar.svg",
+      "registry": "illustrationAssets"
+    },
+    "world-3-rincon": {
+      "assetId": "world-3-rincon",
+      "file": "svg/world-3-rincon.svg",
+      "registry": "illustrationAssets"
+    },
+    "mission-10": {
+      "assetId": "world-3-rincon",
+      "file": "svg/world-3-rincon.svg",
+      "registry": "illustrationAssets"
+    },
+    "world-3-mesa": {
+      "assetId": "world-3-mesa",
+      "file": "svg/world-3-mesa.svg",
+      "registry": "illustrationAssets"
+    },
+    "mission-11": {
+      "assetId": "world-3-mesa",
+      "file": "svg/world-3-mesa.svg",
+      "registry": "illustrationAssets"
+    },
+    "world-3-plazuela": {
+      "assetId": "world-3-plazuela",
+      "file": "svg/world-3-plazuela.svg",
+      "registry": "illustrationAssets"
+    },
+    "mission-12": {
+      "assetId": "world-3-plazuela",
+      "file": "svg/world-3-plazuela.svg",
+      "registry": "illustrationAssets"
+    },
+    "world-4-canasta": {
+      "assetId": "world-4-canasta",
+      "file": "svg/world-4-canasta.svg",
+      "registry": "illustrationAssets"
+    },
+    "mission-13": {
+      "assetId": "world-4-canasta",
+      "file": "svg/world-4-canasta.svg",
+      "registry": "illustrationAssets"
+    },
+    "world-4-puesto-tazas": {
+      "assetId": "world-4-puesto-tazas",
+      "file": "svg/world-4-puesto-tazas.svg",
+      "registry": "illustrationAssets"
+    },
+    "mission-14": {
+      "assetId": "world-4-puesto-tazas",
+      "file": "svg/world-4-puesto-tazas.svg",
+      "registry": "illustrationAssets"
+    },
+    "world-4-verduras": {
+      "assetId": "world-4-verduras",
+      "file": "svg/world-4-verduras.svg",
+      "registry": "illustrationAssets"
+    },
+    "mission-15": {
+      "assetId": "world-4-verduras",
+      "file": "svg/world-4-verduras.svg",
+      "registry": "illustrationAssets"
+    },
+    "world-4-puesto-flores": {
+      "assetId": "world-4-puesto-flores",
+      "file": "svg/world-4-puesto-flores.svg",
+      "registry": "illustrationAssets"
+    },
+    "mission-16": {
+      "assetId": "world-4-puesto-flores",
+      "file": "svg/world-4-puesto-flores.svg",
+      "registry": "illustrationAssets"
+    },
+    "world-5-flores": {
+      "assetId": "world-5-flores",
+      "file": "svg/world-5-flores.svg",
+      "registry": "illustrationAssets"
+    },
+    "mission-17": {
+      "assetId": "world-5-flores",
+      "file": "svg/world-5-flores.svg",
+      "registry": "illustrationAssets"
+    },
+    "world-5-macetas": {
+      "assetId": "world-5-macetas",
+      "file": "svg/world-5-macetas.svg",
+      "registry": "illustrationAssets"
+    },
+    "mission-18": {
+      "assetId": "world-5-macetas",
+      "file": "svg/world-5-macetas.svg",
+      "registry": "illustrationAssets"
+    },
+    "world-5-hojas": {
+      "assetId": "world-5-hojas",
+      "file": "svg/world-5-hojas.svg",
+      "registry": "illustrationAssets"
+    },
+    "mission-19": {
+      "assetId": "world-5-hojas",
+      "file": "svg/world-5-hojas.svg",
+      "registry": "illustrationAssets"
+    },
+    "world-5-arco": {
+      "assetId": "world-5-arco",
+      "file": "svg/world-5-arco.svg",
+      "registry": "illustrationAssets"
+    },
+    "mission-20": {
+      "assetId": "world-5-arco",
+      "file": "svg/world-5-arco.svg",
+      "registry": "illustrationAssets"
+    },
+    "world-6-banco": {
+      "assetId": "world-6-banco",
+      "file": "svg/world-6-banco.svg",
+      "registry": "illustrationAssets"
+    },
+    "mission-21": {
+      "assetId": "world-6-banco",
+      "file": "svg/world-6-banco.svg",
+      "registry": "illustrationAssets"
+    },
+    "world-6-encuentro": {
+      "assetId": "world-6-encuentro",
+      "file": "svg/world-6-encuentro.svg",
+      "registry": "illustrationAssets"
+    },
+    "mission-22": {
+      "assetId": "world-6-encuentro",
+      "file": "svg/world-6-encuentro.svg",
+      "registry": "illustrationAssets"
+    },
+    "world-6-mesa": {
+      "assetId": "world-6-mesa",
+      "file": "svg/world-6-mesa.svg",
+      "registry": "illustrationAssets"
+    },
+    "mission-23": {
+      "assetId": "world-6-mesa",
+      "file": "svg/world-6-mesa.svg",
+      "registry": "illustrationAssets"
+    },
+    "world-6-meta": {
+      "assetId": "world-6-meta",
+      "file": "svg/world-6-meta.svg",
+      "registry": "illustrationAssets"
+    },
+    "mission-24": {
+      "assetId": "world-6-meta",
+      "file": "svg/world-6-meta.svg",
+      "registry": "illustrationAssets"
+    },
+    "wasi": {
+      "assetId": "vocab-casa",
+      "file": "svg/vocab-casa.svg",
+      "registry": "illustrationAssets"
+    },
+    "inti": {
+      "assetId": "vocab-sol",
+      "file": "svg/vocab-sol.svg",
+      "registry": "illustrationAssets"
+    },
+    "yaku": {
+      "assetId": "vocab-agua",
+      "file": "svg/vocab-agua.svg",
+      "registry": "illustrationAssets"
+    },
+    "urqu": {
+      "assetId": "vocab-cerro",
+      "file": "svg/vocab-cerro.svg",
+      "registry": "illustrationAssets"
+    },
+    "mayu": {
+      "assetId": "vocab-rio",
+      "file": "svg/vocab-rio.svg",
+      "registry": "illustrationAssets"
+    },
+    "rumi": {
+      "assetId": "vocab-piedra",
+      "file": "svg/vocab-piedra.svg",
+      "registry": "illustrationAssets"
+    },
+    "killa": {
+      "assetId": "vocab-luna",
+      "file": "svg/vocab-luna.svg",
+      "registry": "illustrationAssets"
+    },
+    "wayra": {
+      "assetId": "vocab-viento",
+      "file": "svg/vocab-viento.svg",
+      "registry": "illustrationAssets"
+    },
+    "sach'a": {
+      "assetId": "vocab-arbol",
+      "file": "svg/vocab-arbol.svg",
+      "registry": "illustrationAssets"
+    },
+    "allqu": {
+      "assetId": "vocab-perro",
+      "file": "svg/vocab-perro.svg",
+      "registry": "illustrationAssets"
+    },
+    "misi": {
+      "assetId": "vocab-gato",
+      "file": "svg/vocab-gato.svg",
+      "registry": "illustrationAssets"
+    },
+    "challwa": {
+      "assetId": "vocab-pez",
+      "file": "svg/vocab-pez.svg",
+      "registry": "illustrationAssets"
+    },
+    "t'ika": {
+      "assetId": "vocab-flor",
+      "file": "svg/vocab-flor.svg",
+      "registry": "illustrationAssets"
+    },
+    "raphi": {
+      "assetId": "vocab-hoja",
+      "file": "svg/vocab-hoja.svg",
+      "registry": "illustrationAssets"
+    },
+    "p'isqu": {
+      "assetId": "vocab-pajaro",
+      "file": "svg/vocab-pajaro.svg",
+      "registry": "illustrationAssets"
+    },
+    "llama": {
+      "assetId": "vocab-llama",
+      "file": "svg/vocab-llama.svg",
+      "registry": "illustrationAssets"
+    },
+    "punku": {
+      "assetId": "vocab-puerta",
+      "file": "svg/vocab-puerta.svg",
+      "registry": "illustrationAssets"
+    },
+    "tiyana": {
+      "assetId": "vocab-silla",
+      "file": "svg/vocab-silla.svg",
+      "registry": "illustrationAssets"
+    },
+    "misa": {
+      "assetId": "vocab-mesa",
+      "file": "svg/vocab-mesa.svg",
+      "registry": "illustrationAssets"
+    },
+    "qiru": {
+      "assetId": "vocab-vaso-madera",
+      "file": "svg/vocab-vaso-madera.svg",
+      "registry": "illustrationAssets"
+    },
+    "wislla": {
+      "assetId": "vocab-cucharon",
+      "file": "svg/vocab-cucharon.svg",
+      "registry": "illustrationAssets"
+    },
+    "p'anqa": {
+      "assetId": "vocab-libro",
+      "file": "svg/vocab-libro.svg",
+      "registry": "illustrationAssets"
+    },
+    "pause-book": {
+      "assetId": "vocab-libro",
+      "file": "svg/vocab-libro.svg",
+      "registry": "illustrationAssets"
+    },
+    "qillqana": {
+      "assetId": "vocab-lapiz",
+      "file": "svg/vocab-lapiz.svg",
+      "registry": "illustrationAssets"
+    },
+    "Quechua": {
+      "assetId": "idioma-quechua",
+      "file": "svg/idioma-quechua.svg",
+      "registry": "illustrationAssets"
+    },
+    "Aymara": {
+      "assetId": "idioma-aymara",
+      "file": "svg/idioma-aymara.svg",
+      "registry": "illustrationAssets"
+    },
+    "review-book": {
+      "assetId": "libro-repaso",
+      "file": "svg/libro-repaso.svg",
+      "registry": "illustrationAssets"
+    },
+    "empty-collection": {
+      "assetId": "coleccion-vacia",
+      "file": "svg/coleccion-vacia.svg",
+      "registry": "illustrationAssets"
+    },
+    "backpack": {
+      "assetId": "mochila",
+      "file": "svg/mochila.svg",
+      "registry": "illustrationAssets"
+    },
+    "valley-bag": {
+      "assetId": "bolsa-valle",
+      "file": "svg/bolsa-valle.svg",
+      "registry": "illustrationAssets"
+    },
+    "juk": {
+      "assetId": "cantidad-01",
+      "file": "svg/cantidad-01.svg",
+      "registry": "illustrationAssets"
+    },
+    "iskay": {
+      "assetId": "cantidad-02",
+      "file": "svg/cantidad-02.svg",
+      "registry": "illustrationAssets"
+    },
+    "kimsa": {
+      "assetId": "cantidad-03",
+      "file": "svg/cantidad-03.svg",
+      "registry": "illustrationAssets"
+    },
+    "tawa": {
+      "assetId": "cantidad-04",
+      "file": "svg/cantidad-04.svg",
+      "registry": "illustrationAssets"
+    },
+    "phichqa": {
+      "assetId": "cantidad-05",
+      "file": "svg/cantidad-05.svg",
+      "registry": "illustrationAssets"
+    },
+    "suqta": {
+      "assetId": "cantidad-06",
+      "file": "svg/cantidad-06.svg",
+      "registry": "illustrationAssets"
+    },
+    "qanchis": {
+      "assetId": "cantidad-07",
+      "file": "svg/cantidad-07.svg",
+      "registry": "illustrationAssets"
+    },
+    "pusaq": {
+      "assetId": "cantidad-08",
+      "file": "svg/cantidad-08.svg",
+      "registry": "illustrationAssets"
+    },
+    "jisq'un": {
+      "assetId": "cantidad-09",
+      "file": "svg/cantidad-09.svg",
+      "registry": "illustrationAssets"
+    },
+    "chunka": {
+      "assetId": "cantidad-10",
+      "file": "svg/cantidad-10.svg",
+      "registry": "illustrationAssets"
+    },
+    "success": {
+      "assetId": "muni-exito",
+      "file": "svg/muni-exito.svg",
+      "registry": "characterStates"
+    },
+    "error": {
+      "assetId": "muni-error",
+      "file": "svg/muni-error.svg",
+      "registry": "characterStates"
+    }
+  },
+  "extras": [
+    "sobre",
+    "llave",
+    "brote",
+    "planta-tres-hojas",
+    "rayitos-amarillos",
+    "jarra-terracota",
+    "jarra-caramelo",
+    "charco",
+    "ondas-agua",
+    "moneda-semilla",
+    "racha",
+    "corazon",
+    "corazon-descanso",
+    "brujula",
+    "bombilla",
+    "trofeo",
+    "confeti",
+    "conejo",
+    "cuy",
+    "mariposa",
+    "taza-roja",
+    "taza-turquesa",
+    "taburete",
+    "manzana",
+    "pera",
+    "maceta-roja",
+    "flor-turquesa",
+    "hoja-turquesa",
+    "hoja-dorada"
+  ]
+}

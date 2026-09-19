@@ -1,0 +1,289 @@
+[
+  {
+    "form": "urqu",
+    "meaningEs": "cerro",
+    "page": 242,
+    "region": "CHU, PTS",
+    "graphemes": ["u", "r", "q", "u"],
+    "category": "naturaleza",
+    "context": "Relieve del paisaje: cerro, colina o montaña. Se excluyen los otros sentidos de esta entrada."
+  },
+  {
+    "form": "mayu",
+    "meaningEs": "río",
+    "page": 124,
+    "region": "CHU, LPZ, PTS",
+    "graphemes": ["m", "a", "y", "u"],
+    "category": "naturaleza",
+    "context": "Curso de agua en el paisaje. No se usa aquí el sentido astronómico de Mayu."
+  },
+  {
+    "form": "rumi",
+    "meaningEs": "piedra",
+    "page": 198,
+    "region": "CHU, LPZ, PTS",
+    "graphemes": ["r", "u", "m", "i"],
+    "category": "naturaleza",
+    "context": "Una piedra como objeto concreto, sin atribuirle una especie mineral."
+  },
+  {
+    "form": "killa",
+    "meaningEs": "luna",
+    "page": 83,
+    "region": "CHU, LPZ",
+    "graphemes": ["k", "i", "ll", "a"],
+    "category": "naturaleza",
+    "context": "El astro del cielo. La misma entrada documenta mes; este curso practica solo el sentido luna."
+  },
+  {
+    "form": "wayra",
+    "meaningEs": "viento",
+    "page": 255,
+    "region": "CHU, LPZ, PTS",
+    "graphemes": ["w", "a", "y", "r", "a"],
+    "category": "naturaleza",
+    "context": "Movimiento del aire en el entorno. No se usan los sentidos relacionados con enfermedades."
+  },
+  {
+    "form": "sach'a",
+    "meaningEs": "árbol",
+    "page": 202,
+    "region": "CHU, LPZ, PTS",
+    "graphemes": ["s", "a", "ch'", "a"],
+    "category": "naturaleza",
+    "context": "Un árbol. La ficha ch' se mantiene unida; no se separa el apóstrofo ni se crea una frase nueva."
+  },
+  {
+    "form": "allqu",
+    "meaningEs": "perro",
+    "page": 10,
+    "region": "CHU",
+    "graphemes": ["a", "ll", "q", "u"],
+    "category": "animales",
+    "context": "Animal doméstico. Se excluyen los usos insultantes de otras acepciones."
+  },
+  {
+    "form": "misi",
+    "meaningEs": "gato",
+    "page": 127,
+    "region": "CBB, LPZ, PTS",
+    "graphemes": ["m", "i", "s", "i"],
+    "category": "animales",
+    "variants": [
+      {
+        "form": "michi",
+        "graphemes": ["m", "i", "ch", "i"],
+        "note": "Sinónimo remitido por CENAQ en la entrada misi. Se acepta sin reemplazar la forma base."
+      }
+    ],
+    "context": "Gato como animal. La fuente remite también a michi."
+  },
+  {
+    "form": "challwa",
+    "meaningEs": "pez",
+    "page": 24,
+    "region": "Bolivia; acepción pez sin marca regional menor",
+    "graphemes": ["ch", "a", "ll", "w", "a"],
+    "category": "animales",
+    "context": "Animal que vive en el agua. No se usa la acepción de una variedad de cebada ni la de pescado preparado."
+  },
+  {
+    "form": "t'ika",
+    "meaningEs": "flor",
+    "page": 234,
+    "region": "LPZ, PTS",
+    "graphemes": ["t'", "i", "k", "a"],
+    "category": "naturaleza",
+    "context": "Una flor. La consonante t' se conserva como una sola ficha."
+  },
+  {
+    "form": "raphi",
+    "meaningEs": "hoja de planta",
+    "page": 193,
+    "region": "LPZ",
+    "graphemes": ["r", "a", "ph", "i"],
+    "category": "naturaleza",
+    "context": "Hoja vegetal. La ilustración y los ejercicios excluyen la acepción hoja de papel."
+  },
+  {
+    "form": "p'isqu",
+    "meaningEs": "pájaro",
+    "page": 167,
+    "region": "CHU, LPZ, PTS",
+    "graphemes": ["p'", "i", "s", "q", "u"],
+    "category": "animales",
+    "context": "Pájaro como animal, sin identificar una especie. Se conserva la grafía del lema; la transcripción entre corchetes no se usa como variante ortográfica."
+  },
+  {
+    "form": "llama",
+    "meaningEs": "llama",
+    "page": 107,
+    "region": "LPZ, PTS",
+    "graphemes": ["ll", "a", "m", "a"],
+    "category": "animales",
+    "context": "Mamífero andino de cuello largo. No se confunde con la alpaca ni con una llama de fuego."
+  },
+  {
+    "form": "punku",
+    "meaningEs": "puerta",
+    "page": 156,
+    "region": "LPZ",
+    "graphemes": ["p", "u", "n", "k", "u"],
+    "category": "objetos",
+    "context": "Apertura de entrada con su puerta; no se usa el sentido histórico de pongo o sirviente."
+  },
+  {
+    "form": "tiyana",
+    "meaningEs": "asiento",
+    "page": 226,
+    "region": "CHU, LPZ, PTS",
+    "graphemes": ["t", "i", "y", "a", "n", "a"],
+    "category": "objetos",
+    "context": "Lugar para sentarse; se representa con una silla. Se excluye la acepción hábitat."
+  },
+  {
+    "form": "misa",
+    "meaningEs": "mesa de madera",
+    "page": 127,
+    "region": "LPZ; la fuente registra mesa en CHU y PTS",
+    "graphemes": ["m", "i", "s", "a"],
+    "category": "objetos",
+    "context": "Objeto de madera. Es un préstamo del castellano según la fuente. No se usa el significado ritual ni la ceremonia religiosa."
+  },
+  {
+    "form": "qiru",
+    "meaningEs": "vaso de madera",
+    "page": 173,
+    "region": "Bolivia; entrada sin marca regional menor",
+    "graphemes": ["q", "i", "r", "u"],
+    "category": "objetos",
+    "context": "Vaso de madera, no un vaso genérico de vidrio. La ilustración conserva ese material."
+  },
+  {
+    "form": "wislla",
+    "meaningEs": "cucharón de madera",
+    "page": 259,
+    "region": "CHU, LPZ",
+    "graphemes": ["w", "i", "s", "ll", "a"],
+    "category": "objetos",
+    "context": "Cucharón de madera para servir o revolver comida. No se traduce automáticamente como cuchara pequeña."
+  },
+  {
+    "form": "p'anqa",
+    "meaningEs": "libro",
+    "page": 166,
+    "region": "Bolivia; acepción marcada musuq (nueva)",
+    "graphemes": ["p'", "a", "n", "q", "a"],
+    "category": "objetos",
+    "context": "Uso contemporáneo para libro, documentado por CENAQ. La fuente lo distingue de la acepción hojas del choclo."
+  },
+  {
+    "form": "qillqana",
+    "meaningEs": "instrumento para escribir",
+    "page": 172,
+    "region": "LPZ",
+    "graphemes": ["q", "i", "ll", "q", "a", "n", "a"],
+    "category": "objetos",
+    "context": "Instrumento de escritura, como lápiz o bolígrafo. La ilustración muestra un lápiz; no se atribuye exclusividad a ese objeto."
+  },
+  {
+    "form": "juk",
+    "meaningEs": "uno",
+    "page": 70,
+    "region": "LPZ; lema CENAQ",
+    "graphemes": ["j", "u", "k"],
+    "category": "numeros",
+    "number": 1,
+    "context": "Número 1. Se practica el lema juk de CENAQ; no se mezclan automáticamente sus transcripciones o formas regionales."
+  },
+  {
+    "form": "iskay",
+    "meaningEs": "dos",
+    "page": 56,
+    "region": "CHU, LPZ",
+    "graphemes": ["i", "s", "k", "a", "y"],
+    "category": "numeros",
+    "number": 2,
+    "context": "Número 2, sin construir expresiones numéricas nuevas."
+  },
+  {
+    "form": "kimsa",
+    "meaningEs": "tres",
+    "page": 84,
+    "region": "CHU, LPZ",
+    "graphemes": ["k", "i", "m", "s", "a"],
+    "category": "numeros",
+    "number": 3,
+    "context": "Número 3. Se mantiene el lema kimsa; kinsa aparece como transcripción en la fuente."
+  },
+  {
+    "form": "tawa",
+    "meaningEs": "cuatro",
+    "page": 222,
+    "region": "CHU, LPZ, PTS",
+    "graphemes": ["t", "a", "w", "a"],
+    "category": "numeros",
+    "number": 4,
+    "context": "Número 4 como cantidad de objetos separados."
+  },
+  {
+    "form": "phichqa",
+    "meaningEs": "cinco",
+    "page": 161,
+    "region": "CHU, LPZ; lema CENAQ",
+    "graphemes": ["ph", "i", "ch", "q", "a"],
+    "category": "numeros",
+    "number": 5,
+    "context": "Número 5. Se mantiene el lema phichqa y las fichas ph y ch unidas."
+  },
+  {
+    "form": "suqta",
+    "meaningEs": "seis",
+    "page": 216,
+    "region": "CHU, PTS",
+    "graphemes": ["s", "u", "q", "t", "a"],
+    "category": "numeros",
+    "number": 6,
+    "context": "Número 6, sin combinarlo con otros nombres o cantidades en quechua."
+  },
+  {
+    "form": "qanchis",
+    "meaningEs": "siete",
+    "page": 170,
+    "region": "CHU, LPZ, PTS; lema CENAQ",
+    "graphemes": ["q", "a", "n", "ch", "i", "s"],
+    "category": "numeros",
+    "number": 7,
+    "context": "Número 7. Se utiliza el lema qanchis de la fuente, conservando ch como ficha."
+  },
+  {
+    "form": "pusaq",
+    "meaningEs": "ocho",
+    "page": 158,
+    "region": "LPZ",
+    "graphemes": ["p", "u", "s", "a", "q"],
+    "category": "numeros",
+    "number": 8,
+    "context": "Número 8. Se excluye la acepción guía de la misma entrada."
+  },
+  {
+    "form": "jisq'un",
+    "meaningEs": "nueve",
+    "page": 69,
+    "region": "CBB, CHU, LPZ, PTS; lema CENAQ",
+    "graphemes": ["j", "i", "s", "q'", "u", "n"],
+    "category": "numeros",
+    "number": 9,
+    "context": "Número 9. La ficha q' se mantiene unida y se conserva el apóstrofo del lema."
+  },
+  {
+    "form": "chunka",
+    "meaningEs": "diez",
+    "page": 34,
+    "region": "CHU",
+    "graphemes": ["ch", "u", "n", "k", "a"],
+    "category": "numeros",
+    "number": 10,
+    "context": "Número 10. No se generan números compuestos a partir de esta ficha."
+  }
+]

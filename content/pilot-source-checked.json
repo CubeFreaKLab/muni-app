@@ -1,0 +1,104 @@
+[
+  {
+    "id": "quh-bo-wasi",
+    "languagePackId": "quh-BO",
+    "form": "wasi",
+    "meaningEs": "casa",
+    "partOfSpeech": "noun",
+    "sources": [
+      {
+        "sourceId": "cenaq-dictionary",
+        "pdfPage1Based": 252,
+        "entry": "wasi"
+      },
+      {
+        "sourceId": "chile-quechua-third-grade",
+        "pdfPage1Based": 68,
+        "entry": "wasi"
+      }
+    ],
+    "reviewStatus": "source_checked",
+    "publishStatus": "draft",
+    "nativeSpeakerReviewed": false,
+    "audioAssetId": null,
+    "imageAssetId": null,
+    "graphemes": [
+      "w",
+      "a",
+      "s",
+      "i"
+    ],
+    "variants": [],
+    "usageNotes": "Presentar como palabra aislada con imagen inequívoca; no generar flexiones o frases nuevas desde esta ficha."
+  },
+  {
+    "id": "quh-bo-inti",
+    "languagePackId": "quh-BO",
+    "form": "inti",
+    "meaningEs": "sol",
+    "partOfSpeech": "noun",
+    "sources": [
+      {
+        "sourceId": "cenaq-dictionary",
+        "pdfPage1Based": 55,
+        "entry": "inti"
+      },
+      {
+        "sourceId": "chile-quechua-third-grade",
+        "pdfPage1Based": 113,
+        "entry": "inti"
+      }
+    ],
+    "reviewStatus": "source_checked",
+    "publishStatus": "draft",
+    "nativeSpeakerReviewed": false,
+    "audioAssetId": null,
+    "imageAssetId": null,
+    "graphemes": [
+      "i",
+      "n",
+      "t",
+      "i"
+    ],
+    "variants": [],
+    "usageNotes": "Presentar como palabra aislada con imagen inequívoca; no generar flexiones o frases nuevas desde esta ficha."
+  },
+  {
+    "id": "quh-bo-yaku",
+    "languagePackId": "quh-BO",
+    "form": "yaku",
+    "meaningEs": "agua",
+    "partOfSpeech": "noun",
+    "sources": [
+      {
+        "sourceId": "cenaq-dictionary",
+        "pdfPage1Based": 262,
+        "entry": "yaku"
+      },
+      {
+        "sourceId": "chile-quechua-third-grade",
+        "pdfPage1Based": 112,
+        "entry": "yaku"
+      }
+    ],
+    "reviewStatus": "source_checked",
+    "publishStatus": "draft",
+    "nativeSpeakerReviewed": false,
+    "audioAssetId": null,
+    "imageAssetId": null,
+    "graphemes": [
+      "y",
+      "a",
+      "k",
+      "u"
+    ],
+    "variants": [
+      {
+        "form": "unu",
+        "relation": "sinónimo documentado",
+        "policy": "Reconocer la variante en contexto; no penalizarla automáticamente."
+      }
+    ],
+    "usageNotes": "Presentar como palabra aislada con imagen inequívoca; no generar flexiones o frases nuevas desde esta ficha."
+  }
+]

@@ -1,0 +1,6 @@
+* text=auto
+assets/** -text
+*.ttf binary
+*.otf binary
+*.png binary
+*.wasm binary
